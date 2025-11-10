@@ -1,0 +1,6 @@
+vehicle_id,vehicle_type,capacity_kg,capacity_vol,fuel_efficiency_l_per_km,depot_latitude,depot_longitude,depot_name,cost_per_km,driver_name,available_from,available_until
+VEH_001,small_van,500,5,0.07,40.791587,-74.006,Warehouse 1,0.97,Driver_1,08:00,20:00
+VEH_002,small_van,500,5,0.07,40.791587,-74.006,Warehouse 1,0.87,Driver_2,08:00,20:00
+VEH_003,medium_truck,2000,15,0.1,40.791587,-74.006,Warehouse 1,0.93,Driver_3,08:00,20:00
+VEH_004,medium_truck,2000,15,0.1,40.791587,-74.006,Warehouse 1,1.45,Driver_4,08:00,20:00
+VEH_005,large_truck,5000,30,0.12,40.791587,-74.006,Warehouse 1,1.25,Driver_5,08:00,20:00

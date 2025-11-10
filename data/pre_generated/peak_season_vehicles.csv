@@ -1,0 +1,26 @@
+vehicle_id,vehicle_type,capacity_kg,capacity_vol,fuel_efficiency_l_per_km,depot_latitude,depot_longitude,depot_name,cost_per_km,driver_name,available_from,available_until
+VEH_001,small_van,500,5,0.07,40.666246,-73.89962,Warehouse 2,1.05,Driver_1,08:00,20:00
+VEH_002,small_van,500,5,0.07,40.666246,-73.89962,Warehouse 2,1.42,Driver_2,08:00,20:00
+VEH_003,small_van,500,5,0.07,40.646056,-74.158515,Warehouse 3,1.28,Driver_3,08:00,20:00
+VEH_004,small_van,500,5,0.07,40.786914,-74.006,Warehouse 1,0.9,Driver_4,08:00,20:00
+VEH_005,small_van,500,5,0.07,40.666246,-73.89962,Warehouse 2,1.21,Driver_5,08:00,20:00
+VEH_006,small_van,500,5,0.07,40.786914,-74.006,Warehouse 1,1.42,Driver_6,08:00,20:00
+VEH_007,small_van,500,5,0.07,40.786914,-74.006,Warehouse 1,1.29,Driver_7,08:00,20:00
+VEH_008,small_van,500,5,0.07,40.666246,-73.89962,Warehouse 2,0.9,Driver_8,08:00,20:00
+VEH_009,medium_truck,2000,15,0.1,40.666246,-73.89962,Warehouse 2,1.41,Driver_9,08:00,20:00
+VEH_010,medium_truck,2000,15,0.1,40.666246,-73.89962,Warehouse 2,1.01,Driver_10,08:00,20:00
+VEH_011,medium_truck,2000,15,0.1,40.786914,-74.006,Warehouse 1,1.12,Driver_11,08:00,20:00
+VEH_012,medium_truck,2000,15,0.1,40.666246,-73.89962,Warehouse 2,1.17,Driver_12,08:00,20:00
+VEH_013,medium_truck,2000,15,0.1,40.666246,-73.89962,Warehouse 2,1.4,Driver_13,08:00,20:00
+VEH_014,medium_truck,2000,15,0.1,40.666246,-73.89962,Warehouse 2,1.45,Driver_14,08:00,20:00
+VEH_015,medium_truck,2000,15,0.1,40.786914,-74.006,Warehouse 1,1.45,Driver_15,08:00,20:00
+VEH_016,medium_truck,2000,15,0.1,40.666246,-73.89962,Warehouse 2,0.81,Driver_16,08:00,20:00
+VEH_017,medium_truck,2000,15,0.1,40.646056,-74.158515,Warehouse 3,1.45,Driver_17,08:00,20:00
+VEH_018,medium_truck,2000,15,0.1,40.666246,-73.89962,Warehouse 2,0.84,Driver_18,08:00,20:00
+VEH_019,large_truck,5000,30,0.12,40.786914,-74.006,Warehouse 1,0.99,Driver_19,08:00,20:00
+VEH_020,large_truck,5000,30,0.12,40.646056,-74.158515,Warehouse 3,1.16,Driver_20,08:00,20:00
+VEH_021,large_truck,5000,30,0.12,40.786914,-74.006,Warehouse 1,1.14,Driver_21,08:00,20:00
+VEH_022,large_truck,5000,30,0.12,40.646056,-74.158515,Warehouse 3,1.22,Driver_22,08:00,20:00
+VEH_023,large_truck,5000,30,0.12,40.646056,-74.158515,Warehouse 3,1.14,Driver_23,08:00,20:00
+VEH_024,large_truck,5000,30,0.12,40.666246,-73.89962,Warehouse 2,1.45,Driver_24,08:00,20:00
+VEH_025,large_truck,5000,30,0.12,40.666246,-73.89962,Warehouse 2,0.97,Driver_25,08:00,20:00

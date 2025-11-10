@@ -1,0 +1,801 @@
+delivery_id,address,latitude,longitude,city
+DEL_0001,"1729 Washington St, San Francisco",40.650641,-73.952033,San Francisco
+DEL_0002,"479 Broadway, San Francisco",40.606156,-73.703095,San Francisco
+DEL_0003,"5350 Washington St, San Francisco",40.692334,-74.096943,San Francisco
+DEL_0004,"4594 5th Ave, San Francisco",40.546147,-73.94211,San Francisco
+DEL_0005,"4221 Market St, San Francisco",40.746513,-73.913668,San Francisco
+DEL_0006,"2017 Broadway, San Francisco",40.52771,-74.386614,San Francisco
+DEL_0007,"8758 Market St, San Francisco",40.825519,-73.653088,San Francisco
+DEL_0008,"1482 Madison Ave, San Francisco",40.527871,-73.628177,San Francisco
+DEL_0009,"3667 Elm St, San Francisco",40.763955,-74.007679,San Francisco
+DEL_0010,"9842 Park Ave, San Francisco",40.64117,-74.335111,San Francisco
+DEL_0011,"5624 Washington St, San Francisco",40.890769,-74.190368,San Francisco
+DEL_0012,"6253 Oak St, San Francisco",40.572294,-73.770211,San Francisco
+DEL_0013,"7160 5th Ave, San Francisco",40.373524,-74.368172,San Francisco
+DEL_0014,"3663 Lexington Ave, San Francisco",40.709533,-73.936284,San Francisco
+DEL_0015,"1896 Lexington Ave, San Francisco",40.80014,-74.07774,San Francisco
+DEL_0016,"1437 Park Ave, San Francisco",41.168722,-74.060172,San Francisco
+DEL_0017,"1461 Madison Ave, San Francisco",40.671217,-74.19545,San Francisco
+DEL_0018,"9703 5th Ave, San Francisco",40.735126,-73.859819,San Francisco
+DEL_0019,"1903 Elm St, San Francisco",40.929661,-74.360015,San Francisco
+DEL_0020,"6026 Broadway, San Francisco",40.668477,-73.899815,San Francisco
+DEL_0021,"5135 Washington St, San Francisco",40.818576,-74.004443,San Francisco
+DEL_0022,"9453 Main St, San Francisco",40.810534,-74.198297,San Francisco
+DEL_0023,"5093 Main St, San Francisco",40.993504,-73.770044,San Francisco
+DEL_0024,"9668 Oak St, San Francisco",40.470471,-74.261561,San Francisco
+DEL_0025,"3111 Washington St, San Francisco",40.524165,-73.844841,San Francisco
+DEL_0026,"6942 Madison Ave, San Francisco",40.481318,-74.084687,San Francisco
+DEL_0027,"5981 Broadway, San Francisco",40.794729,-74.021728,San Francisco
+DEL_0028,"8516 Elm St, San Francisco",40.759446,-74.25935,San Francisco
+DEL_0029,"9680 5th Ave, San Francisco",40.819981,-74.151766,San Francisco
+DEL_0030,"1747 Washington St, San Francisco",40.65431,-73.949489,San Francisco
+DEL_0031,"151 Oak St, San Francisco",40.731373,-74.0003,San Francisco
+DEL_0032,"7547 Madison Ave, San Francisco",40.577552,-74.077205,San Francisco
+DEL_0033,"2371 Lexington Ave, San Francisco",40.713193,-74.332869,San Francisco
+DEL_0034,"3587 Market St, San Francisco",40.629461,-73.913845,San Francisco
+DEL_0035,"7468 Broadway, San Francisco",40.482631,-73.731071,San Francisco
+DEL_0036,"9855 Lexington Ave, San Francisco",40.941559,-74.301983,San Francisco
+DEL_0037,"2390 Main St, San Francisco",40.957416,-74.040131,San Francisco
+DEL_0038,"9813 Madison Ave, San Francisco",40.788208,-74.124058,San Francisco
+DEL_0039,"5061 Oak St, San Francisco",40.879114,-73.909468,San Francisco
+DEL_0040,"2023 Lexington Ave, San Francisco",40.566106,-74.282978,San Francisco
+DEL_0041,"9404 Market St, San Francisco",40.449682,-73.961325,San Francisco
+DEL_0042,"3535 Market St, San Francisco",40.815948,-73.85126,San Francisco
+DEL_0043,"4776 Washington St, San Francisco",40.691542,-74.281028,San Francisco
+DEL_0044,"964 Madison Ave, San Francisco",40.589904,-73.732077,San Francisco
+DEL_0045,"2502 5th Ave, San Francisco",40.62548,-73.971908,San Francisco
+DEL_0046,"3688 Main St, San Francisco",40.518989,-73.925991,San Francisco
+DEL_0047,"2934 Market St, San Francisco",40.630334,-73.757188,San Francisco
+DEL_0048,"6420 Lexington Ave, San Francisco",40.85218,-74.123833,San Francisco
+DEL_0049,"2609 Main St, San Francisco",40.689978,-74.137005,San Francisco
+DEL_0050,"8978 Washington St, San Francisco",40.457046,-74.209821,San Francisco
+DEL_0051,"5529 Washington St, San Francisco",40.748515,-73.928683,San Francisco
+DEL_0052,"7757 Madison Ave, San Francisco",40.739565,-74.077724,San Francisco
+DEL_0053,"6413 Washington St, San Francisco",40.88092,-73.990896,San Francisco
+DEL_0054,"1177 Oak St, San Francisco",40.839512,-74.427641,San Francisco
+DEL_0055,"4638 Lexington Ave, San Francisco",40.006061,-73.938541,San Francisco
+DEL_0056,"3197 Oak St, San Francisco",40.456085,-74.056502,San Francisco
+DEL_0057,"6452 Park Ave, San Francisco",40.658368,-73.628662,San Francisco
+DEL_0058,"2145 Madison Ave, San Francisco",40.784871,-73.966574,San Francisco
+DEL_0059,"9510 Main St, San Francisco",40.863609,-73.918405,San Francisco
+DEL_0060,"4982 Market St, San Francisco",40.630336,-73.751301,San Francisco
+DEL_0061,"2682 Elm St, San Francisco",40.512845,-73.929161,San Francisco
+DEL_0062,"2254 Market St, San Francisco",40.433959,-73.957521,San Francisco
+DEL_0063,"7905 Lexington Ave, San Francisco",40.747573,-73.607493,San Francisco
+DEL_0064,"2373 5th Ave, San Francisco",40.430823,-74.148836,San Francisco
+DEL_0065,"3574 5th Ave, San Francisco",40.861031,-73.926292,San Francisco
+DEL_0066,"150 Madison Ave, San Francisco",40.745287,-74.233281,San Francisco
+DEL_0067,"9432 Park Ave, San Francisco",40.606346,-73.710043,San Francisco
+DEL_0068,"2419 Washington St, San Francisco",40.703519,-73.916774,San Francisco
+DEL_0069,"6998 Broadway, San Francisco",40.692045,-74.287229,San Francisco
+DEL_0070,"923 Park Ave, San Francisco",40.881054,-73.886377,San Francisco
+DEL_0071,"5826 Market St, San Francisco",41.12823,-74.247412,San Francisco
+DEL_0072,"2944 Main St, San Francisco",40.861011,-74.317765,San Francisco
+DEL_0073,"1923 Oak St, San Francisco",40.741151,-73.773876,San Francisco
+DEL_0074,"5546 Elm St, San Francisco",40.339442,-74.054714,San Francisco
+DEL_0075,"7108 Broadway, San Francisco",40.611321,-74.172861,San Francisco
+DEL_0076,"6620 5th Ave, San Francisco",40.782208,-73.739604,San Francisco
+DEL_0077,"557 Park Ave, San Francisco",40.688786,-73.957154,San Francisco
+DEL_0078,"3947 Washington St, San Francisco",40.733396,-74.005571,San Francisco
+DEL_0079,"8006 Lexington Ave, San Francisco",40.516522,-73.742514,San Francisco
+DEL_0080,"9768 Broadway, San Francisco",40.765988,-73.912133,San Francisco
+DEL_0081,"6151 Park Ave, San Francisco",40.567483,-74.11516,San Francisco
+DEL_0082,"7597 Washington St, San Francisco",40.681064,-74.370674,San Francisco
+DEL_0083,"4510 Market St, San Francisco",40.40865,-74.148803,San Francisco
+DEL_0084,"6019 Main St, San Francisco",40.806948,-74.161256,San Francisco
+DEL_0085,"1967 Park Ave, San Francisco",40.529231,-74.199658,San Francisco
+DEL_0086,"1354 Park Ave, San Francisco",40.630756,-74.090115,San Francisco
+DEL_0087,"8016 Oak St, San Francisco",41.102984,-73.755308,San Francisco
+DEL_0088,"3686 Main St, San Francisco",40.897444,-73.728219,San Francisco
+DEL_0089,"9615 Elm St, San Francisco",40.532832,-74.296566,San Francisco
+DEL_0090,"9382 Market St, San Francisco",40.513364,-73.688777,San Francisco
+DEL_0091,"4485 Park Ave, San Francisco",40.614207,-74.303458,San Francisco
+DEL_0092,"9714 Broadway, San Francisco",40.635143,-74.062719,San Francisco
+DEL_0093,"6291 Market St, San Francisco",40.761163,-73.946347,San Francisco
+DEL_0094,"7106 Lexington Ave, San Francisco",40.563578,-73.843014,San Francisco
+DEL_0095,"9363 Broadway, San Francisco",40.59763,-74.043148,San Francisco
+DEL_0096,"1630 Madison Ave, San Francisco",40.836543,-74.158566,San Francisco
+DEL_0097,"1041 Oak St, San Francisco",40.610214,-73.865356,San Francisco
+DEL_0098,"3030 Washington St, San Francisco",40.558253,-74.097468,San Francisco
+DEL_0099,"324 Washington St, San Francisco",40.812934,-73.517725,San Francisco
+DEL_0100,"9111 Oak St, San Francisco",40.821882,-73.89365,San Francisco
+DEL_0101,"8685 Market St, San Francisco",40.80844,-74.261106,San Francisco
+DEL_0102,"1048 Oak St, San Francisco",40.733628,-74.013076,San Francisco
+DEL_0103,"9581 Oak St, San Francisco",40.770743,-73.978305,San Francisco
+DEL_0104,"2034 5th Ave, San Francisco",40.781214,-74.080038,San Francisco
+DEL_0105,"1923 Broadway, San Francisco",40.72336,-74.297865,San Francisco
+DEL_0106,"9816 Broadway, San Francisco",40.655159,-73.675387,San Francisco
+DEL_0107,"88 Oak St, San Francisco",40.770243,-74.010973,San Francisco
+DEL_0108,"7328 Madison Ave, San Francisco",41.054444,-74.329482,San Francisco
+DEL_0109,"2016 Main St, San Francisco",40.512898,-73.598874,San Francisco
+DEL_0110,"2111 Elm St, San Francisco",40.721081,-74.063664,San Francisco
+DEL_0111,"3379 Broadway, San Francisco",40.496727,-73.899579,San Francisco
+DEL_0112,"1439 Oak St, San Francisco",40.810901,-74.26617,San Francisco
+DEL_0113,"4207 Main St, San Francisco",40.687525,-74.085755,San Francisco
+DEL_0114,"1387 Park Ave, San Francisco",40.758922,-74.272055,San Francisco
+DEL_0115,"8293 Lexington Ave, San Francisco",40.938376,-73.788301,San Francisco
+DEL_0116,"5957 Oak St, San Francisco",40.647363,-74.057445,San Francisco
+DEL_0117,"2812 Washington St, San Francisco",40.688219,-74.19101,San Francisco
+DEL_0118,"2 5th Ave, San Francisco",40.632903,-74.070246,San Francisco
+DEL_0119,"4926 Main St, San Francisco",41.003407,-73.780981,San Francisco
+DEL_0120,"8511 Lexington Ave, San Francisco",40.881206,-73.918066,San Francisco
+DEL_0121,"8751 Market St, San Francisco",40.51148,-74.015863,San Francisco
+DEL_0122,"2292 Elm St, San Francisco",40.887663,-74.3051,San Francisco
+DEL_0123,"8036 Madison Ave, San Francisco",40.827494,-73.453897,San Francisco
+DEL_0124,"8564 Madison Ave, San Francisco",40.904118,-73.669874,San Francisco
+DEL_0125,"9932 Oak St, San Francisco",40.75214,-73.775915,San Francisco
+DEL_0126,"8366 5th Ave, San Francisco",40.583457,-73.816817,San Francisco
+DEL_0127,"1623 Main St, San Francisco",40.830708,-73.937086,San Francisco
+DEL_0128,"3885 Main St, San Francisco",40.949918,-74.134074,San Francisco
+DEL_0129,"3082 Broadway, San Francisco",40.679096,-73.983308,San Francisco
+DEL_0130,"4911 5th Ave, San Francisco",40.527285,-73.952056,San Francisco
+DEL_0131,"2199 Elm St, San Francisco",40.403083,-73.75713,San Francisco
+DEL_0132,"9046 5th Ave, San Francisco",40.721203,-74.129821,San Francisco
+DEL_0133,"9696 Madison Ave, San Francisco",40.562462,-74.061761,San Francisco
+DEL_0134,"4545 Broadway, San Francisco",40.836811,-73.875798,San Francisco
+DEL_0135,"6915 Park Ave, San Francisco",40.585676,-74.207111,San Francisco
+DEL_0136,"9009 Lexington Ave, San Francisco",40.83116,-74.177708,San Francisco
+DEL_0137,"4271 Washington St, San Francisco",40.723595,-73.976582,San Francisco
+DEL_0138,"2676 Washington St, San Francisco",40.769027,-73.801982,San Francisco
+DEL_0139,"7473 Park Ave, San Francisco",40.485239,-74.460298,San Francisco
+DEL_0140,"4165 Washington St, San Francisco",40.610557,-73.577762,San Francisco
+DEL_0141,"2347 Oak St, San Francisco",41.077156,-73.570714,San Francisco
+DEL_0142,"3339 Park Ave, San Francisco",40.678029,-74.429624,San Francisco
+DEL_0143,"4414 5th Ave, San Francisco",40.290631,-74.151962,San Francisco
+DEL_0144,"6098 Elm St, San Francisco",40.677111,-73.696831,San Francisco
+DEL_0145,"8380 Elm St, San Francisco",40.869161,-73.951944,San Francisco
+DEL_0146,"2688 Washington St, San Francisco",40.552468,-74.234385,San Francisco
+DEL_0147,"2515 Madison Ave, San Francisco",40.758589,-73.840305,San Francisco
+DEL_0148,"7105 Washington St, San Francisco",40.783409,-74.251933,San Francisco
+DEL_0149,"425 Elm St, San Francisco",40.830037,-73.904757,San Francisco
+DEL_0150,"4056 Park Ave, San Francisco",40.519887,-74.19244,San Francisco
+DEL_0151,"4426 Park Ave, San Francisco",40.836853,-74.061744,San Francisco
+DEL_0152,"8708 Park Ave, San Francisco",40.999133,-73.886877,San Francisco
+DEL_0153,"8985 Washington St, San Francisco",40.625119,-74.008426,San Francisco
+DEL_0154,"1081 Madison Ave, San Francisco",40.72422,-74.179144,San Francisco
+DEL_0155,"1458 Madison Ave, San Francisco",40.54837,-73.839274,San Francisco
+DEL_0156,"5465 Lexington Ave, San Francisco",40.865101,-73.862476,San Francisco
+DEL_0157,"2398 5th Ave, San Francisco",40.98583,-74.134784,San Francisco
+DEL_0158,"4484 Main St, San Francisco",41.01447,-74.220156,San Francisco
+DEL_0159,"1605 Washington St, San Francisco",40.530334,-74.424357,San Francisco
+DEL_0160,"3641 Washington St, San Francisco",40.632477,-74.125739,San Francisco
+DEL_0161,"1721 Park Ave, San Francisco",40.807563,-73.948025,San Francisco
+DEL_0162,"2880 Oak St, San Francisco",40.49785,-74.099354,San Francisco
+DEL_0163,"5023 Elm St, San Francisco",40.64587,-74.428166,San Francisco
+DEL_0164,"8022 Park Ave, San Francisco",40.536053,-74.189229,San Francisco
+DEL_0165,"8667 Madison Ave, San Francisco",40.971111,-73.960491,San Francisco
+DEL_0166,"9375 Lexington Ave, San Francisco",40.83211,-74.362238,San Francisco
+DEL_0167,"9037 Lexington Ave, San Francisco",40.927974,-73.696717,San Francisco
+DEL_0168,"9953 Park Ave, San Francisco",40.352738,-74.17366,San Francisco
+DEL_0169,"786 Broadway, San Francisco",40.802127,-73.852824,San Francisco
+DEL_0170,"5211 Washington St, San Francisco",40.590549,-74.07862,San Francisco
+DEL_0171,"2961 Madison Ave, San Francisco",40.605164,-73.979753,San Francisco
+DEL_0172,"8712 Oak St, San Francisco",40.928508,-74.189283,San Francisco
+DEL_0173,"9743 Washington St, San Francisco",40.893128,-74.19181,San Francisco
+DEL_0174,"7813 Elm St, San Francisco",40.560074,-73.811413,San Francisco
+DEL_0175,"2091 Lexington Ave, San Francisco",40.878915,-73.803613,San Francisco
+DEL_0176,"156 Oak St, San Francisco",40.475719,-74.11676,San Francisco
+DEL_0177,"2548 Broadway, San Francisco",40.861086,-73.996125,San Francisco
+DEL_0178,"2338 Washington St, San Francisco",40.519342,-73.897054,San Francisco
+DEL_0179,"9299 Lexington Ave, San Francisco",40.584006,-73.579427,San Francisco
+DEL_0180,"867 Madison Ave, San Francisco",40.99115,-73.862401,San Francisco
+DEL_0181,"4082 Elm St, San Francisco",40.958026,-73.990599,San Francisco
+DEL_0182,"6853 Market St, San Francisco",40.850717,-73.654734,San Francisco
+DEL_0183,"3000 Market St, San Francisco",40.757034,-74.06666,San Francisco
+DEL_0184,"5800 Market St, San Francisco",40.405661,-74.025762,San Francisco
+DEL_0185,"8229 Lexington Ave, San Francisco",40.861165,-73.781215,San Francisco
+DEL_0186,"4520 Washington St, San Francisco",40.803677,-74.134671,San Francisco
+DEL_0187,"8530 5th Ave, San Francisco",40.356616,-74.123717,San Francisco
+DEL_0188,"5001 Park Ave, San Francisco",40.657963,-74.080386,San Francisco
+DEL_0189,"5008 Washington St, San Francisco",40.824252,-73.533988,San Francisco
+DEL_0190,"5124 Park Ave, San Francisco",40.735058,-74.057519,San Francisco
+DEL_0191,"1303 Park Ave, San Francisco",40.666093,-73.976433,San Francisco
+DEL_0192,"3933 Park Ave, San Francisco",40.563558,-73.977428,San Francisco
+DEL_0193,"2706 Elm St, San Francisco",40.794027,-73.956156,San Francisco
+DEL_0194,"941 Park Ave, San Francisco",40.79524,-73.902895,San Francisco
+DEL_0195,"4684 Oak St, San Francisco",40.393539,-73.854611,San Francisco
+DEL_0196,"8075 Main St, San Francisco",40.591896,-74.26649,San Francisco
+DEL_0197,"6947 Oak St, San Francisco",40.5138,-73.902944,San Francisco
+DEL_0198,"2236 Market St, San Francisco",40.672696,-74.405818,San Francisco
+DEL_0199,"8157 Oak St, San Francisco",40.798933,-74.348207,San Francisco
+DEL_0200,"8723 Park Ave, San Francisco",40.737993,-73.949307,San Francisco
+DEL_0201,"6644 Main St, San Francisco",40.872363,-73.582479,San Francisco
+DEL_0202,"3116 Main St, San Francisco",40.466912,-74.018473,San Francisco
+DEL_0203,"6963 Oak St, San Francisco",40.66301,-73.902894,San Francisco
+DEL_0204,"5654 5th Ave, San Francisco",40.751659,-74.089803,San Francisco
+DEL_0205,"8653 Elm St, San Francisco",40.633358,-74.27139,San Francisco
+DEL_0206,"694 Elm St, San Francisco",40.890793,-73.896843,San Francisco
+DEL_0207,"7351 Broadway, San Francisco",40.878164,-74.079784,San Francisco
+DEL_0208,"8578 5th Ave, San Francisco",40.594451,-74.262324,San Francisco
+DEL_0209,"2865 Park Ave, San Francisco",40.77747,-74.253167,San Francisco
+DEL_0210,"6014 Broadway, San Francisco",41.045892,-74.316837,San Francisco
+DEL_0211,"8417 Madison Ave, San Francisco",40.762108,-73.633546,San Francisco
+DEL_0212,"835 Washington St, San Francisco",40.820744,-73.964241,San Francisco
+DEL_0213,"8119 Washington St, San Francisco",40.538298,-74.334458,San Francisco
+DEL_0214,"2794 Madison Ave, San Francisco",40.851548,-73.647976,San Francisco
+DEL_0215,"1856 Madison Ave, San Francisco",40.633728,-74.276764,San Francisco
+DEL_0216,"4093 Oak St, San Francisco",40.269887,-74.239136,San Francisco
+DEL_0217,"1932 Lexington Ave, San Francisco",40.692321,-73.625875,San Francisco
+DEL_0218,"4902 Market St, San Francisco",40.834085,-73.933479,San Francisco
+DEL_0219,"4810 Lexington Ave, San Francisco",40.640706,-74.144623,San Francisco
+DEL_0220,"3491 Main St, San Francisco",40.96607,-73.958283,San Francisco
+DEL_0221,"9320 Washington St, San Francisco",40.333953,-74.166106,San Francisco
+DEL_0222,"3563 Lexington Ave, San Francisco",40.558166,-74.135851,San Francisco
+DEL_0223,"8447 Main St, San Francisco",40.814225,-74.031541,San Francisco
+DEL_0224,"7587 Elm St, San Francisco",40.69895,-73.693777,San Francisco
+DEL_0225,"8000 Main St, San Francisco",40.587312,-73.562864,San Francisco
+DEL_0226,"5829 Main St, San Francisco",40.591844,-73.984797,San Francisco
+DEL_0227,"7543 Madison Ave, San Francisco",40.662133,-73.976662,San Francisco
+DEL_0228,"4889 Madison Ave, San Francisco",40.792907,-73.902874,San Francisco
+DEL_0229,"1756 Main St, San Francisco",40.577103,-74.272926,San Francisco
+DEL_0230,"5730 Broadway, San Francisco",41.163822,-74.121047,San Francisco
+DEL_0231,"6588 Madison Ave, San Francisco",40.838784,-74.38815,San Francisco
+DEL_0232,"146 Park Ave, San Francisco",40.662419,-74.036236,San Francisco
+DEL_0233,"7059 Market St, San Francisco",40.797992,-74.65315,San Francisco
+DEL_0234,"3237 Park Ave, San Francisco",40.742735,-74.279303,San Francisco
+DEL_0235,"8669 Oak St, San Francisco",40.771241,-74.252344,San Francisco
+DEL_0236,"2519 Washington St, San Francisco",40.558659,-74.071044,San Francisco
+DEL_0237,"2030 Market St, San Francisco",40.523191,-74.119038,San Francisco
+DEL_0238,"114 Broadway, San Francisco",40.497777,-74.44176,San Francisco
+DEL_0239,"4099 5th Ave, San Francisco",40.896216,-74.314082,San Francisco
+DEL_0240,"7712 Washington St, San Francisco",40.680605,-73.827032,San Francisco
+DEL_0241,"6133 Lexington Ave, San Francisco",40.601999,-74.202149,San Francisco
+DEL_0242,"5972 Washington St, San Francisco",40.753564,-73.740258,San Francisco
+DEL_0243,"2985 Oak St, San Francisco",40.502113,-74.041691,San Francisco
+DEL_0244,"4416 Park Ave, San Francisco",40.400639,-74.099467,San Francisco
+DEL_0245,"7186 Market St, San Francisco",40.718963,-74.209151,San Francisco
+DEL_0246,"2652 Broadway, San Francisco",40.630459,-74.340747,San Francisco
+DEL_0247,"5796 Washington St, San Francisco",40.726688,-73.755053,San Francisco
+DEL_0248,"96 Madison Ave, San Francisco",40.515116,-74.154014,San Francisco
+DEL_0249,"3252 Park Ave, San Francisco",40.803349,-73.717876,San Francisco
+DEL_0250,"3106 Lexington Ave, San Francisco",40.443757,-74.046122,San Francisco
+DEL_0251,"660 Broadway, San Francisco",40.763815,-74.03026,San Francisco
+DEL_0252,"6465 Washington St, San Francisco",40.266531,-73.886887,San Francisco
+DEL_0253,"5427 Main St, San Francisco",40.986554,-73.978269,San Francisco
+DEL_0254,"2627 5th Ave, San Francisco",40.527015,-74.127975,San Francisco
+DEL_0255,"7853 Lexington Ave, San Francisco",41.031703,-73.789694,San Francisco
+DEL_0256,"1947 Washington St, San Francisco",40.82812,-73.921278,San Francisco
+DEL_0257,"8013 Oak St, San Francisco",40.593676,-74.053677,San Francisco
+DEL_0258,"8120 Broadway, San Francisco",40.69876,-73.875362,San Francisco
+DEL_0259,"5323 Washington St, San Francisco",40.984677,-73.740162,San Francisco
+DEL_0260,"8223 Washington St, San Francisco",40.457055,-73.952755,San Francisco
+DEL_0261,"2154 Park Ave, San Francisco",40.84555,-73.858892,San Francisco
+DEL_0262,"1768 Main St, San Francisco",40.599425,-73.313292,San Francisco
+DEL_0263,"2067 Broadway, San Francisco",40.482695,-74.263483,San Francisco
+DEL_0264,"5639 Oak St, San Francisco",40.754889,-73.502818,San Francisco
+DEL_0265,"224 5th Ave, San Francisco",40.562134,-74.06919,San Francisco
+DEL_0266,"853 Madison Ave, San Francisco",40.906907,-74.010246,San Francisco
+DEL_0267,"7040 Elm St, San Francisco",40.652511,-73.871544,San Francisco
+DEL_0268,"132 Washington St, San Francisco",40.761902,-73.761056,San Francisco
+DEL_0269,"7868 Lexington Ave, San Francisco",40.945497,-73.933023,San Francisco
+DEL_0270,"4624 Market St, San Francisco",40.765364,-73.955104,San Francisco
+DEL_0271,"1354 Washington St, San Francisco",40.800932,-73.992885,San Francisco
+DEL_0272,"4060 Elm St, San Francisco",40.71269,-73.721552,San Francisco
+DEL_0273,"2499 Oak St, San Francisco",40.985974,-74.364358,San Francisco
+DEL_0274,"3062 5th Ave, San Francisco",40.714606,-74.169708,San Francisco
+DEL_0275,"4607 Park Ave, San Francisco",40.656769,-73.910319,San Francisco
+DEL_0276,"4318 5th Ave, San Francisco",40.83342,-74.032653,San Francisco
+DEL_0277,"7032 5th Ave, San Francisco",40.368054,-74.235399,San Francisco
+DEL_0278,"7765 Park Ave, San Francisco",40.874331,-74.657422,San Francisco
+DEL_0279,"8231 Elm St, San Francisco",40.926751,-73.882099,San Francisco
+DEL_0280,"2969 5th Ave, San Francisco",40.949949,-74.053202,San Francisco
+DEL_0281,"9687 Broadway, San Francisco",40.341376,-73.903699,San Francisco
+DEL_0282,"3759 Park Ave, San Francisco",40.942467,-73.786186,San Francisco
+DEL_0283,"2168 Washington St, San Francisco",40.593396,-73.985376,San Francisco
+DEL_0284,"629 Lexington Ave, San Francisco",40.616793,-74.200746,San Francisco
+DEL_0285,"3149 Broadway, San Francisco",40.884942,-74.290663,San Francisco
+DEL_0286,"6985 Main St, San Francisco",40.551752,-74.268436,San Francisco
+DEL_0287,"3271 Park Ave, San Francisco",40.444287,-73.971196,San Francisco
+DEL_0288,"835 Washington St, San Francisco",40.92208,-74.049947,San Francisco
+DEL_0289,"6674 Oak St, San Francisco",40.441494,-73.806338,San Francisco
+DEL_0290,"5021 5th Ave, San Francisco",41.01653,-74.159617,San Francisco
+DEL_0291,"3634 Madison Ave, San Francisco",40.626574,-73.883423,San Francisco
+DEL_0292,"6981 Market St, San Francisco",41.00503,-74.129569,San Francisco
+DEL_0293,"1006 Oak St, San Francisco",40.472719,-73.855907,San Francisco
+DEL_0294,"6998 Main St, San Francisco",40.856776,-74.004543,San Francisco
+DEL_0295,"4986 Park Ave, San Francisco",40.612235,-73.769628,San Francisco
+DEL_0296,"4412 Madison Ave, San Francisco",40.807942,-74.188663,San Francisco
+DEL_0297,"4597 Madison Ave, San Francisco",40.721646,-74.327312,San Francisco
+DEL_0298,"6850 5th Ave, San Francisco",40.836384,-74.068335,San Francisco
+DEL_0299,"5241 Main St, San Francisco",40.634294,-74.013815,San Francisco
+DEL_0300,"2978 Main St, San Francisco",40.720063,-73.793268,San Francisco
+DEL_0301,"9 Main St, San Francisco",40.819303,-74.04318,San Francisco
+DEL_0302,"5270 5th Ave, San Francisco",40.850398,-73.910741,San Francisco
+DEL_0303,"4675 Market St, San Francisco",40.635935,-74.035647,San Francisco
+DEL_0304,"4591 Elm St, San Francisco",40.686093,-73.885895,San Francisco
+DEL_0305,"1651 Washington St, San Francisco",40.64667,-74.098803,San Francisco
+DEL_0306,"3029 Lexington Ave, San Francisco",41.067531,-73.782617,San Francisco
+DEL_0307,"8050 Madison Ave, San Francisco",40.575755,-73.870283,San Francisco
+DEL_0308,"5477 Lexington Ave, San Francisco",40.734124,-73.912925,San Francisco
+DEL_0309,"1828 Park Ave, San Francisco",40.737546,-73.723212,San Francisco
+DEL_0310,"224 Oak St, San Francisco",40.775074,-74.020759,San Francisco
+DEL_0311,"2135 Madison Ave, San Francisco",40.900582,-73.950546,San Francisco
+DEL_0312,"5908 Madison Ave, San Francisco",40.734688,-73.931354,San Francisco
+DEL_0313,"9649 Oak St, San Francisco",40.695934,-74.003807,San Francisco
+DEL_0314,"9908 Madison Ave, San Francisco",40.607089,-74.184559,San Francisco
+DEL_0315,"3904 Lexington Ave, San Francisco",40.532877,-74.336886,San Francisco
+DEL_0316,"3442 Elm St, San Francisco",40.554292,-74.047425,San Francisco
+DEL_0317,"6293 Park Ave, San Francisco",40.73138,-74.070489,San Francisco
+DEL_0318,"1743 Broadway, San Francisco",40.288349,-73.631708,San Francisco
+DEL_0319,"9861 Park Ave, San Francisco",40.908562,-73.900039,San Francisco
+DEL_0320,"673 Elm St, San Francisco",41.056492,-74.238328,San Francisco
+DEL_0321,"3121 5th Ave, San Francisco",41.052913,-74.235439,San Francisco
+DEL_0322,"7304 Park Ave, San Francisco",40.755816,-74.308802,San Francisco
+DEL_0323,"1227 Oak St, San Francisco",40.715448,-73.914205,San Francisco
+DEL_0324,"5619 Lexington Ave, San Francisco",40.684928,-73.836305,San Francisco
+DEL_0325,"7770 5th Ave, San Francisco",40.73064,-74.130182,San Francisco
+DEL_0326,"8742 Broadway, San Francisco",40.610671,-73.813239,San Francisco
+DEL_0327,"718 Broadway, San Francisco",40.595009,-73.788401,San Francisco
+DEL_0328,"3141 Washington St, San Francisco",40.933108,-74.402667,San Francisco
+DEL_0329,"9020 Lexington Ave, San Francisco",40.916931,-73.51622,San Francisco
+DEL_0330,"9181 Madison Ave, San Francisco",40.758206,-73.863593,San Francisco
+DEL_0331,"5997 Market St, San Francisco",40.899648,-74.071484,San Francisco
+DEL_0332,"1924 Washington St, San Francisco",40.745643,-74.318396,San Francisco
+DEL_0333,"1110 Market St, San Francisco",40.737779,-73.887595,San Francisco
+DEL_0334,"6865 Oak St, San Francisco",40.805802,-73.75274,San Francisco
+DEL_0335,"8256 Main St, San Francisco",40.573196,-74.132605,San Francisco
+DEL_0336,"2736 Elm St, San Francisco",41.054333,-74.041734,San Francisco
+DEL_0337,"4492 Broadway, San Francisco",40.748842,-74.021929,San Francisco
+DEL_0338,"4746 Main St, San Francisco",40.564749,-73.620074,San Francisco
+DEL_0339,"9277 Main St, San Francisco",40.617719,-74.273965,San Francisco
+DEL_0340,"3117 Washington St, San Francisco",40.631586,-74.481822,San Francisco
+DEL_0341,"8111 Oak St, San Francisco",40.595451,-74.236132,San Francisco
+DEL_0342,"8413 Park Ave, San Francisco",40.824048,-74.166076,San Francisco
+DEL_0343,"2712 Market St, San Francisco",40.872765,-73.673569,San Francisco
+DEL_0344,"8345 Washington St, San Francisco",40.853552,-74.0572,San Francisco
+DEL_0345,"9216 Washington St, San Francisco",40.738226,-74.368502,San Francisco
+DEL_0346,"6568 Elm St, San Francisco",40.688696,-74.210533,San Francisco
+DEL_0347,"4449 5th Ave, San Francisco",40.837904,-73.394435,San Francisco
+DEL_0348,"3016 Main St, San Francisco",40.802858,-74.479311,San Francisco
+DEL_0349,"2622 Elm St, San Francisco",40.647713,-73.976883,San Francisco
+DEL_0350,"3569 Elm St, San Francisco",40.72854,-74.17972,San Francisco
+DEL_0351,"146 Oak St, San Francisco",40.756997,-74.301353,San Francisco
+DEL_0352,"7462 Oak St, San Francisco",40.542546,-73.852489,San Francisco
+DEL_0353,"8603 Lexington Ave, San Francisco",40.529798,-73.878063,San Francisco
+DEL_0354,"4972 5th Ave, San Francisco",40.46605,-73.586486,San Francisco
+DEL_0355,"4856 Lexington Ave, San Francisco",40.573292,-74.059167,San Francisco
+DEL_0356,"9047 Park Ave, San Francisco",40.77237,-74.140388,San Francisco
+DEL_0357,"2804 5th Ave, San Francisco",40.738639,-73.869233,San Francisco
+DEL_0358,"748 Oak St, San Francisco",40.885883,-73.817855,San Francisco
+DEL_0359,"3903 Lexington Ave, San Francisco",40.681843,-74.040856,San Francisco
+DEL_0360,"641 Broadway, San Francisco",41.136063,-73.780203,San Francisco
+DEL_0361,"4551 Broadway, San Francisco",40.546706,-73.982232,San Francisco
+DEL_0362,"4431 Main St, San Francisco",40.652414,-74.03817,San Francisco
+DEL_0363,"4080 5th Ave, San Francisco",40.491269,-74.103918,San Francisco
+DEL_0364,"8759 Park Ave, San Francisco",41.039206,-73.868349,San Francisco
+DEL_0365,"23 Madison Ave, San Francisco",40.263942,-73.716775,San Francisco
+DEL_0366,"9915 Madison Ave, San Francisco",40.90913,-74.091405,San Francisco
+DEL_0367,"5318 Park Ave, San Francisco",40.842037,-74.210286,San Francisco
+DEL_0368,"9000 Lexington Ave, San Francisco",40.628069,-73.649783,San Francisco
+DEL_0369,"2190 Washington St, San Francisco",40.66384,-74.450451,San Francisco
+DEL_0370,"4832 Madison Ave, San Francisco",40.701394,-74.024681,San Francisco
+DEL_0371,"939 Main St, San Francisco",40.928722,-74.002592,San Francisco
+DEL_0372,"5825 5th Ave, San Francisco",40.636839,-73.757581,San Francisco
+DEL_0373,"4583 Broadway, San Francisco",40.734564,-74.184287,San Francisco
+DEL_0374,"4195 Main St, San Francisco",40.920908,-73.959965,San Francisco
+DEL_0375,"8805 Elm St, San Francisco",40.713327,-73.96371,San Francisco
+DEL_0376,"1744 Washington St, San Francisco",40.519887,-74.131428,San Francisco
+DEL_0377,"4217 Elm St, San Francisco",40.713446,-74.052273,San Francisco
+DEL_0378,"9026 5th Ave, San Francisco",40.942066,-73.954321,San Francisco
+DEL_0379,"7245 5th Ave, San Francisco",40.866837,-74.003767,San Francisco
+DEL_0380,"5313 Lexington Ave, San Francisco",40.903122,-73.911504,San Francisco
+DEL_0381,"3342 Elm St, San Francisco",40.715218,-74.009158,San Francisco
+DEL_0382,"6480 Broadway, San Francisco",40.540829,-73.885502,San Francisco
+DEL_0383,"7309 5th Ave, San Francisco",40.705556,-74.125328,San Francisco
+DEL_0384,"7110 Madison Ave, San Francisco",40.912162,-74.303187,San Francisco
+DEL_0385,"2431 Market St, San Francisco",40.636675,-73.761703,San Francisco
+DEL_0386,"1536 Market St, San Francisco",40.769651,-74.017376,San Francisco
+DEL_0387,"2974 Market St, San Francisco",40.758026,-73.963352,San Francisco
+DEL_0388,"3032 Broadway, San Francisco",40.439527,-74.089022,San Francisco
+DEL_0389,"3095 Elm St, San Francisco",41.004065,-74.162727,San Francisco
+DEL_0390,"8037 Broadway, San Francisco",40.655448,-74.134748,San Francisco
+DEL_0391,"4622 Main St, San Francisco",40.697122,-74.144613,San Francisco
+DEL_0392,"5082 Broadway, San Francisco",40.800501,-73.959097,San Francisco
+DEL_0393,"2912 Washington St, San Francisco",40.852178,-74.255817,San Francisco
+DEL_0394,"9959 5th Ave, San Francisco",40.651477,-74.059656,San Francisco
+DEL_0395,"1138 Broadway, San Francisco",40.794899,-74.194555,San Francisco
+DEL_0396,"1181 Washington St, San Francisco",40.877783,-73.723979,San Francisco
+DEL_0397,"4019 Market St, San Francisco",40.534625,-74.122685,San Francisco
+DEL_0398,"6595 Park Ave, San Francisco",40.616956,-73.38026,San Francisco
+DEL_0399,"8631 Broadway, San Francisco",40.635341,-73.607215,San Francisco
+DEL_0400,"194 Elm St, San Francisco",40.484578,-74.241248,San Francisco
+DEL_0401,"1634 Washington St, San Francisco",40.589087,-74.207027,San Francisco
+DEL_0402,"6292 Main St, San Francisco",40.66453,-74.174482,San Francisco
+DEL_0403,"1803 Main St, San Francisco",40.565171,-73.730622,San Francisco
+DEL_0404,"717 Broadway, San Francisco",40.933303,-73.780344,San Francisco
+DEL_0405,"4069 Park Ave, San Francisco",40.807214,-73.983954,San Francisco
+DEL_0406,"4386 Broadway, San Francisco",40.623245,-74.232573,San Francisco
+DEL_0407,"9825 Main St, San Francisco",40.778205,-74.284982,San Francisco
+DEL_0408,"154 Park Ave, San Francisco",40.533715,-73.731943,San Francisco
+DEL_0409,"8887 Madison Ave, San Francisco",41.055259,-73.91251,San Francisco
+DEL_0410,"1393 5th Ave, San Francisco",40.912162,-74.06444,San Francisco
+DEL_0411,"2282 Market St, San Francisco",40.471778,-73.860482,San Francisco
+DEL_0412,"9222 Market St, San Francisco",40.815375,-73.988964,San Francisco
+DEL_0413,"2673 Lexington Ave, San Francisco",40.669129,-73.777275,San Francisco
+DEL_0414,"5436 Market St, San Francisco",40.53519,-74.189934,San Francisco
+DEL_0415,"2532 5th Ave, San Francisco",40.531159,-73.985801,San Francisco
+DEL_0416,"916 Oak St, San Francisco",40.516783,-74.16865,San Francisco
+DEL_0417,"4383 Oak St, San Francisco",40.585637,-74.067949,San Francisco
+DEL_0418,"2017 Main St, San Francisco",40.444805,-73.985271,San Francisco
+DEL_0419,"730 Park Ave, San Francisco",40.937539,-73.973793,San Francisco
+DEL_0420,"8924 Lexington Ave, San Francisco",40.990516,-73.688898,San Francisco
+DEL_0421,"1681 Oak St, San Francisco",40.852932,-73.988247,San Francisco
+DEL_0422,"6805 Broadway, San Francisco",40.716854,-73.824438,San Francisco
+DEL_0423,"20 5th Ave, San Francisco",40.642229,-74.453491,San Francisco
+DEL_0424,"394 5th Ave, San Francisco",40.801449,-74.274864,San Francisco
+DEL_0425,"6999 Washington St, San Francisco",40.539441,-74.005947,San Francisco
+DEL_0426,"2415 Madison Ave, San Francisco",40.69566,-74.341662,San Francisco
+DEL_0427,"4700 5th Ave, San Francisco",40.742618,-73.776341,San Francisco
+DEL_0428,"6304 Park Ave, San Francisco",40.509495,-73.70352,San Francisco
+DEL_0429,"8058 Broadway, San Francisco",40.431688,-73.502695,San Francisco
+DEL_0430,"1805 5th Ave, San Francisco",40.638699,-73.971386,San Francisco
+DEL_0431,"1667 Lexington Ave, San Francisco",40.371893,-74.02077,San Francisco
+DEL_0432,"5855 Park Ave, San Francisco",40.753968,-74.026481,San Francisco
+DEL_0433,"5468 Park Ave, San Francisco",40.611344,-74.231006,San Francisco
+DEL_0434,"5907 Park Ave, San Francisco",40.916498,-73.998677,San Francisco
+DEL_0435,"711 Elm St, San Francisco",40.990413,-74.131149,San Francisco
+DEL_0436,"2476 Broadway, San Francisco",40.634459,-73.812126,San Francisco
+DEL_0437,"7023 Oak St, San Francisco",40.420372,-74.29445,San Francisco
+DEL_0438,"5487 Elm St, San Francisco",40.910545,-74.284578,San Francisco
+DEL_0439,"2972 Washington St, San Francisco",40.385043,-73.561836,San Francisco
+DEL_0440,"2462 Lexington Ave, San Francisco",40.461662,-73.962233,San Francisco
+DEL_0441,"4703 Madison Ave, San Francisco",40.725248,-74.67411,San Francisco
+DEL_0442,"1703 Lexington Ave, San Francisco",40.664635,-73.899408,San Francisco
+DEL_0443,"8180 Madison Ave, San Francisco",40.77664,-73.791226,San Francisco
+DEL_0444,"4349 Park Ave, San Francisco",40.642982,-73.836632,San Francisco
+DEL_0445,"36 Broadway, San Francisco",40.588597,-74.34128,San Francisco
+DEL_0446,"2402 Madison Ave, San Francisco",40.478975,-74.353556,San Francisco
+DEL_0447,"2422 Washington St, San Francisco",40.894707,-74.366027,San Francisco
+DEL_0448,"7319 Market St, San Francisco",40.762176,-74.069212,San Francisco
+DEL_0449,"1103 Park Ave, San Francisco",40.694305,-73.681859,San Francisco
+DEL_0450,"9468 Washington St, San Francisco",40.633804,-73.860617,San Francisco
+DEL_0451,"4563 Broadway, San Francisco",40.719568,-74.042136,San Francisco
+DEL_0452,"1482 Madison Ave, San Francisco",41.127209,-74.348619,San Francisco
+DEL_0453,"2090 Broadway, San Francisco",40.945076,-73.849967,San Francisco
+DEL_0454,"6309 Madison Ave, San Francisco",40.626399,-73.618697,San Francisco
+DEL_0455,"5232 Market St, San Francisco",40.379807,-74.130028,San Francisco
+DEL_0456,"6945 Market St, San Francisco",40.495055,-73.908044,San Francisco
+DEL_0457,"6783 Elm St, San Francisco",40.512248,-73.903057,San Francisco
+DEL_0458,"5464 Broadway, San Francisco",40.679208,-74.119946,San Francisco
+DEL_0459,"4029 Washington St, San Francisco",40.782827,-74.069854,San Francisco
+DEL_0460,"6860 Oak St, San Francisco",40.51665,-73.34009,San Francisco
+DEL_0461,"8145 Oak St, San Francisco",40.625022,-74.533144,San Francisco
+DEL_0462,"8746 Market St, San Francisco",40.561071,-74.307242,San Francisco
+DEL_0463,"8725 Oak St, San Francisco",40.861655,-73.92954,San Francisco
+DEL_0464,"3771 Washington St, San Francisco",40.78464,-74.093957,San Francisco
+DEL_0465,"1370 Elm St, San Francisco",40.662467,-74.094173,San Francisco
+DEL_0466,"6912 Oak St, San Francisco",40.698171,-73.807434,San Francisco
+DEL_0467,"9468 5th Ave, San Francisco",40.773354,-73.887119,San Francisco
+DEL_0468,"1430 5th Ave, San Francisco",40.802811,-73.795761,San Francisco
+DEL_0469,"5927 Main St, San Francisco",40.764719,-73.920699,San Francisco
+DEL_0470,"3331 Main St, San Francisco",40.926999,-74.164087,San Francisco
+DEL_0471,"5938 Oak St, San Francisco",40.558612,-74.287903,San Francisco
+DEL_0472,"7765 Broadway, San Francisco",40.745758,-74.446648,San Francisco
+DEL_0473,"1805 Main St, San Francisco",40.796071,-74.031956,San Francisco
+DEL_0474,"5724 Madison Ave, San Francisco",40.91724,-74.16572,San Francisco
+DEL_0475,"2284 Lexington Ave, San Francisco",40.676166,-73.739243,San Francisco
+DEL_0476,"7544 Broadway, San Francisco",40.962014,-74.167678,San Francisco
+DEL_0477,"9036 Washington St, San Francisco",40.745553,-73.936014,San Francisco
+DEL_0478,"3974 5th Ave, San Francisco",40.780125,-74.068416,San Francisco
+DEL_0479,"3680 Main St, San Francisco",40.94368,-74.455198,San Francisco
+DEL_0480,"2258 Park Ave, San Francisco",40.636921,-73.899523,San Francisco
+DEL_0481,"2345 Washington St, San Francisco",40.795183,-73.684438,San Francisco
+DEL_0482,"432 Washington St, San Francisco",40.928696,-74.073876,San Francisco
+DEL_0483,"6090 Main St, San Francisco",40.947011,-74.175734,San Francisco
+DEL_0484,"1737 Elm St, San Francisco",40.880527,-73.575624,San Francisco
+DEL_0485,"1209 Market St, San Francisco",40.931709,-73.980858,San Francisco
+DEL_0486,"9731 Broadway, San Francisco",40.65302,-74.369359,San Francisco
+DEL_0487,"495 Broadway, San Francisco",40.768753,-74.271096,San Francisco
+DEL_0488,"5985 Broadway, San Francisco",40.569893,-74.28905,San Francisco
+DEL_0489,"1295 5th Ave, San Francisco",40.629846,-74.012649,San Francisco
+DEL_0490,"1263 Main St, San Francisco",40.7621,-74.148745,San Francisco
+DEL_0491,"9326 Washington St, San Francisco",40.905464,-74.055492,San Francisco
+DEL_0492,"2453 Broadway, San Francisco",40.570868,-73.952208,San Francisco
+DEL_0493,"7697 Broadway, San Francisco",41.066593,-73.92633,San Francisco
+DEL_0494,"8642 Lexington Ave, San Francisco",40.647421,-74.36909,San Francisco
+DEL_0495,"7704 Washington St, San Francisco",40.673266,-73.950156,San Francisco
+DEL_0496,"5527 Market St, San Francisco",40.642966,-74.401876,San Francisco
+DEL_0497,"217 Lexington Ave, San Francisco",40.559545,-73.660244,San Francisco
+DEL_0498,"1823 Broadway, San Francisco",40.971179,-74.216761,San Francisco
+DEL_0499,"984 Main St, San Francisco",40.834017,-74.286157,San Francisco
+DEL_0500,"9899 Broadway, San Francisco",40.96583,-73.947705,San Francisco
+DEL_0501,"8246 Broadway, San Francisco",40.883907,-74.413692,San Francisco
+DEL_0502,"179 Washington St, San Francisco",40.834897,-74.007824,San Francisco
+DEL_0503,"6941 Market St, San Francisco",40.866301,-73.788528,San Francisco
+DEL_0504,"9080 Lexington Ave, San Francisco",40.724653,-74.148822,San Francisco
+DEL_0505,"9373 Oak St, San Francisco",40.853286,-74.020299,San Francisco
+DEL_0506,"5015 5th Ave, San Francisco",40.555541,-74.224728,San Francisco
+DEL_0507,"6942 Broadway, San Francisco",40.446644,-74.1273,San Francisco
+DEL_0508,"4454 Park Ave, San Francisco",40.911483,-73.963728,San Francisco
+DEL_0509,"8545 Washington St, San Francisco",40.617346,-73.814679,San Francisco
+DEL_0510,"2051 5th Ave, San Francisco",40.562804,-73.983334,San Francisco
+DEL_0511,"6561 Elm St, San Francisco",40.680434,-73.820794,San Francisco
+DEL_0512,"918 5th Ave, San Francisco",40.428615,-74.208099,San Francisco
+DEL_0513,"6428 Broadway, San Francisco",40.417621,-74.067708,San Francisco
+DEL_0514,"9164 Elm St, San Francisco",40.931075,-74.126149,San Francisco
+DEL_0515,"1265 Market St, San Francisco",40.620785,-73.798784,San Francisco
+DEL_0516,"7822 Madison Ave, San Francisco",40.905331,-74.027054,San Francisco
+DEL_0517,"6638 Washington St, San Francisco",40.836172,-74.262001,San Francisco
+DEL_0518,"2701 Main St, San Francisco",40.961084,-73.495235,San Francisco
+DEL_0519,"6087 Washington St, San Francisco",40.806713,-74.501463,San Francisco
+DEL_0520,"3191 Lexington Ave, San Francisco",40.612218,-73.860326,San Francisco
+DEL_0521,"1777 Park Ave, San Francisco",40.636857,-73.703588,San Francisco
+DEL_0522,"1275 Madison Ave, San Francisco",40.818774,-74.173935,San Francisco
+DEL_0523,"9883 Madison Ave, San Francisco",40.718613,-74.218472,San Francisco
+DEL_0524,"460 5th Ave, San Francisco",40.679902,-74.137831,San Francisco
+DEL_0525,"4624 Broadway, San Francisco",40.924469,-73.503006,San Francisco
+DEL_0526,"8874 Park Ave, San Francisco",40.454928,-74.463164,San Francisco
+DEL_0527,"1071 5th Ave, San Francisco",40.668625,-74.36694,San Francisco
+DEL_0528,"9784 Main St, San Francisco",40.721126,-73.827972,San Francisco
+DEL_0529,"5065 5th Ave, San Francisco",40.982015,-73.958127,San Francisco
+DEL_0530,"9039 5th Ave, San Francisco",40.677997,-74.476278,San Francisco
+DEL_0531,"531 5th Ave, San Francisco",40.717518,-73.989054,San Francisco
+DEL_0532,"4411 Park Ave, San Francisco",40.827927,-74.174413,San Francisco
+DEL_0533,"9341 Elm St, San Francisco",40.634412,-74.357333,San Francisco
+DEL_0534,"736 Elm St, San Francisco",40.299954,-74.269499,San Francisco
+DEL_0535,"7927 Main St, San Francisco",40.429858,-73.925961,San Francisco
+DEL_0536,"788 Madison Ave, San Francisco",40.619443,-74.133943,San Francisco
+DEL_0537,"1528 Lexington Ave, San Francisco",40.535428,-74.774408,San Francisco
+DEL_0538,"139 Madison Ave, San Francisco",40.984568,-74.243773,San Francisco
+DEL_0539,"4627 Washington St, San Francisco",40.63849,-74.35184,San Francisco
+DEL_0540,"8196 5th Ave, San Francisco",40.887923,-73.971906,San Francisco
+DEL_0541,"5153 Washington St, San Francisco",40.563905,-74.099236,San Francisco
+DEL_0542,"5831 Broadway, San Francisco",41.015175,-74.023345,San Francisco
+DEL_0543,"1596 Madison Ave, San Francisco",40.680055,-74.229774,San Francisco
+DEL_0544,"6673 Oak St, San Francisco",40.371434,-74.044043,San Francisco
+DEL_0545,"1655 Oak St, San Francisco",40.771446,-73.74462,San Francisco
+DEL_0546,"2461 Main St, San Francisco",40.307665,-74.273445,San Francisco
+DEL_0547,"9621 Washington St, San Francisco",40.608162,-74.006827,San Francisco
+DEL_0548,"7815 Elm St, San Francisco",40.686668,-74.034926,San Francisco
+DEL_0549,"613 Lexington Ave, San Francisco",40.786331,-74.22072,San Francisco
+DEL_0550,"2642 Broadway, San Francisco",40.881114,-73.902965,San Francisco
+DEL_0551,"7588 Park Ave, San Francisco",40.655173,-73.625451,San Francisco
+DEL_0552,"1529 5th Ave, San Francisco",40.993235,-73.784243,San Francisco
+DEL_0553,"3534 Broadway, San Francisco",40.168916,-73.630672,San Francisco
+DEL_0554,"2639 Oak St, San Francisco",40.856,-73.52906,San Francisco
+DEL_0555,"8460 Elm St, San Francisco",40.935767,-73.630815,San Francisco
+DEL_0556,"8574 Madison Ave, San Francisco",40.871116,-73.685404,San Francisco
+DEL_0557,"7332 Broadway, San Francisco",41.072102,-73.954523,San Francisco
+DEL_0558,"5555 Lexington Ave, San Francisco",40.429515,-74.079086,San Francisco
+DEL_0559,"5904 Elm St, San Francisco",40.78306,-73.988199,San Francisco
+DEL_0560,"7060 Main St, San Francisco",40.488194,-74.393718,San Francisco
+DEL_0561,"6351 5th Ave, San Francisco",40.579257,-73.813994,San Francisco
+DEL_0562,"3422 Elm St, San Francisco",40.997546,-73.788124,San Francisco
+DEL_0563,"9944 Park Ave, San Francisco",40.903327,-74.025211,San Francisco
+DEL_0564,"2497 Elm St, San Francisco",40.398911,-74.11421,San Francisco
+DEL_0565,"8152 Park Ave, San Francisco",40.666176,-74.124153,San Francisco
+DEL_0566,"245 Broadway, San Francisco",40.722655,-73.901071,San Francisco
+DEL_0567,"5072 Oak St, San Francisco",40.866496,-74.072111,San Francisco
+DEL_0568,"1429 Market St, San Francisco",40.36978,-74.120784,San Francisco
+DEL_0569,"1542 Market St, San Francisco",40.720676,-73.715328,San Francisco
+DEL_0570,"5140 Broadway, San Francisco",40.610492,-73.884164,San Francisco
+DEL_0571,"4844 Broadway, San Francisco",40.765068,-73.995564,San Francisco
+DEL_0572,"1117 Lexington Ave, San Francisco",40.880464,-74.163087,San Francisco
+DEL_0573,"9446 Madison Ave, San Francisco",40.609163,-74.008829,San Francisco
+DEL_0574,"5790 Park Ave, San Francisco",40.597458,-73.885241,San Francisco
+DEL_0575,"1166 Broadway, San Francisco",40.584297,-73.952206,San Francisco
+DEL_0576,"7549 Lexington Ave, San Francisco",40.694751,-73.95491,San Francisco
+DEL_0577,"7754 Lexington Ave, San Francisco",40.629964,-74.086604,San Francisco
+DEL_0578,"7243 Broadway, San Francisco",40.730099,-73.957965,San Francisco
+DEL_0579,"2032 Elm St, San Francisco",40.712043,-73.600621,San Francisco
+DEL_0580,"8000 Main St, San Francisco",40.534289,-74.021262,San Francisco
+DEL_0581,"5956 Lexington Ave, San Francisco",40.429263,-73.917553,San Francisco
+DEL_0582,"6569 Washington St, San Francisco",40.511855,-74.072157,San Francisco
+DEL_0583,"2114 Market St, San Francisco",40.645761,-73.93923,San Francisco
+DEL_0584,"6009 Oak St, San Francisco",40.613198,-74.147509,San Francisco
+DEL_0585,"5139 Madison Ave, San Francisco",40.971513,-73.938356,San Francisco
+DEL_0586,"1368 Washington St, San Francisco",40.61171,-74.065625,San Francisco
+DEL_0587,"8290 Market St, San Francisco",41.00926,-74.061901,San Francisco
+DEL_0588,"4307 Main St, San Francisco",40.588606,-74.168829,San Francisco
+DEL_0589,"935 5th Ave, San Francisco",40.613858,-74.147317,San Francisco
+DEL_0590,"9189 Main St, San Francisco",40.482233,-74.273232,San Francisco
+DEL_0591,"2533 Park Ave, San Francisco",40.563373,-73.865379,San Francisco
+DEL_0592,"4763 Washington St, San Francisco",40.644109,-74.055244,San Francisco
+DEL_0593,"2593 Elm St, San Francisco",40.941645,-73.698166,San Francisco
+DEL_0594,"6542 Park Ave, San Francisco",40.661967,-74.155961,San Francisco
+DEL_0595,"3655 Washington St, San Francisco",40.557047,-73.841321,San Francisco
+DEL_0596,"7574 Park Ave, San Francisco",40.675916,-74.097873,San Francisco
+DEL_0597,"5717 Market St, San Francisco",40.566194,-74.188956,San Francisco
+DEL_0598,"7676 Oak St, San Francisco",40.770468,-74.318691,San Francisco
+DEL_0599,"7617 Park Ave, San Francisco",40.892056,-74.132899,San Francisco
+DEL_0600,"1407 Broadway, San Francisco",40.685839,-74.323811,San Francisco
+DEL_0601,"1776 Washington St, San Francisco",40.710572,-74.084045,San Francisco
+DEL_0602,"7097 5th Ave, San Francisco",40.703776,-73.656163,San Francisco
+DEL_0603,"6579 Madison Ave, San Francisco",40.744818,-74.194897,San Francisco
+DEL_0604,"1057 Madison Ave, San Francisco",40.584634,-73.864532,San Francisco
+DEL_0605,"5611 Elm St, San Francisco",40.946799,-73.938986,San Francisco
+DEL_0606,"7968 5th Ave, San Francisco",40.836892,-73.86106,San Francisco
+DEL_0607,"7803 Park Ave, San Francisco",40.968487,-74.469434,San Francisco
+DEL_0608,"4561 Market St, San Francisco",40.83302,-73.772158,San Francisco
+DEL_0609,"628 Oak St, San Francisco",40.471589,-74.216531,San Francisco
+DEL_0610,"2552 Market St, San Francisco",40.559506,-74.179239,San Francisco
+DEL_0611,"2385 5th Ave, San Francisco",40.626004,-73.948331,San Francisco
+DEL_0612,"5246 Elm St, San Francisco",40.868777,-73.748962,San Francisco
+DEL_0613,"514 Elm St, San Francisco",40.561841,-74.206793,San Francisco
+DEL_0614,"6231 Main St, San Francisco",40.949885,-73.852264,San Francisco
+DEL_0615,"5923 Washington St, San Francisco",40.727731,-73.893484,San Francisco
+DEL_0616,"7757 5th Ave, San Francisco",40.70743,-73.881302,San Francisco
+DEL_0617,"887 5th Ave, San Francisco",40.652247,-73.942103,San Francisco
+DEL_0618,"376 Washington St, San Francisco",40.44063,-74.169492,San Francisco
+DEL_0619,"4422 Lexington Ave, San Francisco",40.590816,-74.094996,San Francisco
+DEL_0620,"2886 Park Ave, San Francisco",40.545861,-74.132828,San Francisco
+DEL_0621,"2323 Park Ave, San Francisco",40.439933,-73.875569,San Francisco
+DEL_0622,"4488 Washington St, San Francisco",40.697933,-74.411342,San Francisco
+DEL_0623,"1339 Lexington Ave, San Francisco",40.56238,-73.925987,San Francisco
+DEL_0624,"7397 Washington St, San Francisco",40.614958,-74.171669,San Francisco
+DEL_0625,"8598 5th Ave, San Francisco",40.69936,-73.924324,San Francisco
+DEL_0626,"4251 Broadway, San Francisco",40.453998,-73.87523,San Francisco
+DEL_0627,"881 Park Ave, San Francisco",40.568603,-74.010262,San Francisco
+DEL_0628,"7022 Madison Ave, San Francisco",40.706418,-74.131288,San Francisco
+DEL_0629,"4865 Broadway, San Francisco",40.528357,-74.07391,San Francisco
+DEL_0630,"3254 Madison Ave, San Francisco",41.005652,-74.329681,San Francisco
+DEL_0631,"6867 Market St, San Francisco",41.017721,-74.067738,San Francisco
+DEL_0632,"7791 Oak St, San Francisco",40.719173,-74.26432,San Francisco
+DEL_0633,"2633 Washington St, San Francisco",40.573833,-74.125546,San Francisco
+DEL_0634,"5812 Elm St, San Francisco",40.524386,-74.055662,San Francisco
+DEL_0635,"6376 Main St, San Francisco",40.639464,-73.566054,San Francisco
+DEL_0636,"9190 Elm St, San Francisco",40.502715,-73.98159,San Francisco
+DEL_0637,"3254 Park Ave, San Francisco",40.757457,-74.260424,San Francisco
+DEL_0638,"9478 Elm St, San Francisco",40.836553,-74.100686,San Francisco
+DEL_0639,"2370 Madison Ave, San Francisco",40.263721,-73.849148,San Francisco
+DEL_0640,"5186 Main St, San Francisco",40.511549,-74.255065,San Francisco
+DEL_0641,"2466 Market St, San Francisco",40.836746,-74.088523,San Francisco
+DEL_0642,"2417 Market St, San Francisco",40.878164,-73.718333,San Francisco
+DEL_0643,"5185 Park Ave, San Francisco",40.596597,-73.817435,San Francisco
+DEL_0644,"6659 Lexington Ave, San Francisco",40.576681,-73.47517,San Francisco
+DEL_0645,"8532 Main St, San Francisco",40.587943,-73.762091,San Francisco
+DEL_0646,"7382 Broadway, San Francisco",40.864834,-73.930863,San Francisco
+DEL_0647,"7362 Elm St, San Francisco",40.591981,-74.041988,San Francisco
+DEL_0648,"1597 Main St, San Francisco",40.324766,-73.952653,San Francisco
+DEL_0649,"3582 5th Ave, San Francisco",40.775794,-73.974266,San Francisco
+DEL_0650,"6885 Oak St, San Francisco",40.177069,-74.306852,San Francisco
+DEL_0651,"2722 Elm St, San Francisco",40.578009,-73.93667,San Francisco
+DEL_0652,"6186 5th Ave, San Francisco",40.764933,-74.046464,San Francisco
+DEL_0653,"5704 5th Ave, San Francisco",40.827259,-74.249946,San Francisco
+DEL_0654,"3132 Elm St, San Francisco",40.822752,-73.89315,San Francisco
+DEL_0655,"236 Madison Ave, San Francisco",40.780828,-74.049273,San Francisco
+DEL_0656,"5961 Main St, San Francisco",41.042664,-73.888763,San Francisco
+DEL_0657,"4948 Lexington Ave, San Francisco",40.538325,-73.946976,San Francisco
+DEL_0658,"8227 Park Ave, San Francisco",40.848383,-74.145798,San Francisco
+DEL_0659,"8178 Market St, San Francisco",40.909065,-73.915187,San Francisco
+DEL_0660,"6784 Washington St, San Francisco",40.290732,-73.934765,San Francisco
+DEL_0661,"5763 Madison Ave, San Francisco",40.639642,-73.878308,San Francisco
+DEL_0662,"8888 Washington St, San Francisco",40.882929,-73.959608,San Francisco
+DEL_0663,"8572 Madison Ave, San Francisco",41.012845,-74.04848,San Francisco
+DEL_0664,"1858 Broadway, San Francisco",40.82538,-73.814658,San Francisco
+DEL_0665,"7518 Washington St, San Francisco",40.69526,-73.820879,San Francisco
+DEL_0666,"6114 Broadway, San Francisco",40.605652,-74.106448,San Francisco
+DEL_0667,"9057 Elm St, San Francisco",40.476316,-73.948615,San Francisco
+DEL_0668,"2665 Oak St, San Francisco",40.771404,-73.725679,San Francisco
+DEL_0669,"7142 Washington St, San Francisco",40.855348,-74.073698,San Francisco
+DEL_0670,"4670 Washington St, San Francisco",40.500515,-73.903108,San Francisco
+DEL_0671,"4641 Elm St, San Francisco",40.912936,-73.826486,San Francisco
+DEL_0672,"1626 Park Ave, San Francisco",40.908201,-74.056368,San Francisco
+DEL_0673,"1701 Park Ave, San Francisco",40.628725,-74.181168,San Francisco
+DEL_0674,"270 Elm St, San Francisco",40.702729,-74.024682,San Francisco
+DEL_0675,"6739 Park Ave, San Francisco",40.750039,-74.036735,San Francisco
+DEL_0676,"8134 Elm St, San Francisco",40.688723,-74.190627,San Francisco
+DEL_0677,"8925 Park Ave, San Francisco",40.882461,-73.987811,San Francisco
+DEL_0678,"7277 Oak St, San Francisco",40.681369,-74.18367,San Francisco
+DEL_0679,"9523 Main St, San Francisco",40.472816,-73.695086,San Francisco
+DEL_0680,"4750 Washington St, San Francisco",40.812735,-74.392019,San Francisco
+DEL_0681,"3472 5th Ave, San Francisco",40.850303,-73.786719,San Francisco
+DEL_0682,"7449 Oak St, San Francisco",40.73521,-73.626116,San Francisco
+DEL_0683,"6244 Park Ave, San Francisco",40.751849,-74.342791,San Francisco
+DEL_0684,"3205 Market St, San Francisco",40.778596,-73.947786,San Francisco
+DEL_0685,"2039 Madison Ave, San Francisco",40.604098,-73.86966,San Francisco
+DEL_0686,"7602 Washington St, San Francisco",40.41232,-73.770534,San Francisco
+DEL_0687,"6485 Main St, San Francisco",40.55458,-74.24013,San Francisco
+DEL_0688,"6139 5th Ave, San Francisco",40.692291,-73.903079,San Francisco
+DEL_0689,"8316 Lexington Ave, San Francisco",40.742336,-74.182536,San Francisco
+DEL_0690,"4385 Lexington Ave, San Francisco",40.621613,-74.275334,San Francisco
+DEL_0691,"5037 Washington St, San Francisco",40.672317,-73.750459,San Francisco
+DEL_0692,"3958 Main St, San Francisco",40.712032,-73.80171,San Francisco
+DEL_0693,"6793 Main St, San Francisco",40.975034,-74.145777,San Francisco
+DEL_0694,"255 Main St, San Francisco",40.679183,-73.489889,San Francisco
+DEL_0695,"2513 Madison Ave, San Francisco",40.973042,-74.403544,San Francisco
+DEL_0696,"8503 Elm St, San Francisco",40.782556,-74.005867,San Francisco
+DEL_0697,"5202 Madison Ave, San Francisco",40.86171,-74.183088,San Francisco
+DEL_0698,"2793 Elm St, San Francisco",40.561519,-74.166708,San Francisco
+DEL_0699,"7046 5th Ave, San Francisco",40.60975,-73.812191,San Francisco
+DEL_0700,"9106 Washington St, San Francisco",40.499971,-74.154,San Francisco
+DEL_0701,"3157 Elm St, San Francisco",40.390455,-73.7666,San Francisco
+DEL_0702,"6445 Main St, San Francisco",40.941814,-74.083748,San Francisco
+DEL_0703,"9468 Washington St, San Francisco",40.659115,-73.898265,San Francisco
+DEL_0704,"2112 Washington St, San Francisco",40.978472,-73.90887,San Francisco
+DEL_0705,"2847 Washington St, San Francisco",40.587117,-74.390808,San Francisco
+DEL_0706,"5213 Oak St, San Francisco",40.511876,-73.988595,San Francisco
+DEL_0707,"2596 Washington St, San Francisco",40.594723,-73.959655,San Francisco
+DEL_0708,"3785 Park Ave, San Francisco",40.613174,-74.25753,San Francisco
+DEL_0709,"2070 Oak St, San Francisco",40.500722,-73.634615,San Francisco
+DEL_0710,"1940 Elm St, San Francisco",40.872978,-73.594642,San Francisco
+DEL_0711,"6423 Lexington Ave, San Francisco",40.810088,-74.108213,San Francisco
+DEL_0712,"9059 Broadway, San Francisco",40.95124,-74.013861,San Francisco
+DEL_0713,"5283 5th Ave, San Francisco",40.752591,-74.01618,San Francisco
+DEL_0714,"1528 Park Ave, San Francisco",40.181826,-73.624541,San Francisco
+DEL_0715,"421 Washington St, San Francisco",40.801269,-73.927598,San Francisco
+DEL_0716,"190 Elm St, San Francisco",40.701669,-73.967152,San Francisco
+DEL_0717,"2508 Main St, San Francisco",40.605182,-73.859434,San Francisco
+DEL_0718,"8908 Park Ave, San Francisco",40.477287,-73.96177,San Francisco
+DEL_0719,"9369 Washington St, San Francisco",40.813984,-74.053225,San Francisco
+DEL_0720,"415 Broadway, San Francisco",40.779623,-74.241648,San Francisco
+DEL_0721,"7434 Madison Ave, San Francisco",40.538777,-73.94973,San Francisco
+DEL_0722,"3057 5th Ave, San Francisco",40.835061,-74.451671,San Francisco
+DEL_0723,"3634 Lexington Ave, San Francisco",40.806858,-74.135123,San Francisco
+DEL_0724,"3176 Oak St, San Francisco",40.67806,-74.324415,San Francisco
+DEL_0725,"4019 Washington St, San Francisco",40.559355,-73.776344,San Francisco
+DEL_0726,"4268 Main St, San Francisco",40.718721,-74.09699,San Francisco
+DEL_0727,"4506 Park Ave, San Francisco",40.691811,-73.88971,San Francisco
+DEL_0728,"2356 Main St, San Francisco",40.792168,-74.023835,San Francisco
+DEL_0729,"9493 Park Ave, San Francisco",40.90973,-73.775313,San Francisco
+DEL_0730,"1818 Market St, San Francisco",40.787281,-73.993018,San Francisco
+DEL_0731,"9764 Park Ave, San Francisco",40.831236,-73.931296,San Francisco
+DEL_0732,"1755 Broadway, San Francisco",40.903935,-73.792167,San Francisco
+DEL_0733,"4628 Lexington Ave, San Francisco",40.529331,-74.264142,San Francisco
+DEL_0734,"2960 Park Ave, San Francisco",40.586449,-73.773964,San Francisco
+DEL_0735,"1268 Market St, San Francisco",40.42878,-73.912163,San Francisco
+DEL_0736,"5922 5th Ave, San Francisco",40.778123,-73.729629,San Francisco
+DEL_0737,"6403 Park Ave, San Francisco",40.745293,-74.325292,San Francisco
+DEL_0738,"8046 Main St, San Francisco",40.539943,-74.28697,San Francisco
+DEL_0739,"6779 Park Ave, San Francisco",40.615873,-74.049477,San Francisco
+DEL_0740,"7972 Park Ave, San Francisco",40.502811,-73.656411,San Francisco
+DEL_0741,"3446 Washington St, San Francisco",40.474011,-73.68602,San Francisco
+DEL_0742,"6149 Madison Ave, San Francisco",40.926343,-73.792466,San Francisco
+DEL_0743,"7388 Broadway, San Francisco",40.587797,-73.924597,San Francisco
+DEL_0744,"2946 Lexington Ave, San Francisco",40.482643,-73.78947,San Francisco
+DEL_0745,"167 Broadway, San Francisco",40.699469,-74.103299,San Francisco
+DEL_0746,"9295 Elm St, San Francisco",40.492305,-74.594924,San Francisco
+DEL_0747,"516 Park Ave, San Francisco",40.525676,-73.741479,San Francisco
+DEL_0748,"5617 Madison Ave, San Francisco",40.640217,-74.046251,San Francisco
+DEL_0749,"7929 Elm St, San Francisco",40.830918,-73.576778,San Francisco
+DEL_0750,"9831 Oak St, San Francisco",40.95154,-74.237132,San Francisco
+DEL_0751,"83 Broadway, San Francisco",40.362787,-73.4451,San Francisco
+DEL_0752,"8549 Lexington Ave, San Francisco",41.121627,-73.961203,San Francisco
+DEL_0753,"1993 5th Ave, San Francisco",40.483883,-73.777033,San Francisco
+DEL_0754,"9931 Main St, San Francisco",40.693343,-74.032857,San Francisco
+DEL_0755,"8782 Main St, San Francisco",40.873964,-73.926516,San Francisco
+DEL_0756,"8487 Oak St, San Francisco",40.49914,-74.083194,San Francisco
+DEL_0757,"2497 5th Ave, San Francisco",40.831927,-73.884709,San Francisco
+DEL_0758,"5979 Park Ave, San Francisco",40.76001,-73.784118,San Francisco
+DEL_0759,"3555 Main St, San Francisco",40.647626,-73.963529,San Francisco
+DEL_0760,"5367 Broadway, San Francisco",40.104588,-74.112886,San Francisco
+DEL_0761,"3601 Park Ave, San Francisco",40.85044,-74.0988,San Francisco
+DEL_0762,"2074 Lexington Ave, San Francisco",40.628795,-74.253562,San Francisco
+DEL_0763,"4484 Market St, San Francisco",40.893587,-73.875626,San Francisco
+DEL_0764,"3265 Park Ave, San Francisco",40.861523,-74.416335,San Francisco
+DEL_0765,"5711 Oak St, San Francisco",40.68389,-74.072585,San Francisco
+DEL_0766,"4823 Market St, San Francisco",40.662247,-74.152435,San Francisco
+DEL_0767,"8124 Washington St, San Francisco",40.650439,-73.804032,San Francisco
+DEL_0768,"8400 Washington St, San Francisco",40.368142,-73.583522,San Francisco
+DEL_0769,"3164 Lexington Ave, San Francisco",40.799979,-74.016063,San Francisco
+DEL_0770,"2834 5th Ave, San Francisco",40.876194,-74.351113,San Francisco
+DEL_0771,"4606 Washington St, San Francisco",40.593034,-74.034781,San Francisco
+DEL_0772,"1686 Elm St, San Francisco",40.958847,-74.017053,San Francisco
+DEL_0773,"9627 Lexington Ave, San Francisco",40.793891,-74.146148,San Francisco
+DEL_0774,"2715 5th Ave, San Francisco",40.800519,-73.607306,San Francisco
+DEL_0775,"7993 Washington St, San Francisco",40.892174,-74.025363,San Francisco
+DEL_0776,"7310 Washington St, San Francisco",40.83451,-73.868719,San Francisco
+DEL_0777,"9771 Lexington Ave, San Francisco",40.804077,-73.741679,San Francisco
+DEL_0778,"5223 Elm St, San Francisco",40.911805,-74.036227,San Francisco
+DEL_0779,"1763 Elm St, San Francisco",40.828454,-74.097065,San Francisco
+DEL_0780,"6276 Washington St, San Francisco",40.546481,-74.070061,San Francisco
+DEL_0781,"3273 Elm St, San Francisco",40.699056,-74.400972,San Francisco
+DEL_0782,"5783 Madison Ave, San Francisco",40.867815,-74.663816,San Francisco
+DEL_0783,"1053 Market St, San Francisco",41.201956,-73.648991,San Francisco
+DEL_0784,"2741 Main St, San Francisco",40.665771,-74.003759,San Francisco
+DEL_0785,"8379 Lexington Ave, San Francisco",40.76739,-74.146048,San Francisco
+DEL_0786,"9616 Washington St, San Francisco",40.747506,-74.04023,San Francisco
+DEL_0787,"4809 Elm St, San Francisco",40.695814,-73.962865,San Francisco
+DEL_0788,"8692 Madison Ave, San Francisco",40.476128,-73.996594,San Francisco
+DEL_0789,"6526 Main St, San Francisco",40.74225,-73.975371,San Francisco
+DEL_0790,"1879 Broadway, San Francisco",40.673912,-73.735522,San Francisco
+DEL_0791,"5287 Washington St, San Francisco",40.649079,-73.951963,San Francisco
+DEL_0792,"3047 Madison Ave, San Francisco",40.946547,-74.024868,San Francisco
+DEL_0793,"4020 Park Ave, San Francisco",40.751442,-74.028911,San Francisco
+DEL_0794,"3526 Madison Ave, San Francisco",40.93575,-74.067263,San Francisco
+DEL_0795,"6095 Broadway, San Francisco",40.944035,-74.030624,San Francisco
+DEL_0796,"5152 Park Ave, San Francisco",40.557942,-73.844507,San Francisco
+DEL_0797,"158 Madison Ave, San Francisco",40.657905,-73.858502,San Francisco
+DEL_0798,"179 Madison Ave, San Francisco",40.221015,-74.004763,San Francisco
+DEL_0799,"3503 Market St, San Francisco",40.629988,-74.258745,San Francisco
+DEL_0800,"9298 Madison Ave, San Francisco",40.613117,-74.142374,San Francisco

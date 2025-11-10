@@ -1,0 +1,8 @@
+date,condition,temperature_c,precipitation_mm,wind_speed_kmh,humidity_percent
+2025-11-10,cloudy,25.1,0.0,8.5,67.3
+2025-11-11,storm,19.2,11.4,34.3,65.3
+2025-11-12,rain,19.3,11.5,15.8,69.5
+2025-11-13,cloudy,24.5,0.0,18.8,83.7
+2025-11-14,cloudy,5.9,0.0,20.2,48.0
+2025-11-15,cloudy,18.3,0.0,21.0,50.2
+2025-11-16,cloudy,13.2,0.0,19.7,70.8

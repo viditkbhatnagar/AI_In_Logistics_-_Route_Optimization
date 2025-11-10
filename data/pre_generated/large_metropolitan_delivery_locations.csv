@@ -1,0 +1,501 @@
+delivery_id,address,latitude,longitude,city
+DEL_0001,"9820 Main St, Los Angeles",40.872499,-74.170651,Los Angeles
+DEL_0002,"126 5th Ave, Los Angeles",40.700813,-73.947695,Los Angeles
+DEL_0003,"4939 5th Ave, Los Angeles",40.921849,-74.062883,Los Angeles
+DEL_0004,"2249 Lexington Ave, Los Angeles",40.583462,-74.121137,Los Angeles
+DEL_0005,"4743 Madison Ave, Los Angeles",40.90254,-73.522666,Los Angeles
+DEL_0006,"1966 Main St, Los Angeles",40.476087,-74.266362,Los Angeles
+DEL_0007,"8150 Washington St, Los Angeles",40.682386,-73.979625,Los Angeles
+DEL_0008,"2879 Broadway, Los Angeles",40.854596,-74.21783,Los Angeles
+DEL_0009,"6230 Oak St, Los Angeles",40.521249,-73.973176,Los Angeles
+DEL_0010,"3771 Oak St, Los Angeles",40.666241,-73.785711,Los Angeles
+DEL_0011,"9155 Madison Ave, Los Angeles",40.800613,-73.873982,Los Angeles
+DEL_0012,"1181 Washington St, Los Angeles",40.693975,-73.446059,Los Angeles
+DEL_0013,"694 Washington St, Los Angeles",40.561854,-73.860805,Los Angeles
+DEL_0014,"308 Market St, Los Angeles",40.484027,-74.261172,Los Angeles
+DEL_0015,"1276 Madison Ave, Los Angeles",40.603368,-73.618696,Los Angeles
+DEL_0016,"9434 Washington St, Los Angeles",40.760349,-74.146362,Los Angeles
+DEL_0017,"9395 Washington St, Los Angeles",40.780266,-73.997645,Los Angeles
+DEL_0018,"6844 Lexington Ave, Los Angeles",40.624156,-74.33799,Los Angeles
+DEL_0019,"1888 Washington St, Los Angeles",40.971997,-73.956124,Los Angeles
+DEL_0020,"342 Madison Ave, Los Angeles",41.104465,-73.782478,Los Angeles
+DEL_0021,"2816 Elm St, Los Angeles",40.812137,-74.109452,Los Angeles
+DEL_0022,"7539 Madison Ave, Los Angeles",40.51544,-74.057756,Los Angeles
+DEL_0023,"1444 Washington St, Los Angeles",40.510225,-73.851444,Los Angeles
+DEL_0024,"1735 5th Ave, Los Angeles",41.006972,-74.068021,Los Angeles
+DEL_0025,"7139 Elm St, Los Angeles",40.882979,-74.169835,Los Angeles
+DEL_0026,"6561 Oak St, Los Angeles",40.658301,-74.199724,Los Angeles
+DEL_0027,"1289 Washington St, Los Angeles",40.328452,-74.014684,Los Angeles
+DEL_0028,"5084 Madison Ave, Los Angeles",40.735944,-73.752636,Los Angeles
+DEL_0029,"3631 Madison Ave, Los Angeles",40.856122,-73.813705,Los Angeles
+DEL_0030,"2755 Park Ave, Los Angeles",40.537298,-73.896774,Los Angeles
+DEL_0031,"8364 Park Ave, Los Angeles",40.997952,-73.915702,Los Angeles
+DEL_0032,"8694 Oak St, Los Angeles",41.042276,-73.526075,Los Angeles
+DEL_0033,"3177 Madison Ave, Los Angeles",40.664427,-74.171668,Los Angeles
+DEL_0034,"5753 Broadway, Los Angeles",40.5756,-74.366398,Los Angeles
+DEL_0035,"3872 Park Ave, Los Angeles",40.619394,-73.718928,Los Angeles
+DEL_0036,"2400 Lexington Ave, Los Angeles",40.315676,-74.252611,Los Angeles
+DEL_0037,"3233 Broadway, Los Angeles",40.689893,-74.214514,Los Angeles
+DEL_0038,"9870 Broadway, Los Angeles",40.617794,-74.127785,Los Angeles
+DEL_0039,"1235 Broadway, Los Angeles",40.666396,-74.179397,Los Angeles
+DEL_0040,"8096 Market St, Los Angeles",40.566635,-73.783907,Los Angeles
+DEL_0041,"9237 Elm St, Los Angeles",40.901927,-74.334167,Los Angeles
+DEL_0042,"7355 Elm St, Los Angeles",40.215575,-73.753227,Los Angeles
+DEL_0043,"5296 Madison Ave, Los Angeles",40.491395,-73.955429,Los Angeles
+DEL_0044,"2474 Market St, Los Angeles",40.430697,-73.697513,Los Angeles
+DEL_0045,"1119 Market St, Los Angeles",41.171119,-73.962545,Los Angeles
+DEL_0046,"7246 Lexington Ave, Los Angeles",40.695845,-74.082575,Los Angeles
+DEL_0047,"4501 Elm St, Los Angeles",40.853665,-73.871056,Los Angeles
+DEL_0048,"921 Madison Ave, Los Angeles",40.893611,-74.155261,Los Angeles
+DEL_0049,"8313 Park Ave, Los Angeles",40.774082,-74.134949,Los Angeles
+DEL_0050,"5086 Market St, Los Angeles",40.522221,-74.01575,Los Angeles
+DEL_0051,"7405 Main St, Los Angeles",40.546581,-73.726995,Los Angeles
+DEL_0052,"933 Madison Ave, Los Angeles",40.557499,-73.919582,Los Angeles
+DEL_0053,"4704 Park Ave, Los Angeles",40.604075,-73.94014,Los Angeles
+DEL_0054,"1480 Elm St, Los Angeles",40.618386,-74.30485,Los Angeles
+DEL_0055,"9734 Oak St, Los Angeles",40.799966,-74.06196,Los Angeles
+DEL_0056,"6300 Market St, Los Angeles",40.764329,-74.10794,Los Angeles
+DEL_0057,"9509 Oak St, Los Angeles",40.473532,-73.748519,Los Angeles
+DEL_0058,"673 Market St, Los Angeles",40.845549,-74.140771,Los Angeles
+DEL_0059,"9367 5th Ave, Los Angeles",40.725373,-73.758303,Los Angeles
+DEL_0060,"5268 Elm St, Los Angeles",40.630451,-74.07776,Los Angeles
+DEL_0061,"7793 Oak St, Los Angeles",40.756698,-74.11513,Los Angeles
+DEL_0062,"2472 Main St, Los Angeles",40.867231,-74.046149,Los Angeles
+DEL_0063,"7382 Park Ave, Los Angeles",40.571532,-73.861322,Los Angeles
+DEL_0064,"5627 Park Ave, Los Angeles",40.507011,-73.527047,Los Angeles
+DEL_0065,"8267 Broadway, Los Angeles",40.997934,-73.883938,Los Angeles
+DEL_0066,"642 5th Ave, Los Angeles",40.790157,-73.915091,Los Angeles
+DEL_0067,"7173 Market St, Los Angeles",40.624675,-73.935327,Los Angeles
+DEL_0068,"8587 Oak St, Los Angeles",40.54647,-73.886238,Los Angeles
+DEL_0069,"9992 Broadway, Los Angeles",40.869169,-74.095874,Los Angeles
+DEL_0070,"5963 Madison Ave, Los Angeles",40.605574,-74.294216,Los Angeles
+DEL_0071,"4635 Washington St, Los Angeles",40.975495,-74.128578,Los Angeles
+DEL_0072,"6698 Madison Ave, Los Angeles",40.676991,-73.934651,Los Angeles
+DEL_0073,"9796 Main St, Los Angeles",40.763648,-73.828536,Los Angeles
+DEL_0074,"5483 Park Ave, Los Angeles",40.644452,-74.276671,Los Angeles
+DEL_0075,"5402 Park Ave, Los Angeles",40.476104,-74.143694,Los Angeles
+DEL_0076,"9142 Washington St, Los Angeles",40.541295,-74.078172,Los Angeles
+DEL_0077,"4656 Lexington Ave, Los Angeles",40.9484,-74.095682,Los Angeles
+DEL_0078,"9875 Broadway, Los Angeles",40.644755,-74.009898,Los Angeles
+DEL_0079,"5462 Park Ave, Los Angeles",40.639714,-74.022019,Los Angeles
+DEL_0080,"9548 Broadway, Los Angeles",40.810254,-73.795687,Los Angeles
+DEL_0081,"5732 Lexington Ave, Los Angeles",40.893559,-73.517069,Los Angeles
+DEL_0082,"6422 Broadway, Los Angeles",40.815387,-73.474846,Los Angeles
+DEL_0083,"9750 Park Ave, Los Angeles",40.572893,-73.508884,Los Angeles
+DEL_0084,"5073 Oak St, Los Angeles",40.644264,-74.073038,Los Angeles
+DEL_0085,"6172 Madison Ave, Los Angeles",40.691201,-74.057968,Los Angeles
+DEL_0086,"2094 Oak St, Los Angeles",40.728267,-74.143877,Los Angeles
+DEL_0087,"1532 Washington St, Los Angeles",40.862343,-74.137413,Los Angeles
+DEL_0088,"8332 Madison Ave, Los Angeles",40.830928,-73.642847,Los Angeles
+DEL_0089,"299 Madison Ave, Los Angeles",40.648457,-73.817168,Los Angeles
+DEL_0090,"5061 Broadway, Los Angeles",40.813549,-73.47047,Los Angeles
+DEL_0091,"3510 Madison Ave, Los Angeles",40.62184,-73.817005,Los Angeles
+DEL_0092,"7968 5th Ave, Los Angeles",40.419825,-74.12387,Los Angeles
+DEL_0093,"3712 Broadway, Los Angeles",40.776474,-73.674834,Los Angeles
+DEL_0094,"2539 Park Ave, Los Angeles",40.491911,-73.81914,Los Angeles
+DEL_0095,"4847 Park Ave, Los Angeles",40.701408,-74.36768,Los Angeles
+DEL_0096,"8318 Oak St, Los Angeles",40.745518,-73.599718,Los Angeles
+DEL_0097,"8627 Main St, Los Angeles",40.510922,-74.032133,Los Angeles
+DEL_0098,"5518 Elm St, Los Angeles",40.535027,-74.117386,Los Angeles
+DEL_0099,"2148 Elm St, Los Angeles",40.970849,-74.070544,Los Angeles
+DEL_0100,"6173 Broadway, Los Angeles",40.965334,-73.742369,Los Angeles
+DEL_0101,"2659 Broadway, Los Angeles",40.647442,-74.125472,Los Angeles
+DEL_0102,"2713 Market St, Los Angeles",40.551359,-74.227278,Los Angeles
+DEL_0103,"716 Washington St, Los Angeles",40.776441,-74.010703,Los Angeles
+DEL_0104,"5969 5th Ave, Los Angeles",40.600439,-74.374154,Los Angeles
+DEL_0105,"7278 Elm St, Los Angeles",40.731931,-74.117616,Los Angeles
+DEL_0106,"4669 Market St, Los Angeles",40.677611,-73.933579,Los Angeles
+DEL_0107,"3834 Oak St, Los Angeles",40.262025,-74.370472,Los Angeles
+DEL_0108,"3919 Lexington Ave, Los Angeles",41.126574,-74.126426,Los Angeles
+DEL_0109,"7685 5th Ave, Los Angeles",40.259208,-74.350663,Los Angeles
+DEL_0110,"6027 Elm St, Los Angeles",41.160452,-74.173108,Los Angeles
+DEL_0111,"7219 Market St, Los Angeles",40.921632,-73.977209,Los Angeles
+DEL_0112,"4617 Washington St, Los Angeles",40.625419,-73.82167,Los Angeles
+DEL_0113,"8240 Oak St, Los Angeles",40.283186,-74.348569,Los Angeles
+DEL_0114,"6860 Broadway, Los Angeles",40.624088,-74.32522,Los Angeles
+DEL_0115,"3272 Elm St, Los Angeles",40.608155,-73.803065,Los Angeles
+DEL_0116,"2268 Lexington Ave, Los Angeles",40.736608,-73.689701,Los Angeles
+DEL_0117,"855 Market St, Los Angeles",40.748003,-73.770084,Los Angeles
+DEL_0118,"6082 Oak St, Los Angeles",40.701256,-74.146313,Los Angeles
+DEL_0119,"1681 Oak St, Los Angeles",40.979569,-74.174618,Los Angeles
+DEL_0120,"2043 Lexington Ave, Los Angeles",40.774754,-73.823227,Los Angeles
+DEL_0121,"1375 Broadway, Los Angeles",40.86442,-74.283035,Los Angeles
+DEL_0122,"4470 Market St, Los Angeles",40.902341,-74.238706,Los Angeles
+DEL_0123,"8411 Broadway, Los Angeles",40.858873,-73.878785,Los Angeles
+DEL_0124,"7168 Park Ave, Los Angeles",40.860301,-74.292439,Los Angeles
+DEL_0125,"3638 Market St, Los Angeles",40.818733,-73.747945,Los Angeles
+DEL_0126,"5728 Main St, Los Angeles",40.747646,-74.200592,Los Angeles
+DEL_0127,"6798 Main St, Los Angeles",40.87852,-73.97892,Los Angeles
+DEL_0128,"6496 Oak St, Los Angeles",40.411098,-74.219032,Los Angeles
+DEL_0129,"6127 5th Ave, Los Angeles",40.617972,-73.648055,Los Angeles
+DEL_0130,"6327 Park Ave, Los Angeles",40.952473,-73.690569,Los Angeles
+DEL_0131,"6143 5th Ave, Los Angeles",40.754667,-73.788831,Los Angeles
+DEL_0132,"462 Madison Ave, Los Angeles",40.507254,-74.004383,Los Angeles
+DEL_0133,"1624 Madison Ave, Los Angeles",40.794175,-74.261512,Los Angeles
+DEL_0134,"2393 Broadway, Los Angeles",40.750622,-73.605072,Los Angeles
+DEL_0135,"628 Lexington Ave, Los Angeles",40.813479,-73.787892,Los Angeles
+DEL_0136,"7741 Broadway, Los Angeles",40.270925,-73.635658,Los Angeles
+DEL_0137,"7686 Market St, Los Angeles",40.679264,-74.188723,Los Angeles
+DEL_0138,"87 Park Ave, Los Angeles",40.681334,-74.359002,Los Angeles
+DEL_0139,"312 Lexington Ave, Los Angeles",40.901618,-74.085726,Los Angeles
+DEL_0140,"3534 Broadway, Los Angeles",40.579713,-74.045948,Los Angeles
+DEL_0141,"8992 Elm St, Los Angeles",40.914244,-73.974751,Los Angeles
+DEL_0142,"8648 Washington St, Los Angeles",40.458801,-73.89547,Los Angeles
+DEL_0143,"1822 Lexington Ave, Los Angeles",40.545416,-74.518523,Los Angeles
+DEL_0144,"3894 Lexington Ave, Los Angeles",40.982351,-73.897313,Los Angeles
+DEL_0145,"1997 Main St, Los Angeles",40.698697,-74.088154,Los Angeles
+DEL_0146,"3907 Washington St, Los Angeles",40.964526,-73.272158,Los Angeles
+DEL_0147,"7490 Park Ave, Los Angeles",40.793661,-74.250753,Los Angeles
+DEL_0148,"1817 Market St, Los Angeles",40.684968,-73.903649,Los Angeles
+DEL_0149,"9777 Oak St, Los Angeles",40.289462,-73.926487,Los Angeles
+DEL_0150,"270 Oak St, Los Angeles",40.791435,-73.690717,Los Angeles
+DEL_0151,"9422 5th Ave, Los Angeles",40.933002,-73.979573,Los Angeles
+DEL_0152,"2353 Lexington Ave, Los Angeles",40.985708,-73.522102,Los Angeles
+DEL_0153,"7033 Main St, Los Angeles",40.717836,-73.906593,Los Angeles
+DEL_0154,"5781 5th Ave, Los Angeles",40.394368,-74.350908,Los Angeles
+DEL_0155,"9350 Washington St, Los Angeles",40.561774,-74.111452,Los Angeles
+DEL_0156,"3069 Park Ave, Los Angeles",40.5153,-74.014556,Los Angeles
+DEL_0157,"8577 Madison Ave, Los Angeles",40.638258,-73.751439,Los Angeles
+DEL_0158,"1109 Oak St, Los Angeles",40.627255,-74.549572,Los Angeles
+DEL_0159,"8915 Oak St, Los Angeles",40.735458,-74.009375,Los Angeles
+DEL_0160,"8317 Oak St, Los Angeles",40.557476,-73.983418,Los Angeles
+DEL_0161,"334 Washington St, Los Angeles",40.519059,-73.927594,Los Angeles
+DEL_0162,"7703 Main St, Los Angeles",41.187201,-74.435207,Los Angeles
+DEL_0163,"6339 Madison Ave, Los Angeles",40.619783,-74.166811,Los Angeles
+DEL_0164,"4156 Main St, Los Angeles",40.634735,-73.763555,Los Angeles
+DEL_0165,"5851 Park Ave, Los Angeles",40.810607,-73.804241,Los Angeles
+DEL_0166,"5650 5th Ave, Los Angeles",40.718295,-74.320274,Los Angeles
+DEL_0167,"1699 Elm St, Los Angeles",40.511956,-73.828608,Los Angeles
+DEL_0168,"5448 Broadway, Los Angeles",40.743581,-73.706438,Los Angeles
+DEL_0169,"727 Madison Ave, Los Angeles",40.76564,-74.287212,Los Angeles
+DEL_0170,"8946 Madison Ave, Los Angeles",40.618764,-73.871739,Los Angeles
+DEL_0171,"2869 Market St, Los Angeles",40.840788,-73.802734,Los Angeles
+DEL_0172,"7841 Broadway, Los Angeles",40.523877,-74.291495,Los Angeles
+DEL_0173,"2210 Park Ave, Los Angeles",40.678601,-73.663683,Los Angeles
+DEL_0174,"7499 Main St, Los Angeles",40.587779,-73.897849,Los Angeles
+DEL_0175,"4808 5th Ave, Los Angeles",40.794793,-73.825158,Los Angeles
+DEL_0176,"718 5th Ave, Los Angeles",41.012699,-73.634722,Los Angeles
+DEL_0177,"687 Madison Ave, Los Angeles",40.605664,-74.504687,Los Angeles
+DEL_0178,"5081 Oak St, Los Angeles",40.590542,-73.988012,Los Angeles
+DEL_0179,"6525 Oak St, Los Angeles",40.647639,-73.538214,Los Angeles
+DEL_0180,"7757 Lexington Ave, Los Angeles",40.716184,-73.850607,Los Angeles
+DEL_0181,"600 5th Ave, Los Angeles",40.751938,-74.088398,Los Angeles
+DEL_0182,"4688 Madison Ave, Los Angeles",40.365987,-74.024688,Los Angeles
+DEL_0183,"784 Madison Ave, Los Angeles",41.299223,-74.301818,Los Angeles
+DEL_0184,"4477 Park Ave, Los Angeles",40.385796,-73.545704,Los Angeles
+DEL_0185,"6030 Washington St, Los Angeles",40.846509,-73.961449,Los Angeles
+DEL_0186,"6554 Market St, Los Angeles",40.958327,-74.203655,Los Angeles
+DEL_0187,"6335 Madison Ave, Los Angeles",40.693594,-73.778952,Los Angeles
+DEL_0188,"3061 Market St, Los Angeles",41.093044,-74.283773,Los Angeles
+DEL_0189,"8152 Madison Ave, Los Angeles",40.943563,-73.915234,Los Angeles
+DEL_0190,"8508 Lexington Ave, Los Angeles",40.74218,-74.007837,Los Angeles
+DEL_0191,"1354 Washington St, Los Angeles",40.463314,-73.777066,Los Angeles
+DEL_0192,"1294 Washington St, Los Angeles",40.571851,-74.262651,Los Angeles
+DEL_0193,"9871 Broadway, Los Angeles",40.872342,-73.818416,Los Angeles
+DEL_0194,"8938 Lexington Ave, Los Angeles",40.727034,-73.749384,Los Angeles
+DEL_0195,"5263 Park Ave, Los Angeles",40.969726,-73.695024,Los Angeles
+DEL_0196,"1312 Madison Ave, Los Angeles",40.617615,-73.764939,Los Angeles
+DEL_0197,"4844 Lexington Ave, Los Angeles",40.750934,-73.595737,Los Angeles
+DEL_0198,"7306 Elm St, Los Angeles",40.690507,-74.090736,Los Angeles
+DEL_0199,"6982 Broadway, Los Angeles",40.602206,-73.961005,Los Angeles
+DEL_0200,"7273 Madison Ave, Los Angeles",40.796895,-73.890483,Los Angeles
+DEL_0201,"7326 Main St, Los Angeles",40.775714,-73.846489,Los Angeles
+DEL_0202,"5777 Elm St, Los Angeles",40.672702,-74.213404,Los Angeles
+DEL_0203,"7127 Lexington Ave, Los Angeles",40.539858,-73.774222,Los Angeles
+DEL_0204,"940 Park Ave, Los Angeles",40.797543,-74.447148,Los Angeles
+DEL_0205,"6656 Madison Ave, Los Angeles",40.910413,-73.559005,Los Angeles
+DEL_0206,"8407 Broadway, Los Angeles",40.583806,-73.926092,Los Angeles
+DEL_0207,"511 Broadway, Los Angeles",40.627492,-73.856646,Los Angeles
+DEL_0208,"9955 Market St, Los Angeles",40.502708,-74.022983,Los Angeles
+DEL_0209,"571 Broadway, Los Angeles",40.889613,-73.712261,Los Angeles
+DEL_0210,"1102 5th Ave, Los Angeles",40.789646,-74.086594,Los Angeles
+DEL_0211,"6002 Madison Ave, Los Angeles",40.425845,-74.186076,Los Angeles
+DEL_0212,"6273 Elm St, Los Angeles",40.628246,-74.171857,Los Angeles
+DEL_0213,"531 Elm St, Los Angeles",40.72353,-74.08727,Los Angeles
+DEL_0214,"2514 Market St, Los Angeles",40.743813,-73.720126,Los Angeles
+DEL_0215,"6078 Madison Ave, Los Angeles",40.639564,-74.334719,Los Angeles
+DEL_0216,"7274 Park Ave, Los Angeles",40.586366,-73.867276,Los Angeles
+DEL_0217,"9404 Broadway, Los Angeles",40.834952,-73.90947,Los Angeles
+DEL_0218,"8675 Madison Ave, Los Angeles",40.947167,-74.0503,Los Angeles
+DEL_0219,"6522 Madison Ave, Los Angeles",41.08256,-73.81151,Los Angeles
+DEL_0220,"4567 5th Ave, Los Angeles",40.258118,-73.577969,Los Angeles
+DEL_0221,"1859 Main St, Los Angeles",40.574604,-74.251814,Los Angeles
+DEL_0222,"3049 Market St, Los Angeles",40.807173,-74.41918,Los Angeles
+DEL_0223,"8483 Washington St, Los Angeles",40.58749,-73.635865,Los Angeles
+DEL_0224,"9203 Park Ave, Los Angeles",40.813019,-73.812924,Los Angeles
+DEL_0225,"4289 Lexington Ave, Los Angeles",40.594438,-74.371683,Los Angeles
+DEL_0226,"7312 5th Ave, Los Angeles",40.840154,-73.78487,Los Angeles
+DEL_0227,"4679 Market St, Los Angeles",40.872258,-73.956303,Los Angeles
+DEL_0228,"3280 Park Ave, Los Angeles",40.538553,-73.426522,Los Angeles
+DEL_0229,"2224 Park Ave, Los Angeles",40.799248,-74.047334,Los Angeles
+DEL_0230,"7407 Broadway, Los Angeles",40.682269,-73.970439,Los Angeles
+DEL_0231,"7293 Park Ave, Los Angeles",40.905522,-73.960924,Los Angeles
+DEL_0232,"5237 Madison Ave, Los Angeles",40.867487,-73.970012,Los Angeles
+DEL_0233,"1064 Oak St, Los Angeles",40.692556,-73.853569,Los Angeles
+DEL_0234,"8883 Lexington Ave, Los Angeles",40.8215,-74.046323,Los Angeles
+DEL_0235,"4915 Broadway, Los Angeles",40.577808,-73.924768,Los Angeles
+DEL_0236,"2853 Madison Ave, Los Angeles",40.726917,-74.137898,Los Angeles
+DEL_0237,"8336 5th Ave, Los Angeles",40.561016,-73.908426,Los Angeles
+DEL_0238,"1989 5th Ave, Los Angeles",40.811916,-74.091583,Los Angeles
+DEL_0239,"2276 5th Ave, Los Angeles",40.608307,-74.203359,Los Angeles
+DEL_0240,"8095 Main St, Los Angeles",40.781675,-74.197112,Los Angeles
+DEL_0241,"5913 Oak St, Los Angeles",41.116608,-74.103527,Los Angeles
+DEL_0242,"9377 Madison Ave, Los Angeles",40.275824,-74.013172,Los Angeles
+DEL_0243,"7658 Oak St, Los Angeles",40.699641,-73.741735,Los Angeles
+DEL_0244,"2127 Elm St, Los Angeles",40.764715,-74.20421,Los Angeles
+DEL_0245,"1413 Park Ave, Los Angeles",40.661198,-73.92817,Los Angeles
+DEL_0246,"5068 Washington St, Los Angeles",40.322761,-73.687799,Los Angeles
+DEL_0247,"7843 Oak St, Los Angeles",40.56304,-73.669157,Los Angeles
+DEL_0248,"6731 Washington St, Los Angeles",40.783514,-73.85634,Los Angeles
+DEL_0249,"9420 Park Ave, Los Angeles",40.919903,-73.869762,Los Angeles
+DEL_0250,"2054 Madison Ave, Los Angeles",40.834041,-74.045083,Los Angeles
+DEL_0251,"1216 Market St, Los Angeles",40.779857,-74.145653,Los Angeles
+DEL_0252,"7633 Oak St, Los Angeles",40.650924,-73.538976,Los Angeles
+DEL_0253,"5645 Broadway, Los Angeles",40.56718,-73.969318,Los Angeles
+DEL_0254,"9033 Elm St, Los Angeles",40.733245,-74.079869,Los Angeles
+DEL_0255,"2982 Broadway, Los Angeles",40.805485,-73.865818,Los Angeles
+DEL_0256,"7089 Oak St, Los Angeles",40.545986,-73.981907,Los Angeles
+DEL_0257,"908 Park Ave, Los Angeles",40.517779,-73.818555,Los Angeles
+DEL_0258,"8489 Broadway, Los Angeles",40.7446,-73.98643,Los Angeles
+DEL_0259,"4983 Broadway, Los Angeles",40.831544,-74.071491,Los Angeles
+DEL_0260,"2654 Madison Ave, Los Angeles",40.877489,-74.231453,Los Angeles
+DEL_0261,"3695 Madison Ave, Los Angeles",40.967192,-74.136956,Los Angeles
+DEL_0262,"8502 Lexington Ave, Los Angeles",40.407182,-74.084095,Los Angeles
+DEL_0263,"1293 Lexington Ave, Los Angeles",40.633166,-74.085888,Los Angeles
+DEL_0264,"3217 Oak St, Los Angeles",40.754538,-73.745034,Los Angeles
+DEL_0265,"4497 Broadway, Los Angeles",40.678258,-74.170403,Los Angeles
+DEL_0266,"4962 Elm St, Los Angeles",40.509819,-74.117291,Los Angeles
+DEL_0267,"8741 Park Ave, Los Angeles",40.372651,-74.17837,Los Angeles
+DEL_0268,"8235 Broadway, Los Angeles",40.936954,-74.201719,Los Angeles
+DEL_0269,"9697 Elm St, Los Angeles",40.826082,-74.297545,Los Angeles
+DEL_0270,"2527 Broadway, Los Angeles",41.031916,-73.569186,Los Angeles
+DEL_0271,"9915 Madison Ave, Los Angeles",40.81929,-73.532663,Los Angeles
+DEL_0272,"9235 Main St, Los Angeles",40.776907,-73.823317,Los Angeles
+DEL_0273,"465 Park Ave, Los Angeles",40.940175,-73.963279,Los Angeles
+DEL_0274,"745 Elm St, Los Angeles",40.433092,-73.818457,Los Angeles
+DEL_0275,"4337 5th Ave, Los Angeles",40.62778,-74.100496,Los Angeles
+DEL_0276,"9374 Washington St, Los Angeles",40.766475,-73.87139,Los Angeles
+DEL_0277,"497 Market St, Los Angeles",40.739851,-73.854882,Los Angeles
+DEL_0278,"8939 Lexington Ave, Los Angeles",40.585438,-74.016151,Los Angeles
+DEL_0279,"4950 Market St, Los Angeles",40.865788,-73.584593,Los Angeles
+DEL_0280,"4013 Washington St, Los Angeles",41.095942,-73.903078,Los Angeles
+DEL_0281,"4874 Market St, Los Angeles",40.864153,-73.534962,Los Angeles
+DEL_0282,"1196 Main St, Los Angeles",40.591929,-73.856315,Los Angeles
+DEL_0283,"2590 Market St, Los Angeles",40.85124,-73.661831,Los Angeles
+DEL_0284,"6810 Market St, Los Angeles",40.50791,-74.229305,Los Angeles
+DEL_0285,"7610 5th Ave, Los Angeles",40.716653,-73.916211,Los Angeles
+DEL_0286,"5574 Elm St, Los Angeles",40.915118,-73.882976,Los Angeles
+DEL_0287,"2354 Madison Ave, Los Angeles",40.685518,-73.907004,Los Angeles
+DEL_0288,"5232 Madison Ave, Los Angeles",40.767042,-73.591195,Los Angeles
+DEL_0289,"6533 Broadway, Los Angeles",40.742648,-74.097062,Los Angeles
+DEL_0290,"6071 Oak St, Los Angeles",40.793811,-73.958818,Los Angeles
+DEL_0291,"9203 Park Ave, Los Angeles",40.429738,-74.009721,Los Angeles
+DEL_0292,"5229 5th Ave, Los Angeles",40.694649,-74.135283,Los Angeles
+DEL_0293,"7643 Park Ave, Los Angeles",40.899392,-74.192763,Los Angeles
+DEL_0294,"4383 Market St, Los Angeles",40.794893,-74.041147,Los Angeles
+DEL_0295,"4062 Broadway, Los Angeles",40.732205,-73.908115,Los Angeles
+DEL_0296,"1587 Main St, Los Angeles",40.477201,-73.960441,Los Angeles
+DEL_0297,"4755 Washington St, Los Angeles",41.125223,-74.376056,Los Angeles
+DEL_0298,"6851 5th Ave, Los Angeles",40.70242,-73.738997,Los Angeles
+DEL_0299,"2617 Madison Ave, Los Angeles",40.767146,-73.842465,Los Angeles
+DEL_0300,"9465 Madison Ave, Los Angeles",40.284752,-73.863791,Los Angeles
+DEL_0301,"3111 Broadway, Los Angeles",40.575559,-73.93234,Los Angeles
+DEL_0302,"8164 Oak St, Los Angeles",40.707496,-73.464421,Los Angeles
+DEL_0303,"7649 Market St, Los Angeles",40.811304,-74.032772,Los Angeles
+DEL_0304,"5056 Market St, Los Angeles",40.440783,-73.977202,Los Angeles
+DEL_0305,"380 Park Ave, Los Angeles",40.86113,-74.025148,Los Angeles
+DEL_0306,"6443 Oak St, Los Angeles",40.621691,-74.142109,Los Angeles
+DEL_0307,"7492 5th Ave, Los Angeles",40.809222,-73.825487,Los Angeles
+DEL_0308,"3525 Elm St, Los Angeles",40.958063,-74.24252,Los Angeles
+DEL_0309,"5782 Main St, Los Angeles",40.807571,-74.03493,Los Angeles
+DEL_0310,"829 Lexington Ave, Los Angeles",40.696181,-73.910483,Los Angeles
+DEL_0311,"8109 Elm St, Los Angeles",40.786252,-73.880307,Los Angeles
+DEL_0312,"7711 Lexington Ave, Los Angeles",40.522265,-74.184236,Los Angeles
+DEL_0313,"8794 Main St, Los Angeles",40.980524,-74.058432,Los Angeles
+DEL_0314,"1762 Washington St, Los Angeles",40.767938,-73.755297,Los Angeles
+DEL_0315,"2195 Lexington Ave, Los Angeles",40.796303,-73.876087,Los Angeles
+DEL_0316,"5993 Washington St, Los Angeles",40.873985,-74.509149,Los Angeles
+DEL_0317,"5996 Main St, Los Angeles",40.624521,-73.894609,Los Angeles
+DEL_0318,"6564 Main St, Los Angeles",40.962826,-73.990289,Los Angeles
+DEL_0319,"9344 Oak St, Los Angeles",40.560599,-74.200466,Los Angeles
+DEL_0320,"3190 Madison Ave, Los Angeles",40.872054,-74.057767,Los Angeles
+DEL_0321,"9065 Lexington Ave, Los Angeles",40.711503,-73.859802,Los Angeles
+DEL_0322,"1205 Washington St, Los Angeles",40.190003,-73.530496,Los Angeles
+DEL_0323,"8262 Market St, Los Angeles",40.581075,-73.94849,Los Angeles
+DEL_0324,"9009 Lexington Ave, Los Angeles",40.405647,-74.106442,Los Angeles
+DEL_0325,"1947 Broadway, Los Angeles",40.937068,-74.461489,Los Angeles
+DEL_0326,"1585 Washington St, Los Angeles",40.915719,-74.07106,Los Angeles
+DEL_0327,"6115 Madison Ave, Los Angeles",40.800577,-73.849701,Los Angeles
+DEL_0328,"9140 Madison Ave, Los Angeles",40.792335,-74.211606,Los Angeles
+DEL_0329,"2364 5th Ave, Los Angeles",40.647115,-74.353424,Los Angeles
+DEL_0330,"9871 Oak St, Los Angeles",40.801412,-73.601407,Los Angeles
+DEL_0331,"6577 Oak St, Los Angeles",40.384072,-74.18705,Los Angeles
+DEL_0332,"660 Main St, Los Angeles",40.680048,-73.964795,Los Angeles
+DEL_0333,"638 Broadway, Los Angeles",40.87121,-74.042179,Los Angeles
+DEL_0334,"5457 Market St, Los Angeles",40.65587,-73.743777,Los Angeles
+DEL_0335,"8509 Market St, Los Angeles",40.832078,-73.87788,Los Angeles
+DEL_0336,"2441 Elm St, Los Angeles",40.733073,-73.772297,Los Angeles
+DEL_0337,"8447 Broadway, Los Angeles",40.594546,-74.19443,Los Angeles
+DEL_0338,"5374 Elm St, Los Angeles",40.847233,-74.392285,Los Angeles
+DEL_0339,"5219 Broadway, Los Angeles",40.729409,-74.081249,Los Angeles
+DEL_0340,"6439 Elm St, Los Angeles",40.459511,-74.22737,Los Angeles
+DEL_0341,"4903 Elm St, Los Angeles",40.693165,-73.760218,Los Angeles
+DEL_0342,"5512 Oak St, Los Angeles",40.59515,-73.717569,Los Angeles
+DEL_0343,"8352 Oak St, Los Angeles",40.724184,-73.694511,Los Angeles
+DEL_0344,"8026 Elm St, Los Angeles",40.603883,-74.017602,Los Angeles
+DEL_0345,"4912 Market St, Los Angeles",40.779193,-74.048671,Los Angeles
+DEL_0346,"273 Madison Ave, Los Angeles",40.884516,-74.530756,Los Angeles
+DEL_0347,"5428 Park Ave, Los Angeles",41.149269,-73.8021,Los Angeles
+DEL_0348,"6825 Elm St, Los Angeles",40.681533,-74.137291,Los Angeles
+DEL_0349,"5041 Main St, Los Angeles",40.556688,-73.852532,Los Angeles
+DEL_0350,"9780 Market St, Los Angeles",40.892076,-74.044634,Los Angeles
+DEL_0351,"4351 Elm St, Los Angeles",40.912258,-74.221663,Los Angeles
+DEL_0352,"9464 5th Ave, Los Angeles",40.517519,-73.574954,Los Angeles
+DEL_0353,"842 Elm St, Los Angeles",40.819306,-73.673958,Los Angeles
+DEL_0354,"7872 Broadway, Los Angeles",40.558937,-74.22553,Los Angeles
+DEL_0355,"8590 Elm St, Los Angeles",40.648186,-74.201886,Los Angeles
+DEL_0356,"6230 Broadway, Los Angeles",40.839893,-74.184549,Los Angeles
+DEL_0357,"3969 Main St, Los Angeles",40.501688,-73.972242,Los Angeles
+DEL_0358,"9381 Park Ave, Los Angeles",40.48037,-74.433747,Los Angeles
+DEL_0359,"3126 Main St, Los Angeles",40.73681,-74.421804,Los Angeles
+DEL_0360,"7226 Madison Ave, Los Angeles",40.85249,-74.337682,Los Angeles
+DEL_0361,"6862 Broadway, Los Angeles",40.309075,-74.075838,Los Angeles
+DEL_0362,"6766 5th Ave, Los Angeles",40.738853,-73.889172,Los Angeles
+DEL_0363,"6724 Oak St, Los Angeles",40.743794,-74.257807,Los Angeles
+DEL_0364,"7727 Main St, Los Angeles",40.841279,-73.777767,Los Angeles
+DEL_0365,"2263 Oak St, Los Angeles",40.495546,-74.049027,Los Angeles
+DEL_0366,"3398 Oak St, Los Angeles",40.663351,-73.953613,Los Angeles
+DEL_0367,"5326 Market St, Los Angeles",40.675877,-74.022135,Los Angeles
+DEL_0368,"8610 Washington St, Los Angeles",40.828442,-74.270772,Los Angeles
+DEL_0369,"5141 Broadway, Los Angeles",40.84566,-73.734743,Los Angeles
+DEL_0370,"7532 Oak St, Los Angeles",41.007239,-74.515496,Los Angeles
+DEL_0371,"5609 Oak St, Los Angeles",40.679845,-74.473121,Los Angeles
+DEL_0372,"5805 Lexington Ave, Los Angeles",40.27405,-73.971748,Los Angeles
+DEL_0373,"9996 Market St, Los Angeles",40.640881,-73.934723,Los Angeles
+DEL_0374,"3151 5th Ave, Los Angeles",40.800391,-73.709365,Los Angeles
+DEL_0375,"4572 Oak St, Los Angeles",40.722515,-73.311094,Los Angeles
+DEL_0376,"4891 5th Ave, Los Angeles",40.768009,-73.568027,Los Angeles
+DEL_0377,"4877 Lexington Ave, Los Angeles",40.292469,-73.685156,Los Angeles
+DEL_0378,"3397 Market St, Los Angeles",40.680231,-74.469138,Los Angeles
+DEL_0379,"5195 Market St, Los Angeles",40.788574,-74.078015,Los Angeles
+DEL_0380,"5715 Oak St, Los Angeles",40.817314,-73.765659,Los Angeles
+DEL_0381,"4481 Lexington Ave, Los Angeles",40.444485,-73.764745,Los Angeles
+DEL_0382,"1997 Elm St, Los Angeles",40.713967,-73.684418,Los Angeles
+DEL_0383,"8900 Washington St, Los Angeles",40.675836,-74.11782,Los Angeles
+DEL_0384,"6465 Madison Ave, Los Angeles",40.717675,-73.981787,Los Angeles
+DEL_0385,"2400 Lexington Ave, Los Angeles",40.593379,-74.123976,Los Angeles
+DEL_0386,"690 Lexington Ave, Los Angeles",40.491741,-74.109319,Los Angeles
+DEL_0387,"1295 Madison Ave, Los Angeles",40.834658,-74.03865,Los Angeles
+DEL_0388,"7248 Lexington Ave, Los Angeles",40.894614,-74.050078,Los Angeles
+DEL_0389,"7850 5th Ave, Los Angeles",40.454869,-73.864023,Los Angeles
+DEL_0390,"3311 Oak St, Los Angeles",40.591426,-74.061473,Los Angeles
+DEL_0391,"4443 Oak St, Los Angeles",40.935786,-74.281949,Los Angeles
+DEL_0392,"4451 Broadway, Los Angeles",40.742484,-74.015632,Los Angeles
+DEL_0393,"1790 Elm St, Los Angeles",40.839093,-73.802723,Los Angeles
+DEL_0394,"9615 5th Ave, Los Angeles",40.760339,-74.091664,Los Angeles
+DEL_0395,"3973 Main St, Los Angeles",40.798092,-73.688504,Los Angeles
+DEL_0396,"8701 5th Ave, Los Angeles",40.707883,-74.069529,Los Angeles
+DEL_0397,"3815 Main St, Los Angeles",40.782741,-73.996794,Los Angeles
+DEL_0398,"1642 Washington St, Los Angeles",40.471771,-73.949109,Los Angeles
+DEL_0399,"5412 Market St, Los Angeles",40.47014,-73.916983,Los Angeles
+DEL_0400,"1648 Broadway, Los Angeles",40.569171,-73.997235,Los Angeles
+DEL_0401,"85 Oak St, Los Angeles",40.783177,-73.422687,Los Angeles
+DEL_0402,"2588 Washington St, Los Angeles",40.846629,-73.681576,Los Angeles
+DEL_0403,"7794 Market St, Los Angeles",41.050052,-73.8897,Los Angeles
+DEL_0404,"3268 Lexington Ave, Los Angeles",40.764276,-74.259568,Los Angeles
+DEL_0405,"5263 Lexington Ave, Los Angeles",40.691786,-74.177884,Los Angeles
+DEL_0406,"970 Park Ave, Los Angeles",40.640537,-73.561328,Los Angeles
+DEL_0407,"9407 5th Ave, Los Angeles",40.733453,-74.214209,Los Angeles
+DEL_0408,"8768 Main St, Los Angeles",40.960464,-73.778923,Los Angeles
+DEL_0409,"2869 Washington St, Los Angeles",40.894359,-74.482874,Los Angeles
+DEL_0410,"2881 Main St, Los Angeles",41.063912,-74.138764,Los Angeles
+DEL_0411,"6505 Market St, Los Angeles",40.852972,-73.406072,Los Angeles
+DEL_0412,"3053 Lexington Ave, Los Angeles",41.101148,-74.238375,Los Angeles
+DEL_0413,"614 Main St, Los Angeles",40.452527,-73.665995,Los Angeles
+DEL_0414,"4889 Elm St, Los Angeles",40.738396,-74.125064,Los Angeles
+DEL_0415,"9876 Park Ave, Los Angeles",40.824731,-74.044718,Los Angeles
+DEL_0416,"5490 Lexington Ave, Los Angeles",40.839165,-73.990078,Los Angeles
+DEL_0417,"7445 Oak St, Los Angeles",40.84296,-74.218638,Los Angeles
+DEL_0418,"8591 Market St, Los Angeles",40.96946,-73.840169,Los Angeles
+DEL_0419,"2199 Oak St, Los Angeles",40.82925,-74.271679,Los Angeles
+DEL_0420,"7669 Lexington Ave, Los Angeles",41.01904,-74.00926,Los Angeles
+DEL_0421,"3160 Park Ave, Los Angeles",40.84398,-74.082738,Los Angeles
+DEL_0422,"5418 Broadway, Los Angeles",40.759807,-73.93537,Los Angeles
+DEL_0423,"7519 Lexington Ave, Los Angeles",40.204704,-73.867547,Los Angeles
+DEL_0424,"3051 Main St, Los Angeles",41.066916,-73.87769,Los Angeles
+DEL_0425,"5524 Lexington Ave, Los Angeles",40.54024,-73.851499,Los Angeles
+DEL_0426,"9303 5th Ave, Los Angeles",40.903697,-73.884182,Los Angeles
+DEL_0427,"2876 Elm St, Los Angeles",40.699444,-74.063561,Los Angeles
+DEL_0428,"6644 Washington St, Los Angeles",40.66842,-73.840133,Los Angeles
+DEL_0429,"8443 Madison Ave, Los Angeles",40.459264,-74.094397,Los Angeles
+DEL_0430,"1422 Washington St, Los Angeles",41.000297,-73.617538,Los Angeles
+DEL_0431,"1563 Broadway, Los Angeles",40.446467,-74.274946,Los Angeles
+DEL_0432,"2304 Market St, Los Angeles",40.66404,-73.793824,Los Angeles
+DEL_0433,"5302 5th Ave, Los Angeles",40.383525,-74.019028,Los Angeles
+DEL_0434,"112 Lexington Ave, Los Angeles",40.627362,-73.690807,Los Angeles
+DEL_0435,"6285 5th Ave, Los Angeles",40.410654,-73.984002,Los Angeles
+DEL_0436,"7320 Lexington Ave, Los Angeles",40.641879,-73.656617,Los Angeles
+DEL_0437,"5401 Lexington Ave, Los Angeles",40.820485,-74.145253,Los Angeles
+DEL_0438,"9544 Elm St, Los Angeles",40.866563,-74.098428,Los Angeles
+DEL_0439,"188 Lexington Ave, Los Angeles",40.892859,-74.062355,Los Angeles
+DEL_0440,"5891 5th Ave, Los Angeles",40.90283,-73.90234,Los Angeles
+DEL_0441,"1018 Park Ave, Los Angeles",41.300276,-74.018574,Los Angeles
+DEL_0442,"7626 Lexington Ave, Los Angeles",40.781784,-74.119963,Los Angeles
+DEL_0443,"2617 Washington St, Los Angeles",40.713284,-74.648249,Los Angeles
+DEL_0444,"8234 Lexington Ave, Los Angeles",40.796689,-73.686788,Los Angeles
+DEL_0445,"1924 Lexington Ave, Los Angeles",40.784265,-74.318316,Los Angeles
+DEL_0446,"6022 Elm St, Los Angeles",40.568334,-74.583677,Los Angeles
+DEL_0447,"3619 5th Ave, Los Angeles",40.889183,-74.245257,Los Angeles
+DEL_0448,"2189 Market St, Los Angeles",40.707627,-74.042545,Los Angeles
+DEL_0449,"2510 Market St, Los Angeles",40.980859,-73.985728,Los Angeles
+DEL_0450,"9925 Madison Ave, Los Angeles",40.858546,-73.876101,Los Angeles
+DEL_0451,"6814 Oak St, Los Angeles",40.957739,-74.062842,Los Angeles
+DEL_0452,"7715 Oak St, Los Angeles",41.049668,-74.478008,Los Angeles
+DEL_0453,"3579 5th Ave, Los Angeles",40.8673,-74.212003,Los Angeles
+DEL_0454,"9762 Park Ave, Los Angeles",40.624016,-73.870646,Los Angeles
+DEL_0455,"8610 Market St, Los Angeles",40.813954,-73.861847,Los Angeles
+DEL_0456,"8654 Madison Ave, Los Angeles",40.463042,-73.661554,Los Angeles
+DEL_0457,"1280 Elm St, Los Angeles",40.550521,-74.18839,Los Angeles
+DEL_0458,"1839 Main St, Los Angeles",40.827736,-74.074156,Los Angeles
+DEL_0459,"8973 Oak St, Los Angeles",40.768342,-74.518642,Los Angeles
+DEL_0460,"3313 Elm St, Los Angeles",40.76403,-73.95422,Los Angeles
+DEL_0461,"8793 Broadway, Los Angeles",40.620934,-74.499025,Los Angeles
+DEL_0462,"2696 Madison Ave, Los Angeles",40.674456,-74.014884,Los Angeles
+DEL_0463,"8526 Market St, Los Angeles",40.646633,-74.442474,Los Angeles
+DEL_0464,"1905 5th Ave, Los Angeles",41.000139,-74.157863,Los Angeles
+DEL_0465,"9555 Market St, Los Angeles",40.672763,-74.578752,Los Angeles
+DEL_0466,"1490 Oak St, Los Angeles",41.000161,-74.116903,Los Angeles
+DEL_0467,"7299 Main St, Los Angeles",40.730541,-73.739591,Los Angeles
+DEL_0468,"7430 Broadway, Los Angeles",40.590943,-73.777029,Los Angeles
+DEL_0469,"8410 Washington St, Los Angeles",40.34139,-73.875026,Los Angeles
+DEL_0470,"7485 Elm St, Los Angeles",40.996087,-74.14397,Los Angeles
+DEL_0471,"946 Oak St, Los Angeles",40.9144,-73.570061,Los Angeles
+DEL_0472,"7576 Lexington Ave, Los Angeles",40.666883,-74.086233,Los Angeles
+DEL_0473,"357 Washington St, Los Angeles",40.550945,-74.127167,Los Angeles
+DEL_0474,"4170 Main St, Los Angeles",40.565888,-74.219726,Los Angeles
+DEL_0475,"3571 Elm St, Los Angeles",40.928806,-74.193772,Los Angeles
+DEL_0476,"1197 Main St, Los Angeles",40.759381,-73.996912,Los Angeles
+DEL_0477,"6942 Madison Ave, Los Angeles",40.982727,-74.125604,Los Angeles
+DEL_0478,"1045 Oak St, Los Angeles",40.781475,-73.817956,Los Angeles
+DEL_0479,"988 Park Ave, Los Angeles",40.981223,-74.129074,Los Angeles
+DEL_0480,"7735 Main St, Los Angeles",40.601468,-74.258394,Los Angeles
+DEL_0481,"4704 Washington St, Los Angeles",41.115737,-73.676899,Los Angeles
+DEL_0482,"2949 Broadway, Los Angeles",40.705196,-73.546881,Los Angeles
+DEL_0483,"6888 Madison Ave, Los Angeles",40.694446,-73.833802,Los Angeles
+DEL_0484,"6267 Market St, Los Angeles",40.714633,-73.911438,Los Angeles
+DEL_0485,"6185 Washington St, Los Angeles",40.76537,-74.107023,Los Angeles
+DEL_0486,"1315 Oak St, Los Angeles",40.909647,-73.835812,Los Angeles
+DEL_0487,"2179 Madison Ave, Los Angeles",40.89797,-73.929879,Los Angeles
+DEL_0488,"1944 Broadway, Los Angeles",40.549454,-73.599665,Los Angeles
+DEL_0489,"8803 Washington St, Los Angeles",40.665493,-73.919458,Los Angeles
+DEL_0490,"8665 Broadway, Los Angeles",40.827283,-73.921038,Los Angeles
+DEL_0491,"3649 Main St, Los Angeles",40.87774,-73.750849,Los Angeles
+DEL_0492,"373 Lexington Ave, Los Angeles",40.672289,-73.619613,Los Angeles
+DEL_0493,"7586 Oak St, Los Angeles",40.664709,-73.925952,Los Angeles
+DEL_0494,"6949 Oak St, Los Angeles",40.642948,-74.16609,Los Angeles
+DEL_0495,"6215 5th Ave, Los Angeles",40.900943,-73.263899,Los Angeles
+DEL_0496,"4056 Market St, Los Angeles",40.647618,-73.717108,Los Angeles
+DEL_0497,"5672 Broadway, Los Angeles",40.654077,-74.008492,Los Angeles
+DEL_0498,"4517 5th Ave, Los Angeles",41.029482,-74.261188,Los Angeles
+DEL_0499,"1849 Main St, Los Angeles",40.47169,-74.026728,Los Angeles
+DEL_0500,"6869 Elm St, Los Angeles",40.832378,-73.895783,Los Angeles

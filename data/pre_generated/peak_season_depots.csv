@@ -1,0 +1,4 @@
+depot_id,name,latitude,longitude,capacity_vehicles
+DEPOT_1,Warehouse 1,40.786914,-74.006,13
+DEPOT_2,Warehouse 2,40.666246,-73.89962,34
+DEPOT_3,Warehouse 3,40.646056,-74.158515,24

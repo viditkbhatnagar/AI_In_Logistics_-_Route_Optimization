@@ -1,0 +1,1001 @@
+delivery_id,address,latitude,longitude,city
+DEL_0001,"1561 Washington St, New York",40.63271,-74.125654,New York
+DEL_0002,"4073 Market St, New York",40.557016,-74.361219,New York
+DEL_0003,"5665 Washington St, New York",40.877321,-73.94523,New York
+DEL_0004,"2436 Oak St, New York",40.856197,-74.132379,New York
+DEL_0005,"895 Main St, New York",40.700058,-73.626941,New York
+DEL_0006,"2572 Oak St, New York",40.71231,-73.813942,New York
+DEL_0007,"7689 Market St, New York",40.601547,-73.835797,New York
+DEL_0008,"2710 Park Ave, New York",40.613896,-74.456795,New York
+DEL_0009,"8056 Madison Ave, New York",40.711434,-74.117795,New York
+DEL_0010,"3947 Madison Ave, New York",40.420047,-73.960481,New York
+DEL_0011,"4558 Main St, New York",40.551804,-73.270854,New York
+DEL_0012,"8306 5th Ave, New York",40.448937,-74.294322,New York
+DEL_0013,"9020 Washington St, New York",40.869476,-74.03762,New York
+DEL_0014,"6608 5th Ave, New York",40.865809,-73.915578,New York
+DEL_0015,"1292 Market St, New York",40.60788,-74.333822,New York
+DEL_0016,"7278 Elm St, New York",40.905788,-74.312275,New York
+DEL_0017,"7342 Park Ave, New York",40.813504,-73.787546,New York
+DEL_0018,"8167 Market St, New York",40.689932,-74.078298,New York
+DEL_0019,"5179 Park Ave, New York",40.535552,-73.896002,New York
+DEL_0020,"8149 Main St, New York",40.163984,-73.835866,New York
+DEL_0021,"1682 Washington St, New York",40.734327,-74.058965,New York
+DEL_0022,"6756 Main St, New York",40.756458,-74.332506,New York
+DEL_0023,"9129 Oak St, New York",40.278027,-73.894616,New York
+DEL_0024,"3 Park Ave, New York",40.950016,-74.41947,New York
+DEL_0025,"9900 Elm St, New York",40.523164,-73.827166,New York
+DEL_0026,"4991 Oak St, New York",40.777465,-73.301645,New York
+DEL_0027,"9214 5th Ave, New York",40.906612,-73.807413,New York
+DEL_0028,"7475 Madison Ave, New York",40.57518,-73.881249,New York
+DEL_0029,"5954 Main St, New York",40.982244,-74.045077,New York
+DEL_0030,"3653 Market St, New York",40.69168,-73.972399,New York
+DEL_0031,"5440 Oak St, New York",40.593071,-73.942065,New York
+DEL_0032,"9830 Market St, New York",40.756759,-73.654195,New York
+DEL_0033,"5953 Market St, New York",40.678675,-73.845611,New York
+DEL_0034,"1869 Park Ave, New York",40.684049,-73.853924,New York
+DEL_0035,"3634 Main St, New York",40.667744,-73.869681,New York
+DEL_0036,"5593 Madison Ave, New York",40.844014,-74.259553,New York
+DEL_0037,"4784 Oak St, New York",40.911426,-74.045573,New York
+DEL_0038,"8553 Madison Ave, New York",40.628152,-74.174775,New York
+DEL_0039,"1742 Main St, New York",40.76653,-74.007099,New York
+DEL_0040,"2690 Market St, New York",40.779612,-73.913241,New York
+DEL_0041,"2302 Washington St, New York",40.822455,-73.346054,New York
+DEL_0042,"1753 Lexington Ave, New York",40.719952,-74.180614,New York
+DEL_0043,"3210 5th Ave, New York",40.34887,-74.290137,New York
+DEL_0044,"1979 Washington St, New York",40.935385,-73.834868,New York
+DEL_0045,"3533 Market St, New York",40.469559,-73.420236,New York
+DEL_0046,"3123 Madison Ave, New York",40.771676,-73.896579,New York
+DEL_0047,"1766 Washington St, New York",41.117165,-73.592517,New York
+DEL_0048,"762 Elm St, New York",40.853545,-73.808889,New York
+DEL_0049,"2019 Market St, New York",40.879068,-74.06328,New York
+DEL_0050,"7494 Elm St, New York",40.764474,-73.869479,New York
+DEL_0051,"8261 Broadway, New York",40.689956,-74.235488,New York
+DEL_0052,"8173 Main St, New York",40.664849,-74.24084,New York
+DEL_0053,"8690 Main St, New York",40.724399,-74.429229,New York
+DEL_0054,"9065 Washington St, New York",40.774248,-74.393767,New York
+DEL_0055,"9587 Market St, New York",40.640102,-73.886171,New York
+DEL_0056,"8329 Broadway, New York",40.855349,-73.846175,New York
+DEL_0057,"9480 Broadway, New York",40.77041,-74.272061,New York
+DEL_0058,"2104 Park Ave, New York",40.889486,-74.266624,New York
+DEL_0059,"6348 Elm St, New York",40.910021,-73.856789,New York
+DEL_0060,"9932 Madison Ave, New York",40.957647,-74.000089,New York
+DEL_0061,"8260 Washington St, New York",40.565275,-74.313274,New York
+DEL_0062,"6860 Elm St, New York",40.499903,-74.395075,New York
+DEL_0063,"4068 Lexington Ave, New York",40.88253,-73.752266,New York
+DEL_0064,"6519 Madison Ave, New York",40.812566,-74.013854,New York
+DEL_0065,"4820 Market St, New York",41.084144,-74.029331,New York
+DEL_0066,"2186 Broadway, New York",40.752605,-74.017375,New York
+DEL_0067,"6763 Elm St, New York",40.651844,-73.856012,New York
+DEL_0068,"8394 Lexington Ave, New York",40.598656,-74.172533,New York
+DEL_0069,"8976 Madison Ave, New York",40.835587,-74.124286,New York
+DEL_0070,"9070 5th Ave, New York",40.736851,-74.087137,New York
+DEL_0071,"3292 5th Ave, New York",40.710719,-74.166046,New York
+DEL_0072,"4761 Madison Ave, New York",40.597379,-74.200857,New York
+DEL_0073,"2174 Broadway, New York",40.864751,-73.965142,New York
+DEL_0074,"8256 Oak St, New York",40.878305,-73.762257,New York
+DEL_0075,"5282 Park Ave, New York",40.629933,-73.79644,New York
+DEL_0076,"5772 Oak St, New York",40.710256,-74.043718,New York
+DEL_0077,"7871 Elm St, New York",40.938452,-73.874365,New York
+DEL_0078,"9350 Washington St, New York",40.6493,-73.88981,New York
+DEL_0079,"8748 Lexington Ave, New York",40.484744,-73.947212,New York
+DEL_0080,"6921 Main St, New York",40.442603,-74.24,New York
+DEL_0081,"8565 Park Ave, New York",40.81814,-74.64074,New York
+DEL_0082,"415 Washington St, New York",41.037577,-73.807634,New York
+DEL_0083,"2382 Main St, New York",40.381533,-73.435857,New York
+DEL_0084,"928 5th Ave, New York",41.194621,-74.048904,New York
+DEL_0085,"4375 Broadway, New York",40.545865,-73.605152,New York
+DEL_0086,"4696 Lexington Ave, New York",40.650856,-73.96772,New York
+DEL_0087,"2400 Main St, New York",40.932131,-74.042491,New York
+DEL_0088,"4836 5th Ave, New York",40.669367,-74.308459,New York
+DEL_0089,"8867 Main St, New York",40.599189,-74.067987,New York
+DEL_0090,"5877 Market St, New York",40.489635,-74.278874,New York
+DEL_0091,"1680 Elm St, New York",40.718854,-74.44569,New York
+DEL_0092,"9206 5th Ave, New York",40.554392,-73.543754,New York
+DEL_0093,"9196 Washington St, New York",40.650553,-74.117895,New York
+DEL_0094,"3893 Oak St, New York",40.649747,-74.085431,New York
+DEL_0095,"4713 Main St, New York",40.81638,-73.885989,New York
+DEL_0096,"6252 Washington St, New York",40.642393,-74.056831,New York
+DEL_0097,"6826 Madison Ave, New York",40.949336,-74.365012,New York
+DEL_0098,"9047 Main St, New York",40.702425,-73.973851,New York
+DEL_0099,"213 Lexington Ave, New York",40.572857,-74.033369,New York
+DEL_0100,"3328 Elm St, New York",40.548534,-73.85454,New York
+DEL_0101,"7260 5th Ave, New York",40.471682,-73.753474,New York
+DEL_0102,"6026 Elm St, New York",40.699592,-74.112501,New York
+DEL_0103,"8956 Elm St, New York",40.531773,-73.761004,New York
+DEL_0104,"3219 5th Ave, New York",40.595347,-74.283465,New York
+DEL_0105,"4820 Market St, New York",40.902253,-74.220961,New York
+DEL_0106,"2907 Park Ave, New York",40.695776,-73.811364,New York
+DEL_0107,"3064 Broadway, New York",40.741261,-73.594562,New York
+DEL_0108,"8419 Park Ave, New York",40.562358,-74.05604,New York
+DEL_0109,"6181 Main St, New York",40.688804,-73.858327,New York
+DEL_0110,"7021 Lexington Ave, New York",40.944984,-73.988501,New York
+DEL_0111,"9120 Lexington Ave, New York",40.687996,-74.358519,New York
+DEL_0112,"2132 Broadway, New York",40.733049,-74.160582,New York
+DEL_0113,"9569 Lexington Ave, New York",40.82423,-74.103385,New York
+DEL_0114,"93 Madison Ave, New York",40.669442,-74.353118,New York
+DEL_0115,"7641 Broadway, New York",40.386412,-73.563628,New York
+DEL_0116,"655 Broadway, New York",40.736166,-73.909886,New York
+DEL_0117,"5286 Elm St, New York",40.548423,-73.797881,New York
+DEL_0118,"834 Elm St, New York",40.83805,-74.196744,New York
+DEL_0119,"4935 Market St, New York",40.521898,-74.180128,New York
+DEL_0120,"9383 Oak St, New York",40.707704,-73.966277,New York
+DEL_0121,"5867 Park Ave, New York",40.719718,-73.697281,New York
+DEL_0122,"5208 Oak St, New York",40.583979,-74.264309,New York
+DEL_0123,"3604 Broadway, New York",40.712818,-74.40846,New York
+DEL_0124,"8530 Park Ave, New York",40.838158,-73.982713,New York
+DEL_0125,"8277 Broadway, New York",40.651892,-74.099551,New York
+DEL_0126,"6815 Oak St, New York",40.876763,-73.797257,New York
+DEL_0127,"8799 Washington St, New York",40.668409,-73.865332,New York
+DEL_0128,"1507 Madison Ave, New York",40.868362,-73.926243,New York
+DEL_0129,"3625 5th Ave, New York",40.675779,-73.915393,New York
+DEL_0130,"5438 Madison Ave, New York",40.525577,-73.989098,New York
+DEL_0131,"5912 Lexington Ave, New York",40.670795,-74.098674,New York
+DEL_0132,"3580 Elm St, New York",40.401715,-74.250269,New York
+DEL_0133,"8692 Market St, New York",40.625251,-73.793242,New York
+DEL_0134,"9197 Main St, New York",40.7643,-73.782632,New York
+DEL_0135,"1880 Madison Ave, New York",40.936748,-73.92772,New York
+DEL_0136,"7302 5th Ave, New York",40.738078,-74.237289,New York
+DEL_0137,"3995 Main St, New York",41.070759,-74.343033,New York
+DEL_0138,"5259 Washington St, New York",40.734194,-73.808037,New York
+DEL_0139,"1858 Washington St, New York",40.865365,-74.280574,New York
+DEL_0140,"4204 Oak St, New York",40.637142,-74.195918,New York
+DEL_0141,"4634 Main St, New York",40.355965,-73.97502,New York
+DEL_0142,"8469 Madison Ave, New York",40.5835,-73.648134,New York
+DEL_0143,"8427 Oak St, New York",40.823642,-73.996158,New York
+DEL_0144,"7301 Market St, New York",40.627629,-73.978636,New York
+DEL_0145,"719 Lexington Ave, New York",40.666697,-73.98947,New York
+DEL_0146,"3155 Madison Ave, New York",41.055437,-74.259101,New York
+DEL_0147,"8420 Park Ave, New York",40.682414,-73.838086,New York
+DEL_0148,"1573 Broadway, New York",40.640703,-73.630292,New York
+DEL_0149,"8815 Oak St, New York",40.835045,-74.176886,New York
+DEL_0150,"121 Park Ave, New York",40.749569,-74.173491,New York
+DEL_0151,"3454 5th Ave, New York",40.569258,-74.039326,New York
+DEL_0152,"6951 Park Ave, New York",40.940505,-73.828802,New York
+DEL_0153,"3369 Oak St, New York",40.708732,-73.820306,New York
+DEL_0154,"7131 Park Ave, New York",40.7612,-74.284093,New York
+DEL_0155,"2520 Main St, New York",40.686649,-74.023391,New York
+DEL_0156,"7524 Madison Ave, New York",40.850042,-74.140655,New York
+DEL_0157,"621 Park Ave, New York",40.548356,-74.016827,New York
+DEL_0158,"1201 Main St, New York",40.596507,-74.082901,New York
+DEL_0159,"2917 Lexington Ave, New York",40.698227,-74.097053,New York
+DEL_0160,"9144 Park Ave, New York",40.886346,-73.66981,New York
+DEL_0161,"9421 5th Ave, New York",40.868279,-74.427028,New York
+DEL_0162,"4238 Washington St, New York",40.597129,-74.048467,New York
+DEL_0163,"6358 Market St, New York",40.380138,-74.214207,New York
+DEL_0164,"6627 Washington St, New York",40.678308,-74.112725,New York
+DEL_0165,"5184 Main St, New York",40.714359,-74.334234,New York
+DEL_0166,"6382 Park Ave, New York",40.629866,-73.96989,New York
+DEL_0167,"8763 Main St, New York",40.714638,-73.89977,New York
+DEL_0168,"1037 Elm St, New York",40.782813,-74.102773,New York
+DEL_0169,"746 Park Ave, New York",40.734443,-74.196165,New York
+DEL_0170,"5861 Oak St, New York",40.66411,-74.256929,New York
+DEL_0171,"1739 Lexington Ave, New York",40.904768,-74.071012,New York
+DEL_0172,"4938 Elm St, New York",40.904502,-73.931955,New York
+DEL_0173,"1418 Lexington Ave, New York",40.553221,-73.94631,New York
+DEL_0174,"7171 Washington St, New York",40.858695,-74.024442,New York
+DEL_0175,"6474 Main St, New York",40.726139,-74.137086,New York
+DEL_0176,"7766 Broadway, New York",40.717143,-73.94945,New York
+DEL_0177,"8741 5th Ave, New York",40.608509,-74.262558,New York
+DEL_0178,"2235 Washington St, New York",40.944867,-73.862396,New York
+DEL_0179,"8942 Lexington Ave, New York",40.614123,-73.953786,New York
+DEL_0180,"2361 Lexington Ave, New York",40.446389,-74.475966,New York
+DEL_0181,"6114 Main St, New York",40.908139,-73.951434,New York
+DEL_0182,"9069 Oak St, New York",40.704205,-73.950695,New York
+DEL_0183,"2317 Park Ave, New York",41.294085,-73.799409,New York
+DEL_0184,"685 Main St, New York",40.524432,-74.405439,New York
+DEL_0185,"9384 Elm St, New York",40.902806,-73.802499,New York
+DEL_0186,"6457 Oak St, New York",40.816415,-74.199228,New York
+DEL_0187,"8971 Park Ave, New York",40.778257,-74.177945,New York
+DEL_0188,"4993 5th Ave, New York",40.83222,-73.772414,New York
+DEL_0189,"5634 5th Ave, New York",40.614877,-73.736959,New York
+DEL_0190,"6761 Oak St, New York",40.733494,-73.889078,New York
+DEL_0191,"2334 Broadway, New York",40.47683,-73.950801,New York
+DEL_0192,"3015 5th Ave, New York",40.591073,-73.893176,New York
+DEL_0193,"4141 5th Ave, New York",40.977154,-73.937179,New York
+DEL_0194,"1878 Broadway, New York",40.550484,-73.857084,New York
+DEL_0195,"9295 Main St, New York",40.785194,-73.516653,New York
+DEL_0196,"8993 Market St, New York",40.75856,-74.145172,New York
+DEL_0197,"9006 Park Ave, New York",40.851654,-74.03635,New York
+DEL_0198,"4763 Park Ave, New York",40.72726,-74.226706,New York
+DEL_0199,"4108 Park Ave, New York",40.69074,-73.998677,New York
+DEL_0200,"3235 Elm St, New York",40.689674,-74.146459,New York
+DEL_0201,"7983 Madison Ave, New York",40.764733,-74.225517,New York
+DEL_0202,"5852 Broadway, New York",40.503972,-73.837337,New York
+DEL_0203,"3843 Park Ave, New York",40.824106,-74.316828,New York
+DEL_0204,"4672 Elm St, New York",40.38315,-74.245786,New York
+DEL_0205,"1144 5th Ave, New York",40.689683,-73.731602,New York
+DEL_0206,"5207 Market St, New York",40.685278,-74.188883,New York
+DEL_0207,"7384 Madison Ave, New York",40.739572,-74.033103,New York
+DEL_0208,"5009 Elm St, New York",40.46397,-74.332864,New York
+DEL_0209,"2497 Elm St, New York",40.469882,-73.416519,New York
+DEL_0210,"9288 Madison Ave, New York",40.867752,-74.147131,New York
+DEL_0211,"5183 Washington St, New York",40.912488,-74.141032,New York
+DEL_0212,"2763 Main St, New York",40.906526,-73.98691,New York
+DEL_0213,"5132 5th Ave, New York",40.594088,-73.844401,New York
+DEL_0214,"3630 Washington St, New York",40.737578,-73.911328,New York
+DEL_0215,"4534 Madison Ave, New York",40.75163,-73.957266,New York
+DEL_0216,"2201 Madison Ave, New York",40.857044,-73.391808,New York
+DEL_0217,"7864 Market St, New York",40.937808,-73.953789,New York
+DEL_0218,"7297 Madison Ave, New York",40.656835,-74.053716,New York
+DEL_0219,"5005 Market St, New York",40.48647,-73.848032,New York
+DEL_0220,"9039 Park Ave, New York",40.529931,-74.094535,New York
+DEL_0221,"2880 Elm St, New York",40.833584,-74.062414,New York
+DEL_0222,"1344 Lexington Ave, New York",40.624099,-74.290651,New York
+DEL_0223,"2294 Oak St, New York",40.929976,-74.204064,New York
+DEL_0224,"3219 Lexington Ave, New York",40.607237,-74.431909,New York
+DEL_0225,"1253 Park Ave, New York",40.709221,-74.085227,New York
+DEL_0226,"306 Oak St, New York",40.745567,-74.28522,New York
+DEL_0227,"512 Elm St, New York",40.845085,-74.443196,New York
+DEL_0228,"9485 Washington St, New York",40.696191,-73.978547,New York
+DEL_0229,"9668 5th Ave, New York",40.72321,-73.9685,New York
+DEL_0230,"601 Oak St, New York",40.854903,-73.691108,New York
+DEL_0231,"4270 Oak St, New York",40.684763,-74.236064,New York
+DEL_0232,"8843 Market St, New York",40.81383,-74.072615,New York
+DEL_0233,"2436 Madison Ave, New York",40.940659,-74.149092,New York
+DEL_0234,"6431 5th Ave, New York",40.558203,-73.971819,New York
+DEL_0235,"9661 Lexington Ave, New York",40.399211,-74.117112,New York
+DEL_0236,"2194 Market St, New York",40.653369,-73.953592,New York
+DEL_0237,"8211 Oak St, New York",40.533292,-74.215065,New York
+DEL_0238,"1484 Washington St, New York",40.921253,-74.0092,New York
+DEL_0239,"5962 Oak St, New York",40.86859,-74.134787,New York
+DEL_0240,"174 5th Ave, New York",40.702989,-73.955003,New York
+DEL_0241,"2718 Oak St, New York",41.027675,-74.05773,New York
+DEL_0242,"2300 Market St, New York",40.682842,-73.74496,New York
+DEL_0243,"2609 Broadway, New York",40.644366,-73.938341,New York
+DEL_0244,"9280 Elm St, New York",40.894955,-74.142882,New York
+DEL_0245,"2396 Market St, New York",40.774145,-73.591068,New York
+DEL_0246,"5879 Main St, New York",40.878803,-73.938269,New York
+DEL_0247,"3586 Market St, New York",40.672382,-74.149651,New York
+DEL_0248,"3797 Park Ave, New York",40.534748,-73.64715,New York
+DEL_0249,"4332 Madison Ave, New York",40.949822,-74.162202,New York
+DEL_0250,"3835 Main St, New York",40.773645,-73.979537,New York
+DEL_0251,"3388 Oak St, New York",40.926208,-73.915005,New York
+DEL_0252,"5919 Washington St, New York",40.708689,-74.134763,New York
+DEL_0253,"7696 Market St, New York",40.774218,-74.088766,New York
+DEL_0254,"761 Main St, New York",40.752563,-74.024059,New York
+DEL_0255,"5310 Park Ave, New York",40.645684,-74.237229,New York
+DEL_0256,"8543 Lexington Ave, New York",40.805448,-73.995881,New York
+DEL_0257,"4315 Elm St, New York",41.034858,-74.251397,New York
+DEL_0258,"8919 Elm St, New York",40.825466,-74.025646,New York
+DEL_0259,"2849 Washington St, New York",41.091135,-73.875505,New York
+DEL_0260,"6202 Madison Ave, New York",40.771302,-74.025041,New York
+DEL_0261,"9629 Park Ave, New York",40.586112,-73.931979,New York
+DEL_0262,"8466 Lexington Ave, New York",40.463736,-74.323646,New York
+DEL_0263,"6166 5th Ave, New York",40.895221,-74.424872,New York
+DEL_0264,"8461 Washington St, New York",40.655219,-74.255386,New York
+DEL_0265,"5782 Madison Ave, New York",40.640283,-73.962132,New York
+DEL_0266,"7977 Market St, New York",40.890197,-73.716558,New York
+DEL_0267,"9900 Main St, New York",40.547223,-74.116763,New York
+DEL_0268,"8223 Broadway, New York",41.442989,-74.065431,New York
+DEL_0269,"7208 Broadway, New York",40.553843,-74.176152,New York
+DEL_0270,"3769 Park Ave, New York",40.668811,-74.099357,New York
+DEL_0271,"8431 Lexington Ave, New York",40.670571,-74.011093,New York
+DEL_0272,"3466 Broadway, New York",40.707681,-74.233127,New York
+DEL_0273,"3063 Broadway, New York",40.779346,-73.977226,New York
+DEL_0274,"5935 Elm St, New York",40.802274,-74.41354,New York
+DEL_0275,"1939 5th Ave, New York",40.74106,-74.477993,New York
+DEL_0276,"6794 Madison Ave, New York",40.681166,-73.849603,New York
+DEL_0277,"1857 Market St, New York",40.901229,-73.926496,New York
+DEL_0278,"7845 Market St, New York",40.834492,-74.077076,New York
+DEL_0279,"3453 Elm St, New York",40.621058,-73.365909,New York
+DEL_0280,"2642 Washington St, New York",40.861838,-74.284828,New York
+DEL_0281,"368 5th Ave, New York",40.400248,-74.116551,New York
+DEL_0282,"707 Broadway, New York",40.927551,-73.994414,New York
+DEL_0283,"9397 Elm St, New York",40.312076,-74.048144,New York
+DEL_0284,"2640 Broadway, New York",40.712367,-74.580224,New York
+DEL_0285,"8400 Main St, New York",40.717154,-74.246886,New York
+DEL_0286,"9377 Broadway, New York",40.382071,-73.624595,New York
+DEL_0287,"917 Broadway, New York",40.522241,-74.164619,New York
+DEL_0288,"4232 Broadway, New York",40.590172,-74.005468,New York
+DEL_0289,"8465 Washington St, New York",41.031054,-74.290344,New York
+DEL_0290,"9820 Elm St, New York",40.65752,-73.97727,New York
+DEL_0291,"306 Lexington Ave, New York",40.556261,-74.082753,New York
+DEL_0292,"1405 5th Ave, New York",40.819917,-74.185637,New York
+DEL_0293,"7360 Elm St, New York",40.651783,-74.108536,New York
+DEL_0294,"7724 Market St, New York",40.694096,-73.948201,New York
+DEL_0295,"2795 5th Ave, New York",40.818487,-73.545427,New York
+DEL_0296,"6731 Elm St, New York",40.233795,-74.04579,New York
+DEL_0297,"2339 Elm St, New York",40.466956,-74.097606,New York
+DEL_0298,"2980 Elm St, New York",40.871515,-73.721275,New York
+DEL_0299,"8370 Lexington Ave, New York",40.937073,-73.712361,New York
+DEL_0300,"2748 Madison Ave, New York",40.68146,-73.673558,New York
+DEL_0301,"7430 Elm St, New York",41.000521,-73.973006,New York
+DEL_0302,"9677 Park Ave, New York",40.924915,-73.996198,New York
+DEL_0303,"3766 Washington St, New York",40.966896,-74.044429,New York
+DEL_0304,"6316 Broadway, New York",40.602976,-74.272231,New York
+DEL_0305,"1779 Main St, New York",40.681515,-73.98594,New York
+DEL_0306,"3316 Oak St, New York",40.542376,-74.065453,New York
+DEL_0307,"8264 Washington St, New York",40.617926,-74.262006,New York
+DEL_0308,"2451 Elm St, New York",40.899446,-73.71792,New York
+DEL_0309,"1578 Broadway, New York",40.898644,-74.026005,New York
+DEL_0310,"7797 Elm St, New York",40.708767,-74.258725,New York
+DEL_0311,"9828 Main St, New York",40.787509,-73.965677,New York
+DEL_0312,"8707 Oak St, New York",41.225223,-73.747587,New York
+DEL_0313,"1926 Park Ave, New York",40.769601,-74.015891,New York
+DEL_0314,"7902 Broadway, New York",40.893216,-74.223679,New York
+DEL_0315,"9888 Oak St, New York",40.91814,-74.264423,New York
+DEL_0316,"20 Washington St, New York",40.611625,-74.44295,New York
+DEL_0317,"8554 Washington St, New York",40.823444,-73.94659,New York
+DEL_0318,"6069 Main St, New York",40.611632,-74.226864,New York
+DEL_0319,"8681 Washington St, New York",40.961218,-74.037759,New York
+DEL_0320,"3760 Market St, New York",40.574549,-73.549141,New York
+DEL_0321,"6247 Madison Ave, New York",40.59441,-73.735341,New York
+DEL_0322,"9651 Elm St, New York",40.505414,-74.090374,New York
+DEL_0323,"1601 Washington St, New York",40.803303,-74.019748,New York
+DEL_0324,"2194 Lexington Ave, New York",40.756721,-74.134086,New York
+DEL_0325,"7818 5th Ave, New York",40.424909,-73.65762,New York
+DEL_0326,"1374 Lexington Ave, New York",40.626705,-73.937299,New York
+DEL_0327,"9803 Oak St, New York",40.839279,-73.932606,New York
+DEL_0328,"6696 Lexington Ave, New York",40.585126,-73.730314,New York
+DEL_0329,"3097 Main St, New York",40.805355,-73.95875,New York
+DEL_0330,"117 Elm St, New York",40.744437,-73.606112,New York
+DEL_0331,"8562 Park Ave, New York",40.581257,-73.90729,New York
+DEL_0332,"8516 Main St, New York",40.617551,-74.466276,New York
+DEL_0333,"6145 5th Ave, New York",40.359154,-74.247187,New York
+DEL_0334,"5176 Washington St, New York",40.594162,-73.489472,New York
+DEL_0335,"5936 Park Ave, New York",40.838636,-73.818604,New York
+DEL_0336,"2536 Washington St, New York",40.598011,-73.991422,New York
+DEL_0337,"9591 Lexington Ave, New York",41.128323,-74.294677,New York
+DEL_0338,"4282 Oak St, New York",40.795005,-73.622982,New York
+DEL_0339,"6940 Elm St, New York",40.886844,-73.577759,New York
+DEL_0340,"5991 Elm St, New York",40.751154,-73.862554,New York
+DEL_0341,"4515 Washington St, New York",40.732579,-73.879219,New York
+DEL_0342,"3338 Washington St, New York",40.547898,-73.817652,New York
+DEL_0343,"9046 Oak St, New York",40.765818,-73.991105,New York
+DEL_0344,"7905 Broadway, New York",41.027465,-74.069084,New York
+DEL_0345,"6066 Oak St, New York",40.930426,-73.695249,New York
+DEL_0346,"9092 Market St, New York",40.866952,-74.235412,New York
+DEL_0347,"4158 Lexington Ave, New York",40.777499,-73.540454,New York
+DEL_0348,"9465 Madison Ave, New York",40.385133,-74.050608,New York
+DEL_0349,"6523 Broadway, New York",40.922225,-74.033413,New York
+DEL_0350,"1952 5th Ave, New York",40.858726,-73.671024,New York
+DEL_0351,"7318 Broadway, New York",40.754603,-73.885009,New York
+DEL_0352,"1643 5th Ave, New York",40.729353,-73.935209,New York
+DEL_0353,"8329 Washington St, New York",41.091647,-74.021201,New York
+DEL_0354,"5545 Oak St, New York",40.649169,-73.758366,New York
+DEL_0355,"853 Broadway, New York",40.560922,-74.152124,New York
+DEL_0356,"6376 Main St, New York",40.603188,-74.066823,New York
+DEL_0357,"1493 Broadway, New York",40.674566,-73.839818,New York
+DEL_0358,"7728 Elm St, New York",40.651113,-73.830223,New York
+DEL_0359,"7134 Park Ave, New York",40.868508,-74.161345,New York
+DEL_0360,"1050 Lexington Ave, New York",40.864639,-73.784119,New York
+DEL_0361,"3634 Madison Ave, New York",40.395514,-73.936237,New York
+DEL_0362,"1312 Elm St, New York",40.621555,-73.696251,New York
+DEL_0363,"619 Washington St, New York",40.619718,-74.324406,New York
+DEL_0364,"6565 Elm St, New York",40.707428,-74.219218,New York
+DEL_0365,"8537 Lexington Ave, New York",40.865878,-74.198214,New York
+DEL_0366,"9789 Main St, New York",40.709646,-73.638548,New York
+DEL_0367,"2872 Market St, New York",40.910733,-73.892414,New York
+DEL_0368,"7193 Main St, New York",40.689813,-73.914982,New York
+DEL_0369,"3305 Oak St, New York",40.836941,-74.240524,New York
+DEL_0370,"4686 5th Ave, New York",40.866194,-74.267882,New York
+DEL_0371,"551 Elm St, New York",40.815944,-74.269117,New York
+DEL_0372,"8365 Oak St, New York",41.066457,-73.824547,New York
+DEL_0373,"3796 Elm St, New York",40.432435,-74.00622,New York
+DEL_0374,"2777 Main St, New York",40.61885,-74.158068,New York
+DEL_0375,"5894 5th Ave, New York",40.739305,-74.226592,New York
+DEL_0376,"5 Broadway, New York",40.850001,-73.838498,New York
+DEL_0377,"1423 Lexington Ave, New York",40.77612,-74.010636,New York
+DEL_0378,"6545 Madison Ave, New York",40.831686,-73.817881,New York
+DEL_0379,"6475 Washington St, New York",40.794767,-74.317843,New York
+DEL_0380,"9603 5th Ave, New York",40.570748,-74.06972,New York
+DEL_0381,"8483 Main St, New York",40.446892,-73.952753,New York
+DEL_0382,"1125 Park Ave, New York",40.967035,-73.708463,New York
+DEL_0383,"9005 Lexington Ave, New York",40.846066,-73.833017,New York
+DEL_0384,"9161 Elm St, New York",41.111952,-73.805407,New York
+DEL_0385,"5704 Madison Ave, New York",40.879581,-74.348042,New York
+DEL_0386,"4531 5th Ave, New York",40.952948,-73.911274,New York
+DEL_0387,"9935 5th Ave, New York",40.698424,-74.083882,New York
+DEL_0388,"7451 Washington St, New York",40.613954,-73.707254,New York
+DEL_0389,"9420 Main St, New York",40.70769,-74.12763,New York
+DEL_0390,"4278 Broadway, New York",40.573783,-73.965447,New York
+DEL_0391,"6671 Oak St, New York",40.648005,-74.145714,New York
+DEL_0392,"1745 Oak St, New York",40.463763,-73.777953,New York
+DEL_0393,"1186 Oak St, New York",40.687931,-74.26397,New York
+DEL_0394,"4822 Madison Ave, New York",40.663929,-73.875467,New York
+DEL_0395,"1918 Oak St, New York",40.717997,-73.960599,New York
+DEL_0396,"4223 Oak St, New York",40.720466,-74.309519,New York
+DEL_0397,"9420 Lexington Ave, New York",40.883702,-74.412064,New York
+DEL_0398,"7255 Washington St, New York",40.79596,-73.859674,New York
+DEL_0399,"9227 Market St, New York",40.673189,-73.921989,New York
+DEL_0400,"3986 Madison Ave, New York",40.662866,-73.919119,New York
+DEL_0401,"7518 Market St, New York",40.891705,-74.194295,New York
+DEL_0402,"9615 Main St, New York",40.834235,-73.603703,New York
+DEL_0403,"7897 Park Ave, New York",40.760469,-74.125592,New York
+DEL_0404,"4225 Park Ave, New York",41.12059,-73.984914,New York
+DEL_0405,"6270 5th Ave, New York",40.754517,-73.946009,New York
+DEL_0406,"3768 Madison Ave, New York",40.793496,-74.086553,New York
+DEL_0407,"6758 Madison Ave, New York",40.747033,-73.779658,New York
+DEL_0408,"8463 Oak St, New York",40.645521,-74.105836,New York
+DEL_0409,"160 Lexington Ave, New York",40.660172,-74.26695,New York
+DEL_0410,"4068 Lexington Ave, New York",40.589766,-74.178001,New York
+DEL_0411,"1524 Washington St, New York",40.712706,-73.807241,New York
+DEL_0412,"5604 Park Ave, New York",40.97473,-73.992406,New York
+DEL_0413,"9086 Broadway, New York",40.795047,-73.948143,New York
+DEL_0414,"7808 Madison Ave, New York",40.335604,-74.278863,New York
+DEL_0415,"5793 5th Ave, New York",40.849965,-73.801931,New York
+DEL_0416,"9400 Lexington Ave, New York",40.86336,-74.048267,New York
+DEL_0417,"2995 5th Ave, New York",40.35337,-74.250489,New York
+DEL_0418,"8176 5th Ave, New York",40.555051,-73.856536,New York
+DEL_0419,"3848 5th Ave, New York",40.648409,-73.604178,New York
+DEL_0420,"4349 5th Ave, New York",40.977239,-73.608148,New York
+DEL_0421,"3756 5th Ave, New York",40.547663,-73.889311,New York
+DEL_0422,"4092 Elm St, New York",40.62676,-73.928062,New York
+DEL_0423,"5834 Broadway, New York",40.567644,-73.714532,New York
+DEL_0424,"1748 Park Ave, New York",40.571011,-74.468875,New York
+DEL_0425,"1286 Market St, New York",41.079247,-73.900815,New York
+DEL_0426,"109 Oak St, New York",40.520165,-74.044573,New York
+DEL_0427,"693 Market St, New York",40.608862,-74.004635,New York
+DEL_0428,"6082 Elm St, New York",40.857445,-73.852493,New York
+DEL_0429,"5168 Market St, New York",40.758517,-74.004751,New York
+DEL_0430,"9413 Lexington Ave, New York",40.907155,-74.463697,New York
+DEL_0431,"8042 Broadway, New York",40.577857,-74.238636,New York
+DEL_0432,"8375 Lexington Ave, New York",40.894108,-74.181688,New York
+DEL_0433,"6519 5th Ave, New York",40.481096,-73.87542,New York
+DEL_0434,"9449 Broadway, New York",40.549062,-74.089371,New York
+DEL_0435,"888 Oak St, New York",41.141835,-73.818891,New York
+DEL_0436,"6934 Market St, New York",40.674775,-74.034793,New York
+DEL_0437,"8860 Main St, New York",40.876311,-73.84843,New York
+DEL_0438,"8233 Madison Ave, New York",40.726422,-73.981383,New York
+DEL_0439,"6451 Broadway, New York",40.446161,-74.40773,New York
+DEL_0440,"7491 Park Ave, New York",40.68094,-74.156537,New York
+DEL_0441,"8491 Market St, New York",40.8184,-73.959129,New York
+DEL_0442,"5172 Main St, New York",40.573561,-73.967206,New York
+DEL_0443,"194 5th Ave, New York",40.637443,-73.514752,New York
+DEL_0444,"6217 Elm St, New York",40.782393,-74.376969,New York
+DEL_0445,"1651 Madison Ave, New York",41.040821,-74.156505,New York
+DEL_0446,"5925 Elm St, New York",40.537172,-73.496428,New York
+DEL_0447,"4255 Broadway, New York",40.775113,-73.839422,New York
+DEL_0448,"8988 Lexington Ave, New York",40.844883,-74.054965,New York
+DEL_0449,"3886 Lexington Ave, New York",40.609664,-74.103284,New York
+DEL_0450,"7723 Elm St, New York",41.002686,-73.957558,New York
+DEL_0451,"5622 Madison Ave, New York",40.949361,-74.024172,New York
+DEL_0452,"3014 Market St, New York",40.576695,-74.348827,New York
+DEL_0453,"6946 5th Ave, New York",40.829557,-73.603299,New York
+DEL_0454,"6867 Madison Ave, New York",40.553165,-73.883967,New York
+DEL_0455,"5982 Washington St, New York",40.464941,-74.138094,New York
+DEL_0456,"4582 Market St, New York",40.761077,-74.41683,New York
+DEL_0457,"2948 Elm St, New York",40.709553,-74.204891,New York
+DEL_0458,"2149 Elm St, New York",40.821766,-74.045317,New York
+DEL_0459,"3745 Park Ave, New York",40.882068,-74.072463,New York
+DEL_0460,"4423 5th Ave, New York",40.467326,-74.359463,New York
+DEL_0461,"9099 Washington St, New York",40.368834,-73.855541,New York
+DEL_0462,"6241 5th Ave, New York",41.173652,-73.90254,New York
+DEL_0463,"2390 Broadway, New York",41.01407,-73.73654,New York
+DEL_0464,"7750 Main St, New York",40.619406,-73.705224,New York
+DEL_0465,"2894 Washington St, New York",40.62657,-74.115039,New York
+DEL_0466,"8186 Broadway, New York",40.675216,-74.044318,New York
+DEL_0467,"8471 Oak St, New York",40.831966,-74.165475,New York
+DEL_0468,"5173 Market St, New York",40.872999,-73.798066,New York
+DEL_0469,"4916 Lexington Ave, New York",40.774595,-73.544938,New York
+DEL_0470,"9211 Elm St, New York",40.944763,-73.751716,New York
+DEL_0471,"782 Washington St, New York",40.72472,-73.922382,New York
+DEL_0472,"1622 Broadway, New York",40.80718,-74.002852,New York
+DEL_0473,"984 5th Ave, New York",40.64513,-74.577858,New York
+DEL_0474,"4167 Market St, New York",40.842127,-73.758439,New York
+DEL_0475,"1578 Market St, New York",40.503589,-73.862146,New York
+DEL_0476,"5484 Lexington Ave, New York",40.606219,-74.093127,New York
+DEL_0477,"5915 Madison Ave, New York",40.948973,-74.241482,New York
+DEL_0478,"9181 Oak St, New York",40.534035,-73.576976,New York
+DEL_0479,"4223 Madison Ave, New York",40.686574,-73.709686,New York
+DEL_0480,"325 Washington St, New York",40.424745,-74.366985,New York
+DEL_0481,"1987 Madison Ave, New York",40.548305,-74.120447,New York
+DEL_0482,"9922 5th Ave, New York",40.459956,-73.918215,New York
+DEL_0483,"9452 Elm St, New York",40.791105,-74.219496,New York
+DEL_0484,"8822 Broadway, New York",40.565305,-74.169254,New York
+DEL_0485,"4664 Madison Ave, New York",40.502911,-74.694298,New York
+DEL_0486,"5327 Oak St, New York",40.697477,-74.108319,New York
+DEL_0487,"7988 Market St, New York",40.653675,-74.246514,New York
+DEL_0488,"1285 Washington St, New York",40.858836,-73.429464,New York
+DEL_0489,"4695 Market St, New York",40.562514,-73.673281,New York
+DEL_0490,"2374 Broadway, New York",40.778863,-73.99758,New York
+DEL_0491,"5528 Washington St, New York",40.650796,-74.025781,New York
+DEL_0492,"9366 Washington St, New York",40.919933,-74.276531,New York
+DEL_0493,"1169 Park Ave, New York",40.663249,-73.709102,New York
+DEL_0494,"2655 Madison Ave, New York",40.890046,-74.272848,New York
+DEL_0495,"3740 Madison Ave, New York",40.679901,-73.832947,New York
+DEL_0496,"5192 Lexington Ave, New York",40.832337,-73.774202,New York
+DEL_0497,"4383 Elm St, New York",40.782041,-73.874796,New York
+DEL_0498,"6480 Lexington Ave, New York",40.774565,-73.630484,New York
+DEL_0499,"7290 Madison Ave, New York",40.636798,-73.994545,New York
+DEL_0500,"9617 Oak St, New York",40.529923,-74.294108,New York
+DEL_0501,"7378 Washington St, New York",40.771351,-74.178145,New York
+DEL_0502,"2742 Broadway, New York",40.702406,-73.621448,New York
+DEL_0503,"379 Broadway, New York",40.99387,-73.477326,New York
+DEL_0504,"3845 Lexington Ave, New York",41.007873,-73.434783,New York
+DEL_0505,"1312 5th Ave, New York",40.791454,-74.220655,New York
+DEL_0506,"2735 Washington St, New York",40.532549,-73.674081,New York
+DEL_0507,"1688 Park Ave, New York",40.722102,-73.976017,New York
+DEL_0508,"1046 Market St, New York",40.613868,-74.108018,New York
+DEL_0509,"8986 Main St, New York",40.781946,-74.256835,New York
+DEL_0510,"432 Washington St, New York",40.759131,-73.646804,New York
+DEL_0511,"8585 Park Ave, New York",40.328361,-74.372383,New York
+DEL_0512,"1703 Lexington Ave, New York",40.834532,-73.681774,New York
+DEL_0513,"2545 Park Ave, New York",40.624531,-74.480998,New York
+DEL_0514,"6388 Lexington Ave, New York",40.970804,-74.198797,New York
+DEL_0515,"3758 5th Ave, New York",40.647711,-73.93016,New York
+DEL_0516,"4656 Market St, New York",40.592722,-74.214263,New York
+DEL_0517,"2072 Broadway, New York",40.558241,-73.564355,New York
+DEL_0518,"8631 Broadway, New York",40.921739,-73.869432,New York
+DEL_0519,"469 Main St, New York",40.318848,-73.868559,New York
+DEL_0520,"5847 Madison Ave, New York",40.80725,-74.309823,New York
+DEL_0521,"7802 Market St, New York",40.759414,-73.756052,New York
+DEL_0522,"8857 Lexington Ave, New York",40.815388,-74.167682,New York
+DEL_0523,"8988 Market St, New York",40.71519,-73.832388,New York
+DEL_0524,"2214 Oak St, New York",40.723512,-73.707846,New York
+DEL_0525,"2901 Elm St, New York",40.784094,-73.827024,New York
+DEL_0526,"9791 Market St, New York",40.8608,-74.259559,New York
+DEL_0527,"9241 Washington St, New York",40.721806,-74.085003,New York
+DEL_0528,"8577 Oak St, New York",40.90088,-73.895886,New York
+DEL_0529,"5074 Madison Ave, New York",40.678888,-74.310707,New York
+DEL_0530,"7892 Oak St, New York",40.425069,-73.932229,New York
+DEL_0531,"3722 Park Ave, New York",40.583572,-73.847656,New York
+DEL_0532,"7240 Lexington Ave, New York",40.416739,-73.627342,New York
+DEL_0533,"5993 Washington St, New York",40.832415,-73.982423,New York
+DEL_0534,"4257 Broadway, New York",41.016054,-73.780553,New York
+DEL_0535,"4974 Main St, New York",40.627214,-73.987559,New York
+DEL_0536,"2 Oak St, New York",40.358877,-73.753033,New York
+DEL_0537,"2234 Madison Ave, New York",40.659475,-74.476003,New York
+DEL_0538,"4699 Market St, New York",40.499856,-73.798977,New York
+DEL_0539,"8768 Main St, New York",41.003575,-74.001145,New York
+DEL_0540,"8060 Market St, New York",40.535854,-74.343724,New York
+DEL_0541,"4909 Main St, New York",40.967686,-73.899158,New York
+DEL_0542,"7053 Lexington Ave, New York",40.653315,-74.141083,New York
+DEL_0543,"9782 5th Ave, New York",40.83385,-73.85284,New York
+DEL_0544,"119 Oak St, New York",40.551253,-74.277551,New York
+DEL_0545,"6122 5th Ave, New York",40.516061,-74.117301,New York
+DEL_0546,"6746 Oak St, New York",40.588514,-73.621366,New York
+DEL_0547,"7162 Washington St, New York",40.622029,-74.303056,New York
+DEL_0548,"4095 Broadway, New York",40.497755,-74.049732,New York
+DEL_0549,"6386 Washington St, New York",40.384489,-74.020291,New York
+DEL_0550,"3615 Lexington Ave, New York",40.472042,-73.730589,New York
+DEL_0551,"1298 Washington St, New York",40.733802,-73.501815,New York
+DEL_0552,"3925 Oak St, New York",40.671683,-74.750441,New York
+DEL_0553,"4455 Lexington Ave, New York",40.975445,-73.886689,New York
+DEL_0554,"8716 Lexington Ave, New York",40.831162,-74.244322,New York
+DEL_0555,"6766 5th Ave, New York",40.70508,-73.961677,New York
+DEL_0556,"1122 Broadway, New York",40.669949,-74.418272,New York
+DEL_0557,"2239 Lexington Ave, New York",41.211663,-73.807316,New York
+DEL_0558,"1809 Market St, New York",40.788581,-73.693679,New York
+DEL_0559,"7419 Lexington Ave, New York",40.828871,-74.166977,New York
+DEL_0560,"8061 5th Ave, New York",40.937986,-73.803421,New York
+DEL_0561,"5254 Main St, New York",40.597613,-73.818207,New York
+DEL_0562,"2493 Main St, New York",40.669454,-73.956443,New York
+DEL_0563,"8765 Main St, New York",40.820845,-73.680697,New York
+DEL_0564,"3047 Park Ave, New York",40.596404,-73.919245,New York
+DEL_0565,"4623 Lexington Ave, New York",41.075994,-74.047848,New York
+DEL_0566,"2049 Market St, New York",40.748216,-73.527201,New York
+DEL_0567,"135 5th Ave, New York",40.827661,-74.356377,New York
+DEL_0568,"1478 Broadway, New York",40.569471,-73.842081,New York
+DEL_0569,"242 Market St, New York",40.789017,-73.967353,New York
+DEL_0570,"3559 Madison Ave, New York",41.10221,-74.152782,New York
+DEL_0571,"6886 Lexington Ave, New York",40.699392,-74.472648,New York
+DEL_0572,"8166 Madison Ave, New York",40.921928,-74.195894,New York
+DEL_0573,"7598 Main St, New York",40.903275,-73.779695,New York
+DEL_0574,"5411 Park Ave, New York",41.136061,-73.851662,New York
+DEL_0575,"2394 Main St, New York",40.64864,-73.89817,New York
+DEL_0576,"4367 Washington St, New York",40.575998,-73.930133,New York
+DEL_0577,"1170 Oak St, New York",40.676601,-74.02272,New York
+DEL_0578,"7703 Broadway, New York",40.550932,-73.934581,New York
+DEL_0579,"3149 Lexington Ave, New York",40.86131,-74.398717,New York
+DEL_0580,"6252 Main St, New York",40.588729,-73.966054,New York
+DEL_0581,"1999 5th Ave, New York",40.28986,-73.592325,New York
+DEL_0582,"6305 Market St, New York",40.584672,-74.228991,New York
+DEL_0583,"4050 Main St, New York",40.675441,-73.973345,New York
+DEL_0584,"3264 Market St, New York",40.576499,-73.772948,New York
+DEL_0585,"1540 Oak St, New York",40.784819,-74.205019,New York
+DEL_0586,"3416 Market St, New York",40.618673,-74.366549,New York
+DEL_0587,"6376 Lexington Ave, New York",40.486973,-73.913865,New York
+DEL_0588,"5294 Broadway, New York",40.563815,-73.577107,New York
+DEL_0589,"692 Oak St, New York",40.725579,-74.327577,New York
+DEL_0590,"8535 Park Ave, New York",40.506791,-73.7557,New York
+DEL_0591,"4151 Market St, New York",40.699014,-73.770195,New York
+DEL_0592,"4896 5th Ave, New York",40.646766,-74.139172,New York
+DEL_0593,"5906 Main St, New York",40.914502,-74.210091,New York
+DEL_0594,"3569 Park Ave, New York",40.800918,-74.056343,New York
+DEL_0595,"3867 Washington St, New York",40.871129,-73.573731,New York
+DEL_0596,"5317 Main St, New York",40.642137,-74.13606,New York
+DEL_0597,"2743 Lexington Ave, New York",40.832765,-74.263201,New York
+DEL_0598,"9580 Park Ave, New York",41.004055,-73.662268,New York
+DEL_0599,"6485 5th Ave, New York",40.532778,-74.382322,New York
+DEL_0600,"147 Main St, New York",40.503687,-74.278264,New York
+DEL_0601,"9521 Market St, New York",40.857261,-73.637749,New York
+DEL_0602,"9769 Broadway, New York",40.855165,-74.062145,New York
+DEL_0603,"6085 Park Ave, New York",40.774511,-74.212753,New York
+DEL_0604,"4076 Broadway, New York",40.910495,-73.903303,New York
+DEL_0605,"8191 Park Ave, New York",40.852115,-74.178941,New York
+DEL_0606,"5545 Main St, New York",40.682422,-73.833644,New York
+DEL_0607,"980 Madison Ave, New York",40.972892,-74.15055,New York
+DEL_0608,"2522 Oak St, New York",40.853422,-74.175265,New York
+DEL_0609,"1760 Broadway, New York",41.094276,-74.104607,New York
+DEL_0610,"7993 5th Ave, New York",40.828747,-73.966633,New York
+DEL_0611,"5190 Oak St, New York",41.182224,-73.95135,New York
+DEL_0612,"5691 Market St, New York",40.619997,-73.853984,New York
+DEL_0613,"3162 Main St, New York",40.824015,-74.043432,New York
+DEL_0614,"6190 Madison Ave, New York",40.515545,-74.13151,New York
+DEL_0615,"2208 Lexington Ave, New York",40.871629,-74.421383,New York
+DEL_0616,"647 Market St, New York",40.668107,-73.769513,New York
+DEL_0617,"7169 Oak St, New York",40.695954,-73.489291,New York
+DEL_0618,"4829 Oak St, New York",40.398449,-74.234525,New York
+DEL_0619,"8030 5th Ave, New York",40.295749,-73.532083,New York
+DEL_0620,"9285 Broadway, New York",40.542532,-74.478308,New York
+DEL_0621,"8907 Madison Ave, New York",40.602544,-74.337082,New York
+DEL_0622,"5304 Market St, New York",40.60383,-73.996199,New York
+DEL_0623,"4511 Elm St, New York",40.857831,-74.04752,New York
+DEL_0624,"9086 Broadway, New York",40.717357,-74.14425,New York
+DEL_0625,"1129 Oak St, New York",40.440422,-74.444938,New York
+DEL_0626,"2540 Market St, New York",40.647127,-73.98588,New York
+DEL_0627,"4845 Lexington Ave, New York",40.63377,-74.436092,New York
+DEL_0628,"8874 Madison Ave, New York",40.749088,-73.618701,New York
+DEL_0629,"7440 Main St, New York",40.692143,-74.143759,New York
+DEL_0630,"8290 Washington St, New York",40.7019,-74.26852,New York
+DEL_0631,"3040 Main St, New York",40.502188,-73.898695,New York
+DEL_0632,"5966 Elm St, New York",40.891236,-74.040966,New York
+DEL_0633,"3913 Madison Ave, New York",40.357167,-73.922006,New York
+DEL_0634,"1038 Oak St, New York",41.085301,-74.063977,New York
+DEL_0635,"6349 5th Ave, New York",40.680756,-74.213432,New York
+DEL_0636,"8587 Market St, New York",40.79953,-74.165498,New York
+DEL_0637,"9036 Broadway, New York",40.896854,-74.162312,New York
+DEL_0638,"4639 Madison Ave, New York",40.774384,-74.017016,New York
+DEL_0639,"6715 Madison Ave, New York",40.993,-73.908663,New York
+DEL_0640,"1810 Park Ave, New York",40.962711,-73.980179,New York
+DEL_0641,"8573 Park Ave, New York",40.682036,-74.015078,New York
+DEL_0642,"718 Broadway, New York",40.573807,-73.879618,New York
+DEL_0643,"2927 Main St, New York",40.588411,-73.979267,New York
+DEL_0644,"3311 Park Ave, New York",40.86689,-73.629577,New York
+DEL_0645,"7953 5th Ave, New York",40.742144,-73.801284,New York
+DEL_0646,"1618 Main St, New York",40.846473,-74.096894,New York
+DEL_0647,"9356 Washington St, New York",41.092584,-74.142978,New York
+DEL_0648,"8027 Oak St, New York",40.729195,-73.660344,New York
+DEL_0649,"9672 Lexington Ave, New York",40.97036,-74.002596,New York
+DEL_0650,"805 Madison Ave, New York",40.891253,-74.05924,New York
+DEL_0651,"3617 Elm St, New York",40.62475,-74.29429,New York
+DEL_0652,"1162 Main St, New York",40.843229,-73.808887,New York
+DEL_0653,"3420 Market St, New York",40.610478,-73.94227,New York
+DEL_0654,"1311 Market St, New York",41.190456,-73.733424,New York
+DEL_0655,"995 Madison Ave, New York",40.55037,-73.76792,New York
+DEL_0656,"9143 Washington St, New York",40.551203,-74.694217,New York
+DEL_0657,"6047 Main St, New York",40.709122,-73.634414,New York
+DEL_0658,"4356 Oak St, New York",40.964592,-73.916328,New York
+DEL_0659,"667 Park Ave, New York",40.615191,-73.890367,New York
+DEL_0660,"4980 Park Ave, New York",40.664303,-74.1281,New York
+DEL_0661,"3538 Oak St, New York",40.904152,-74.131043,New York
+DEL_0662,"1592 Park Ave, New York",40.915906,-74.146768,New York
+DEL_0663,"3785 Oak St, New York",41.083699,-74.395992,New York
+DEL_0664,"6314 5th Ave, New York",40.540409,-74.042932,New York
+DEL_0665,"3165 Oak St, New York",40.355315,-74.617145,New York
+DEL_0666,"4076 Elm St, New York",40.356871,-74.075432,New York
+DEL_0667,"2932 Oak St, New York",40.664744,-73.926843,New York
+DEL_0668,"9145 Washington St, New York",40.677304,-73.934802,New York
+DEL_0669,"1729 Elm St, New York",40.63168,-73.836082,New York
+DEL_0670,"5865 Market St, New York",40.819883,-74.083658,New York
+DEL_0671,"6998 Park Ave, New York",40.808838,-74.051318,New York
+DEL_0672,"2734 Broadway, New York",40.438507,-73.790994,New York
+DEL_0673,"9011 Washington St, New York",40.54941,-73.793531,New York
+DEL_0674,"8269 Madison Ave, New York",40.771183,-74.026092,New York
+DEL_0675,"2592 Oak St, New York",40.374603,-73.63999,New York
+DEL_0676,"9830 Market St, New York",40.647374,-73.855159,New York
+DEL_0677,"5773 Madison Ave, New York",40.692264,-74.070522,New York
+DEL_0678,"9013 Madison Ave, New York",40.74754,-73.999684,New York
+DEL_0679,"6091 Washington St, New York",40.664693,-74.019149,New York
+DEL_0680,"7055 Madison Ave, New York",40.789749,-73.887664,New York
+DEL_0681,"9969 5th Ave, New York",40.720612,-73.858398,New York
+DEL_0682,"9227 Oak St, New York",40.636391,-73.477126,New York
+DEL_0683,"3505 Washington St, New York",40.980474,-73.824761,New York
+DEL_0684,"9016 Lexington Ave, New York",40.362966,-73.861944,New York
+DEL_0685,"5899 Market St, New York",40.652145,-74.238641,New York
+DEL_0686,"7332 Washington St, New York",40.647557,-74.212292,New York
+DEL_0687,"4 Main St, New York",40.804116,-73.621865,New York
+DEL_0688,"4661 Elm St, New York",40.861634,-73.349325,New York
+DEL_0689,"268 Oak St, New York",40.43287,-74.126289,New York
+DEL_0690,"2214 Lexington Ave, New York",40.542886,-73.713769,New York
+DEL_0691,"108 Lexington Ave, New York",40.673061,-73.96095,New York
+DEL_0692,"3636 5th Ave, New York",40.826978,-74.351815,New York
+DEL_0693,"5160 Main St, New York",40.600845,-73.768942,New York
+DEL_0694,"4522 Oak St, New York",40.614045,-74.413347,New York
+DEL_0695,"8377 Oak St, New York",40.55023,-74.074048,New York
+DEL_0696,"9350 Elm St, New York",40.742847,-74.022833,New York
+DEL_0697,"2535 Park Ave, New York",40.60213,-73.782717,New York
+DEL_0698,"619 Market St, New York",40.689546,-73.956224,New York
+DEL_0699,"5828 Broadway, New York",40.611727,-73.647312,New York
+DEL_0700,"2268 Lexington Ave, New York",40.642236,-73.988245,New York
+DEL_0701,"6015 Elm St, New York",40.899286,-73.939432,New York
+DEL_0702,"4094 5th Ave, New York",40.758762,-74.475154,New York
+DEL_0703,"4199 Lexington Ave, New York",40.835437,-73.992787,New York
+DEL_0704,"1506 Elm St, New York",40.810379,-73.962449,New York
+DEL_0705,"6551 Elm St, New York",40.612051,-73.793416,New York
+DEL_0706,"3563 Park Ave, New York",40.748498,-74.312498,New York
+DEL_0707,"5320 Market St, New York",40.948569,-74.346037,New York
+DEL_0708,"2833 Market St, New York",40.87513,-73.652544,New York
+DEL_0709,"9441 Park Ave, New York",40.513467,-74.035181,New York
+DEL_0710,"9753 Lexington Ave, New York",40.67389,-74.046641,New York
+DEL_0711,"613 Elm St, New York",41.042573,-74.266224,New York
+DEL_0712,"6252 Park Ave, New York",40.657563,-73.648648,New York
+DEL_0713,"917 Madison Ave, New York",40.654611,-74.228443,New York
+DEL_0714,"5701 Washington St, New York",40.76019,-73.814493,New York
+DEL_0715,"6825 Park Ave, New York",40.642018,-73.874222,New York
+DEL_0716,"3715 Elm St, New York",40.464761,-74.320019,New York
+DEL_0717,"188 Washington St, New York",40.633505,-73.865748,New York
+DEL_0718,"887 Lexington Ave, New York",40.850007,-74.286975,New York
+DEL_0719,"8592 Main St, New York",40.843326,-73.96642,New York
+DEL_0720,"5232 Oak St, New York",40.554385,-74.323148,New York
+DEL_0721,"9256 Broadway, New York",40.75421,-73.69946,New York
+DEL_0722,"5355 Oak St, New York",40.7192,-74.228238,New York
+DEL_0723,"3618 Broadway, New York",40.376219,-73.642427,New York
+DEL_0724,"828 Washington St, New York",40.900521,-73.934194,New York
+DEL_0725,"7301 Elm St, New York",40.979105,-73.952773,New York
+DEL_0726,"9425 Oak St, New York",40.617118,-73.87404,New York
+DEL_0727,"1476 5th Ave, New York",40.5633,-74.242674,New York
+DEL_0728,"7077 Lexington Ave, New York",40.851828,-73.802579,New York
+DEL_0729,"6461 Broadway, New York",40.483298,-74.299997,New York
+DEL_0730,"2166 Madison Ave, New York",40.632611,-74.175083,New York
+DEL_0731,"1353 Market St, New York",40.798654,-73.994578,New York
+DEL_0732,"9363 Main St, New York",40.922693,-73.930585,New York
+DEL_0733,"8981 Washington St, New York",40.59666,-74.455537,New York
+DEL_0734,"4302 Park Ave, New York",40.745134,-74.412559,New York
+DEL_0735,"6530 Oak St, New York",40.59443,-74.17756,New York
+DEL_0736,"7119 Broadway, New York",40.621192,-74.318832,New York
+DEL_0737,"2210 Market St, New York",40.58212,-73.733609,New York
+DEL_0738,"9164 5th Ave, New York",40.918773,-73.641712,New York
+DEL_0739,"7994 Washington St, New York",40.714628,-73.941529,New York
+DEL_0740,"9361 5th Ave, New York",40.921919,-74.355588,New York
+DEL_0741,"9195 Elm St, New York",40.857958,-73.696422,New York
+DEL_0742,"8590 5th Ave, New York",40.552627,-73.677335,New York
+DEL_0743,"3971 Park Ave, New York",41.08356,-73.821099,New York
+DEL_0744,"4363 Washington St, New York",40.819918,-74.27218,New York
+DEL_0745,"5299 Elm St, New York",40.905449,-74.249791,New York
+DEL_0746,"1468 Park Ave, New York",40.77942,-73.894017,New York
+DEL_0747,"6777 Washington St, New York",40.118881,-73.909537,New York
+DEL_0748,"5985 Madison Ave, New York",41.185138,-74.503252,New York
+DEL_0749,"3121 Madison Ave, New York",40.70309,-74.468845,New York
+DEL_0750,"5645 Elm St, New York",40.551693,-74.464724,New York
+DEL_0751,"397 Lexington Ave, New York",40.741546,-73.817354,New York
+DEL_0752,"2774 Madison Ave, New York",40.786627,-74.227112,New York
+DEL_0753,"7246 Elm St, New York",40.602999,-73.941279,New York
+DEL_0754,"2390 Market St, New York",40.550832,-74.321866,New York
+DEL_0755,"736 5th Ave, New York",40.669714,-74.230565,New York
+DEL_0756,"3272 Madison Ave, New York",40.786955,-73.697289,New York
+DEL_0757,"2556 Park Ave, New York",41.180833,-73.925639,New York
+DEL_0758,"1842 Main St, New York",40.829191,-74.148463,New York
+DEL_0759,"3983 Elm St, New York",40.615975,-73.700769,New York
+DEL_0760,"2420 Lexington Ave, New York",40.663011,-73.98866,New York
+DEL_0761,"226 Madison Ave, New York",40.933156,-74.069855,New York
+DEL_0762,"1824 Lexington Ave, New York",40.983146,-73.869786,New York
+DEL_0763,"7374 Market St, New York",40.794854,-74.16008,New York
+DEL_0764,"373 Madison Ave, New York",40.804534,-74.107988,New York
+DEL_0765,"3425 Oak St, New York",40.797378,-74.030205,New York
+DEL_0766,"3472 5th Ave, New York",40.887,-74.013552,New York
+DEL_0767,"8953 Oak St, New York",41.079982,-74.0715,New York
+DEL_0768,"4238 Oak St, New York",40.61648,-73.923726,New York
+DEL_0769,"7914 Elm St, New York",40.907011,-73.751629,New York
+DEL_0770,"2316 Main St, New York",40.742851,-73.925396,New York
+DEL_0771,"6171 Elm St, New York",40.774158,-74.262219,New York
+DEL_0772,"8632 Main St, New York",40.897318,-74.305003,New York
+DEL_0773,"4186 Broadway, New York",40.518926,-73.99292,New York
+DEL_0774,"985 Lexington Ave, New York",40.655168,-73.816747,New York
+DEL_0775,"3289 Elm St, New York",40.793404,-73.973148,New York
+DEL_0776,"4445 Main St, New York",40.510001,-73.999686,New York
+DEL_0777,"7618 Main St, New York",40.703338,-73.953184,New York
+DEL_0778,"1092 Washington St, New York",40.635316,-73.881722,New York
+DEL_0779,"4446 Madison Ave, New York",40.650357,-73.903996,New York
+DEL_0780,"1768 Main St, New York",40.856232,-74.133078,New York
+DEL_0781,"4793 Washington St, New York",40.573672,-73.892764,New York
+DEL_0782,"3788 Washington St, New York",40.474764,-73.741748,New York
+DEL_0783,"8332 Park Ave, New York",40.714775,-74.033279,New York
+DEL_0784,"5169 Market St, New York",40.811181,-73.89096,New York
+DEL_0785,"9783 Oak St, New York",40.713974,-73.797146,New York
+DEL_0786,"1443 Broadway, New York",40.591649,-73.836667,New York
+DEL_0787,"3259 Oak St, New York",40.518453,-73.884615,New York
+DEL_0788,"7504 Oak St, New York",40.653724,-74.317656,New York
+DEL_0789,"353 Main St, New York",40.759042,-74.014183,New York
+DEL_0790,"4054 Oak St, New York",40.434831,-74.508436,New York
+DEL_0791,"4996 Madison Ave, New York",40.685365,-73.621334,New York
+DEL_0792,"8028 Washington St, New York",40.770641,-74.164861,New York
+DEL_0793,"2573 Main St, New York",40.907731,-73.790345,New York
+DEL_0794,"5682 Madison Ave, New York",40.941913,-73.843432,New York
+DEL_0795,"5823 Lexington Ave, New York",40.872422,-73.832209,New York
+DEL_0796,"3870 Oak St, New York",40.626763,-74.395195,New York
+DEL_0797,"4520 Main St, New York",40.618902,-73.743347,New York
+DEL_0798,"4222 Washington St, New York",40.644149,-74.040577,New York
+DEL_0799,"483 Oak St, New York",40.502749,-74.136999,New York
+DEL_0800,"4591 5th Ave, New York",40.711162,-73.888914,New York
+DEL_0801,"2486 Madison Ave, New York",40.630158,-74.131638,New York
+DEL_0802,"6437 Broadway, New York",40.864543,-73.928681,New York
+DEL_0803,"1439 Washington St, New York",40.793642,-73.642706,New York
+DEL_0804,"8532 Elm St, New York",40.621796,-74.017652,New York
+DEL_0805,"3727 Washington St, New York",40.812108,-74.213165,New York
+DEL_0806,"3939 Elm St, New York",40.75407,-74.000724,New York
+DEL_0807,"2503 Washington St, New York",41.213214,-73.98226,New York
+DEL_0808,"5119 Elm St, New York",40.921258,-73.808716,New York
+DEL_0809,"5396 Market St, New York",40.504411,-74.374168,New York
+DEL_0810,"8884 Broadway, New York",40.757307,-73.707121,New York
+DEL_0811,"3388 Broadway, New York",40.764677,-73.987256,New York
+DEL_0812,"9520 Oak St, New York",40.661613,-74.320717,New York
+DEL_0813,"3315 Broadway, New York",40.539733,-74.391637,New York
+DEL_0814,"5063 Oak St, New York",40.514053,-74.131037,New York
+DEL_0815,"2216 Washington St, New York",40.852623,-74.111796,New York
+DEL_0816,"2379 Elm St, New York",40.758859,-73.973855,New York
+DEL_0817,"2590 Madison Ave, New York",40.802719,-74.251984,New York
+DEL_0818,"1112 Oak St, New York",40.903646,-74.340498,New York
+DEL_0819,"8733 Park Ave, New York",40.632113,-74.010969,New York
+DEL_0820,"3017 Madison Ave, New York",40.849763,-73.678127,New York
+DEL_0821,"2385 Main St, New York",40.851184,-73.669425,New York
+DEL_0822,"5222 Washington St, New York",40.563399,-73.723039,New York
+DEL_0823,"6738 Lexington Ave, New York",40.896342,-74.575614,New York
+DEL_0824,"7259 Lexington Ave, New York",40.673077,-73.862891,New York
+DEL_0825,"2490 5th Ave, New York",40.619933,-74.26411,New York
+DEL_0826,"1750 Broadway, New York",41.093732,-73.979605,New York
+DEL_0827,"3027 Main St, New York",40.737738,-74.317159,New York
+DEL_0828,"4373 Elm St, New York",40.602465,-74.219424,New York
+DEL_0829,"9291 Elm St, New York",40.90721,-73.886044,New York
+DEL_0830,"3784 Elm St, New York",40.609996,-73.872764,New York
+DEL_0831,"3805 5th Ave, New York",40.667121,-73.95026,New York
+DEL_0832,"428 Madison Ave, New York",40.754199,-73.906099,New York
+DEL_0833,"1303 Market St, New York",40.766791,-73.905913,New York
+DEL_0834,"2197 Oak St, New York",40.939072,-73.853733,New York
+DEL_0835,"9908 Market St, New York",40.652097,-74.029284,New York
+DEL_0836,"6127 Broadway, New York",40.934452,-73.979276,New York
+DEL_0837,"6349 Market St, New York",40.645409,-74.156027,New York
+DEL_0838,"7764 Broadway, New York",40.761996,-74.209207,New York
+DEL_0839,"2684 5th Ave, New York",40.944295,-74.252698,New York
+DEL_0840,"3708 Main St, New York",40.979119,-74.073802,New York
+DEL_0841,"6695 Main St, New York",40.518793,-73.961031,New York
+DEL_0842,"4422 Washington St, New York",40.541081,-73.99783,New York
+DEL_0843,"3647 5th Ave, New York",40.608738,-73.781348,New York
+DEL_0844,"3352 Park Ave, New York",40.73744,-74.288516,New York
+DEL_0845,"2902 Market St, New York",40.605226,-73.838428,New York
+DEL_0846,"8028 Madison Ave, New York",40.944708,-74.016762,New York
+DEL_0847,"7497 5th Ave, New York",40.52462,-73.755447,New York
+DEL_0848,"7006 Washington St, New York",40.839028,-73.695425,New York
+DEL_0849,"686 Elm St, New York",40.76509,-74.12975,New York
+DEL_0850,"6233 Madison Ave, New York",40.805933,-73.928429,New York
+DEL_0851,"6458 Elm St, New York",40.609219,-73.958782,New York
+DEL_0852,"9371 Elm St, New York",40.67766,-73.829255,New York
+DEL_0853,"8785 Oak St, New York",40.80145,-74.255972,New York
+DEL_0854,"631 Oak St, New York",40.505156,-74.027349,New York
+DEL_0855,"1792 Market St, New York",40.718713,-73.82511,New York
+DEL_0856,"7486 Main St, New York",40.805287,-73.659258,New York
+DEL_0857,"4026 Oak St, New York",40.628621,-74.130627,New York
+DEL_0858,"8813 Washington St, New York",40.539861,-73.82786,New York
+DEL_0859,"644 Oak St, New York",40.716719,-74.446617,New York
+DEL_0860,"6348 Oak St, New York",40.749226,-73.942777,New York
+DEL_0861,"808 5th Ave, New York",40.686792,-73.935483,New York
+DEL_0862,"4771 Market St, New York",40.492938,-73.615913,New York
+DEL_0863,"6522 Lexington Ave, New York",40.781315,-74.427623,New York
+DEL_0864,"4685 Market St, New York",40.711737,-73.909319,New York
+DEL_0865,"2728 Washington St, New York",40.512272,-73.879152,New York
+DEL_0866,"4824 Elm St, New York",41.015669,-74.159172,New York
+DEL_0867,"894 Oak St, New York",40.789996,-73.956414,New York
+DEL_0868,"2331 Market St, New York",40.887267,-74.031873,New York
+DEL_0869,"7401 Park Ave, New York",40.520599,-73.791068,New York
+DEL_0870,"8203 Park Ave, New York",40.531312,-73.576019,New York
+DEL_0871,"2946 Elm St, New York",40.81384,-74.148362,New York
+DEL_0872,"8953 Broadway, New York",40.912557,-74.008184,New York
+DEL_0873,"6441 Washington St, New York",40.672907,-74.167848,New York
+DEL_0874,"5300 Market St, New York",40.374389,-73.862331,New York
+DEL_0875,"409 Broadway, New York",40.419444,-74.194573,New York
+DEL_0876,"7434 Elm St, New York",40.79079,-74.125015,New York
+DEL_0877,"3309 Market St, New York",40.741116,-74.294505,New York
+DEL_0878,"1478 Lexington Ave, New York",40.650015,-73.967162,New York
+DEL_0879,"5310 Broadway, New York",40.541364,-73.605137,New York
+DEL_0880,"2025 Park Ave, New York",40.597949,-73.678339,New York
+DEL_0881,"1871 Market St, New York",40.682565,-74.37884,New York
+DEL_0882,"5947 Park Ave, New York",40.507953,-73.964144,New York
+DEL_0883,"8583 Washington St, New York",40.898886,-73.585309,New York
+DEL_0884,"8384 Elm St, New York",40.735902,-74.285841,New York
+DEL_0885,"2620 Washington St, New York",40.762977,-74.20216,New York
+DEL_0886,"9017 Washington St, New York",40.783465,-74.229796,New York
+DEL_0887,"720 Broadway, New York",40.336301,-73.692972,New York
+DEL_0888,"5492 Elm St, New York",40.672004,-73.994195,New York
+DEL_0889,"2460 Broadway, New York",40.892386,-73.559383,New York
+DEL_0890,"2370 Broadway, New York",40.842544,-73.981516,New York
+DEL_0891,"841 Washington St, New York",40.796201,-74.076072,New York
+DEL_0892,"5048 Lexington Ave, New York",40.719307,-73.971565,New York
+DEL_0893,"7312 Lexington Ave, New York",40.571066,-74.000967,New York
+DEL_0894,"2961 Park Ave, New York",40.778944,-73.883101,New York
+DEL_0895,"2156 5th Ave, New York",40.791597,-74.324297,New York
+DEL_0896,"58 Elm St, New York",40.934288,-73.733519,New York
+DEL_0897,"4147 Main St, New York",40.695476,-73.897722,New York
+DEL_0898,"7515 Market St, New York",40.673781,-73.827253,New York
+DEL_0899,"8170 Oak St, New York",40.566084,-73.686886,New York
+DEL_0900,"95 Elm St, New York",40.839324,-73.833558,New York
+DEL_0901,"8085 5th Ave, New York",40.693872,-74.341791,New York
+DEL_0902,"3554 Elm St, New York",40.872068,-74.333933,New York
+DEL_0903,"7795 Market St, New York",40.874237,-74.189541,New York
+DEL_0904,"6720 Market St, New York",40.426845,-74.005762,New York
+DEL_0905,"1301 Elm St, New York",40.925917,-74.235532,New York
+DEL_0906,"9833 Main St, New York",41.000914,-73.849887,New York
+DEL_0907,"4010 Oak St, New York",40.741045,-74.109551,New York
+DEL_0908,"4557 Elm St, New York",40.646873,-73.903746,New York
+DEL_0909,"9135 5th Ave, New York",40.86524,-74.147079,New York
+DEL_0910,"802 Broadway, New York",40.567482,-74.056828,New York
+DEL_0911,"2430 Main St, New York",40.963904,-74.295264,New York
+DEL_0912,"5719 Main St, New York",40.918652,-73.99595,New York
+DEL_0913,"2382 Main St, New York",40.415009,-74.115734,New York
+DEL_0914,"9472 Elm St, New York",40.82265,-73.577694,New York
+DEL_0915,"4890 Madison Ave, New York",40.473634,-74.676142,New York
+DEL_0916,"1437 Main St, New York",40.476845,-73.737291,New York
+DEL_0917,"1785 Washington St, New York",40.389603,-73.65009,New York
+DEL_0918,"2921 Broadway, New York",40.931684,-73.960589,New York
+DEL_0919,"4660 Elm St, New York",40.599941,-73.992864,New York
+DEL_0920,"9748 Elm St, New York",40.822906,-73.897016,New York
+DEL_0921,"9211 Broadway, New York",41.026252,-74.067829,New York
+DEL_0922,"7461 Elm St, New York",40.478414,-74.357162,New York
+DEL_0923,"5902 Main St, New York",40.410585,-73.959343,New York
+DEL_0924,"1526 Lexington Ave, New York",40.670571,-73.998238,New York
+DEL_0925,"5290 Madison Ave, New York",40.616033,-74.269896,New York
+DEL_0926,"6209 Park Ave, New York",40.823491,-74.591491,New York
+DEL_0927,"7002 Oak St, New York",40.568368,-73.819045,New York
+DEL_0928,"1064 Lexington Ave, New York",40.550487,-73.912896,New York
+DEL_0929,"7714 Broadway, New York",40.568609,-74.114358,New York
+DEL_0930,"2000 Lexington Ave, New York",40.816389,-74.309755,New York
+DEL_0931,"5394 Oak St, New York",40.847084,-73.995084,New York
+DEL_0932,"6780 Oak St, New York",40.939185,-73.956521,New York
+DEL_0933,"3439 5th Ave, New York",40.5201,-73.595241,New York
+DEL_0934,"954 Park Ave, New York",40.535153,-74.059997,New York
+DEL_0935,"9362 Oak St, New York",40.885306,-74.452874,New York
+DEL_0936,"1437 Market St, New York",40.9722,-74.279575,New York
+DEL_0937,"9909 Lexington Ave, New York",40.630818,-73.937336,New York
+DEL_0938,"6997 Elm St, New York",40.705285,-73.818406,New York
+DEL_0939,"5186 Lexington Ave, New York",40.424366,-73.833079,New York
+DEL_0940,"8609 Elm St, New York",40.858249,-73.761344,New York
+DEL_0941,"5798 Broadway, New York",40.426375,-74.355178,New York
+DEL_0942,"9219 Market St, New York",40.651111,-74.32948,New York
+DEL_0943,"8515 Market St, New York",40.387761,-74.097628,New York
+DEL_0944,"8070 Broadway, New York",40.754979,-73.340659,New York
+DEL_0945,"9985 5th Ave, New York",40.81166,-73.589471,New York
+DEL_0946,"4760 5th Ave, New York",40.704845,-73.872987,New York
+DEL_0947,"26 Park Ave, New York",40.686469,-73.368199,New York
+DEL_0948,"393 Market St, New York",40.58927,-74.136733,New York
+DEL_0949,"1933 5th Ave, New York",40.856321,-73.956682,New York
+DEL_0950,"6794 Washington St, New York",40.636374,-73.77771,New York
+DEL_0951,"746 Madison Ave, New York",40.705386,-74.017457,New York
+DEL_0952,"5729 Oak St, New York",40.754346,-74.418215,New York
+DEL_0953,"3479 Main St, New York",40.425727,-73.747636,New York
+DEL_0954,"3297 Lexington Ave, New York",40.590825,-74.037604,New York
+DEL_0955,"4169 Park Ave, New York",41.003329,-74.026887,New York
+DEL_0956,"5043 Lexington Ave, New York",40.674946,-73.792995,New York
+DEL_0957,"8302 Oak St, New York",40.605005,-73.720054,New York
+DEL_0958,"5308 Main St, New York",40.870558,-73.570915,New York
+DEL_0959,"1866 Madison Ave, New York",40.588414,-73.681059,New York
+DEL_0960,"5593 Washington St, New York",40.812636,-74.321051,New York
+DEL_0961,"9322 Elm St, New York",40.24502,-74.195698,New York
+DEL_0962,"478 Broadway, New York",40.765475,-73.902039,New York
+DEL_0963,"3179 Madison Ave, New York",40.702155,-74.017916,New York
+DEL_0964,"5537 Market St, New York",40.690098,-73.760871,New York
+DEL_0965,"7775 Main St, New York",40.454009,-73.942225,New York
+DEL_0966,"2225 Market St, New York",40.564557,-74.221492,New York
+DEL_0967,"2546 Market St, New York",40.924733,-74.23973,New York
+DEL_0968,"8798 Madison Ave, New York",40.687662,-73.540449,New York
+DEL_0969,"7578 Washington St, New York",40.863805,-74.11415,New York
+DEL_0970,"918 Oak St, New York",40.645706,-74.297716,New York
+DEL_0971,"4905 Elm St, New York",40.94715,-73.765593,New York
+DEL_0972,"5170 Oak St, New York",40.836512,-73.816586,New York
+DEL_0973,"8780 Main St, New York",40.573246,-74.373952,New York
+DEL_0974,"3413 Elm St, New York",40.813798,-73.794782,New York
+DEL_0975,"5435 Madison Ave, New York",41.002358,-74.053753,New York
+DEL_0976,"1085 Broadway, New York",40.650322,-74.062874,New York
+DEL_0977,"4596 Main St, New York",40.833655,-74.073055,New York
+DEL_0978,"5557 Washington St, New York",40.703388,-73.808452,New York
+DEL_0979,"8754 Broadway, New York",40.600037,-73.675311,New York
+DEL_0980,"9355 Elm St, New York",40.82687,-74.447572,New York
+DEL_0981,"6383 Broadway, New York",40.619943,-74.487203,New York
+DEL_0982,"9752 Park Ave, New York",40.677362,-74.124453,New York
+DEL_0983,"5051 Madison Ave, New York",40.863224,-74.215425,New York
+DEL_0984,"519 Lexington Ave, New York",40.782662,-73.87078,New York
+DEL_0985,"6781 Park Ave, New York",40.759141,-73.734983,New York
+DEL_0986,"8144 5th Ave, New York",41.085465,-73.97939,New York
+DEL_0987,"6089 Market St, New York",40.785805,-74.215249,New York
+DEL_0988,"4959 5th Ave, New York",40.529102,-73.76025,New York
+DEL_0989,"8604 Lexington Ave, New York",40.875237,-74.250749,New York
+DEL_0990,"2868 Park Ave, New York",40.477085,-74.16021,New York
+DEL_0991,"6132 Main St, New York",40.687326,-74.103253,New York
+DEL_0992,"3312 Park Ave, New York",40.741722,-73.788007,New York
+DEL_0993,"7271 Oak St, New York",40.796062,-73.87856,New York
+DEL_0994,"409 Market St, New York",40.271082,-74.389638,New York
+DEL_0995,"8193 Broadway, New York",40.569294,-74.156088,New York
+DEL_0996,"3117 Madison Ave, New York",40.86412,-74.214922,New York
+DEL_0997,"7922 Oak St, New York",40.832967,-74.192626,New York
+DEL_0998,"5085 Madison Ave, New York",40.496424,-74.280422,New York
+DEL_0999,"2348 Park Ave, New York",41.119695,-74.197917,New York
+DEL_1000,"8457 Broadway, New York",40.837302,-74.376397,New York

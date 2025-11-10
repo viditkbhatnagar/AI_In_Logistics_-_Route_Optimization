@@ -1,0 +1,51 @@
+delivery_id,address,latitude,longitude,city
+DEL_0001,"1825 Main St, Boston",40.810772,-74.152293,Boston
+DEL_0002,"4507 5th Ave, Boston",40.496979,-73.49691,Boston
+DEL_0003,"3658 Broadway, Boston",40.695751,-74.22679,Boston
+DEL_0004,"1680 Oak St, Boston",40.553299,-74.103981,Boston
+DEL_0005,"1425 Elm St, Boston",40.625842,-73.966977,Boston
+DEL_0006,"6913 Main St, Boston",40.754799,-73.977952,Boston
+DEL_0007,"489 Park Ave, Boston",40.976292,-73.640235,Boston
+DEL_0008,"3583 5th Ave, Boston",40.273321,-73.862557,Boston
+DEL_0009,"8280 Elm St, Boston",40.667567,-74.044953,Boston
+DEL_0010,"435 Oak St, Boston",40.446795,-73.652532,Boston
+DEL_0011,"3258 Oak St, Boston",40.708394,-73.921483,Boston
+DEL_0012,"6874 5th Ave, Boston",40.787937,-73.808117,Boston
+DEL_0013,"7360 Elm St, Boston",40.659935,-74.013093,Boston
+DEL_0014,"4558 Main St, Boston",40.72994,-73.848006,Boston
+DEL_0015,"2616 Washington St, Boston",40.687535,-74.01389,Boston
+DEL_0016,"5575 Lexington Ave, Boston",40.577831,-74.191028,Boston
+DEL_0017,"2548 5th Ave, Boston",40.883763,-73.630219,Boston
+DEL_0018,"5515 Park Ave, Boston",40.646463,-73.916725,Boston
+DEL_0019,"1520 Washington St, Boston",40.497817,-74.103235,Boston
+DEL_0020,"1585 Madison Ave, Boston",40.632306,-73.643675,Boston
+DEL_0021,"5636 Elm St, Boston",40.770998,-74.337227,Boston
+DEL_0022,"4334 Main St, Boston",40.320307,-74.254143,Boston
+DEL_0023,"7528 Oak St, Boston",40.743916,-73.928935,Boston
+DEL_0024,"2046 Washington St, Boston",40.847189,-74.442571,Boston
+DEL_0025,"1292 Oak St, Boston",40.814505,-73.999938,Boston
+DEL_0026,"4804 Elm St, Boston",40.79806,-73.849305,Boston
+DEL_0027,"5926 Elm St, Boston",41.134556,-73.751418,Boston
+DEL_0028,"3151 Park Ave, Boston",40.730172,-73.906376,Boston
+DEL_0029,"751 5th Ave, Boston",40.541083,-74.255088,Boston
+DEL_0030,"4742 Park Ave, Boston",40.37484,-74.330895,Boston
+DEL_0031,"3815 Park Ave, Boston",40.82745,-74.221535,Boston
+DEL_0032,"6228 Lexington Ave, Boston",40.798573,-73.696109,Boston
+DEL_0033,"7429 Madison Ave, Boston",40.750924,-73.864078,Boston
+DEL_0034,"2665 Madison Ave, Boston",40.551298,-74.03262,Boston
+DEL_0035,"5821 5th Ave, Boston",40.977474,-74.27316,Boston
+DEL_0036,"4375 Park Ave, Boston",40.883972,-73.595593,Boston
+DEL_0037,"9981 Broadway, Boston",40.795302,-74.406369,Boston
+DEL_0038,"8752 5th Ave, Boston",40.771691,-74.025283,Boston
+DEL_0039,"2678 Market St, Boston",40.797087,-73.831018,Boston
+DEL_0040,"6217 Lexington Ave, Boston",40.572313,-74.206601,Boston
+DEL_0041,"9126 5th Ave, Boston",40.685677,-74.235521,Boston
+DEL_0042,"5314 Main St, Boston",40.739915,-74.032961,Boston
+DEL_0043,"3753 Main St, Boston",41.18731,-74.249673,Boston
+DEL_0044,"5169 Washington St, Boston",40.57189,-73.905225,Boston
+DEL_0045,"4387 Park Ave, Boston",40.870044,-73.462307,Boston
+DEL_0046,"3457 Elm St, Boston",41.005218,-73.810192,Boston
+DEL_0047,"5156 5th Ave, Boston",40.765603,-73.792864,Boston
+DEL_0048,"8180 Washington St, Boston",40.602832,-74.081155,Boston
+DEL_0049,"7518 Broadway, Boston",40.445697,-74.060399,Boston
+DEL_0050,"4340 Broadway, Boston",40.886249,-74.055846,Boston
